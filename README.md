@@ -64,7 +64,40 @@ Hi ha dues baralles de cartes:
 
 Les cartes d'acció, amb dues accions a cada carta, i les cartes de ??, més petites.
 
+### Inici del joc
 
+Per començar el joc s'ha de muntar el taulell, amb totes les portes posades i cap rajola sobre el taulell.
+
+Cada persona tindrà les 8 fitxes del seu color i la casella de sortida del mateix color.
+
+En l'ordre en que es jugarà, cada persona col·locarà la seva casella de sortida en un del vèrtexs. Després de la primera persona, les següents l'han de col·locar en un vèrtex contigu a un altre on ja hi hagi una rajola de sortida. Sobre cada rajola de sortida es col·locarà una fitxa normal del color corresponent.
+
+A cada persona se li donarà dues cartes d'acció i cinc de ??.
+
+### Dinàmica del torn
+
+Cada persona, en el seu torn, disposa de dues cartes d'acció. Cada carta pot utilitzar-se per fer una de les dues accions que conté o es pot utilitzar per realitzar una acció genèrica. Un cop utilitzades, les cartes van a la pila de descart. 
+
+Per dur a terme algunes accions de les cartes es necessari utilitzar la propia carta però també una altra. Això està indicat a les cartes amb un *+1* a la cantonada superior dreta.
+
+Totes les accions genèriques costen una carta i són les següents:
+* Col·locar una nova rajola al taulell
+* Moure una fitxa pel taulell
+* Intentar obrir una porta
+* Intentar superar una prova
+* Col·locar una nova fitxa al taulell
+
+Quan a la persona ja no li queden més cartes, s'acaba el seu torn i agafa dues cartes de la baralla que podrà utilitzar en el següent torn.
+
+### Col·locar rajoles al taulell
+
+Les rajoles es poden col·locar en qualsevol casella a la qual s'hi pugui accedir des de la seva rajola de sortida o des d'on tingui alguna fitxa
+
+Les rajoles son les peces bàsiques del laberint i en cada partida es col·loquen de manera diferent.
+
+Podem diferenciar els següents tipus de rajoles:
+* Rajoles blanques. No tenen cap dibuix. No permeten que s'hi faci un canvi de direcció en el moviment: si s'arriba per un costat només es pot seguir pel costat oposat.
+* Rajoles amb direccions: n'hi ha amb 
 
 ## Com col·laborar
 
@@ -72,6 +105,6 @@ Les cartes d'acció, amb dues accions a cada carta, i les cartes de ??, més pet
 
 ### Core
 
-### Takesi's castle
+### Takeshi's castle
 
 ### Labyrint
