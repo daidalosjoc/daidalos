@@ -7,7 +7,11 @@ Un joc de taula de codi obert
 
 ### Objectiu del joc
 
-Al daidalos es guanya arribant al centre del laberint. Depenent de la versió del joc, del número de persones que juguin o de quant de temps es vulgui jugar farà falta arribar-hi una o diverses vegades.
+Al daidalos s'hi guanya arribant al centre del laberint. Depenent de la versió del joc, del número de persones que juguin o de quant de temps es vulgui jugar farà falta arribar-hi una o diverses vegades.
+
+Per arribar al centre del taulell cal col·locar rajoles per anar construint un laberint que permeti travessar portes, proves i finalment el castell central.
+
+Tot i que pot haver versions col·laboratives, a la versió original totes les persones competeixen entre sí.
 
 ### Components del joc
 
