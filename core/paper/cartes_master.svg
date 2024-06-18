@@ -11,7 +11,7 @@
    sodipodi:docname="cartes_master.svg"
    width="793.70081"
    height="1122.5197"
-   inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
+   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -91,7 +91,7 @@
    x="26.909403"
    y="89.054314"
    width="114.32417"
-   height="23.676669"
+   height="23.676668"
    id="rect67" />
 	<defs
    id="defs38">
@@ -144,7 +144,7 @@
    x="26.909403"
    y="89.054314"
    width="114.32417"
-   height="23.676669"
+   height="23.676668"
    id="rect72" /><rect
    x="26.909403"
    y="89.054314"
@@ -188,8 +188,13 @@
    id="rect100" /><inkscape:path-effect
    effect="fill_between_many"
    method="originald"
-   linkedpaths="#path1,0,1|"
-   id="path-effect115" /><rect
+   linkedpaths="#path1,0,1"
+   id="path-effect115"
+   is_visible="true"
+   lpeversion="0"
+   join="true"
+   close="true"
+   autoreverse="true" /><rect
    x="26.909403"
    y="89.054314"
    width="116.01951"
@@ -264,11 +269,11 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';stroke-width:1.35001"
          id="tspan600">3</tspan></text><polygon
        class="st0"
-       points="85.09,74.68 85.09,74.1 85.09,54.2 85.09,53.62 84.59,53.33 67.36,43.38 66.86,43.09 66.36,43.38 49.12,53.33 48.62,53.62 48.62,54.2 48.62,74.1 48.62,74.68 49.12,74.96 66.36,84.92 66.86,85.2 67.36,84.92 84.59,74.96 "
+       points="85.09,74.1 85.09,54.2 85.09,53.62 84.59,53.33 67.36,43.38 66.86,43.09 66.36,43.38 49.12,53.33 48.62,53.62 48.62,54.2 48.62,74.1 48.62,74.68 49.12,74.96 66.36,84.92 66.86,85.2 67.36,84.92 84.59,74.96 85.09,74.68 "
        id="polygon573"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,3.1453699)" /><polygon
        class="st171"
-       points="85.09,74.68 85.09,74.1 85.09,54.2 85.09,53.62 84.59,53.33 67.36,43.38 66.86,43.09 66.36,43.38 49.12,53.33 48.62,53.62 48.62,54.2 48.62,74.1 48.62,74.68 49.12,74.96 66.36,84.92 66.86,85.2 67.36,84.92 84.59,74.96 "
+       points="85.09,74.1 85.09,54.2 85.09,53.62 84.59,53.33 67.36,43.38 66.86,43.09 66.36,43.38 49.12,53.33 48.62,53.62 48.62,54.2 48.62,74.1 48.62,74.68 49.12,74.96 66.36,84.92 66.86,85.2 67.36,84.92 84.59,74.96 85.09,74.68 "
        id="polygon574"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,3.1453699)" /><line
        class="st172"
@@ -383,19 +388,19 @@
      transform="matrix(1.3500094,0,0,1.3500094,-0.97954583,7.5059901)"><tspan
        x="26.910156"
        y="94.554265"
-       id="tspan2"><tspan
+       id="tspan129"><tspan
          style="font-weight:normal;-inkscape-font-specification:'DejaVu Sans'"
-         id="tspan1">El jugador escollit restarà 3 a </tspan></tspan><tspan
+         id="tspan128">El jugador escollit restarà 3 a </tspan></tspan><tspan
        x="26.910156"
        y="101.96162"
-       id="tspan4"><tspan
+       id="tspan131"><tspan
          style="font-weight:normal;-inkscape-font-specification:'DejaVu Sans'"
-         id="tspan3">cada acció de col·locar o moure </tspan></tspan><tspan
+         id="tspan130">cada acció de col·locar o moure </tspan></tspan><tspan
        x="26.910156"
        y="109.36898"
-       id="tspan6"><tspan
+       id="tspan133"><tspan
          style="font-weight:normal;-inkscape-font-specification:'DejaVu Sans'"
-         id="tspan5">en el següent torn</tspan></tspan></text></symbol><symbol
+         id="tspan132">en el següent torn</tspan></tspan></text></symbol><symbol
    id="ERMES"
    style="display:inline"><rect
      x="205.52034"
@@ -421,11 +426,11 @@
      style="stroke-width:1.35001" /><g
      id="g13"><polygon
        class="st0"
-       points="191.49,80.97 191.49,81.55 191.99,81.83 209.22,91.79 209.72,92.07 210.22,91.79 227.46,81.83 227.96,81.55 227.96,80.97 227.96,61.07 227.96,60.49 227.46,60.2 210.22,50.25 209.72,49.96 209.22,50.25 191.99,60.2 191.49,60.49 191.49,61.07 "
+       points="191.49,81.55 191.99,81.83 209.22,91.79 209.72,92.07 210.22,91.79 227.46,81.83 227.96,81.55 227.96,80.97 227.96,61.07 227.96,60.49 227.46,60.2 210.22,50.25 209.72,49.96 209.22,50.25 191.99,60.2 191.49,60.49 191.49,61.07 191.49,80.97 "
        id="polygon586"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
        class="st171"
-       points="191.49,80.97 191.49,81.55 191.99,81.83 209.22,91.79 209.72,92.07 210.22,91.79 227.46,81.83 227.96,81.55 227.96,80.97 227.96,61.07 227.96,60.49 227.46,60.2 210.22,50.25 209.72,49.96 209.22,50.25 191.99,60.2 191.49,60.49 191.49,61.07 "
+       points="191.49,81.55 191.99,81.83 209.22,91.79 209.72,92.07 210.22,91.79 227.46,81.83 227.96,81.55 227.96,80.97 227.96,61.07 227.96,60.49 227.46,60.2 210.22,50.25 209.72,49.96 209.22,50.25 191.99,60.2 191.49,60.49 191.49,61.07 191.49,80.97 "
        id="polygon587"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><line
        class="st172"
@@ -548,19 +553,19 @@
      transform="matrix(1.3500094,0,0,1.3500094,189.37975,7.6091082)"><tspan
        x="26.910156"
        y="94.554265"
-       id="tspan10"><tspan
+       id="tspan135"><tspan
          style="font-weight:normal;-inkscape-font-specification:'DejaVu Sans'"
-         id="tspan8">Realitza una acció de col·locar o </tspan></tspan><tspan
+         id="tspan134">Realitza una acció de col·locar o </tspan></tspan><tspan
        x="26.910156"
        y="101.96162"
-       id="tspan12"><tspan
+       id="tspan137"><tspan
          style="font-weight:normal;-inkscape-font-specification:'DejaVu Sans'"
-         id="tspan11">moure i suma 3 al número </tspan></tspan><tspan
+         id="tspan136">moure i suma 3 al número </tspan></tspan><tspan
        x="26.910156"
        y="109.36898"
-       id="tspan14"><tspan
+       id="tspan139"><tspan
          style="font-weight:normal;-inkscape-font-specification:'DejaVu Sans'"
-         id="tspan13">obtingut</tspan></tspan></text><text
+         id="tspan138">obtingut</tspan></tspan></text><text
      class="st2 st10 st11"
      id="text617"
      style="font-size:25.2002px;stroke:#ffffff;stroke-width:2.70002;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
@@ -596,19 +601,19 @@
      style="stroke-width:1.13022" /><g
      id="g14"><polygon
        class="st0"
-       points="345.15,59.52 331.17,67.59 331.17,83.74 345.15,91.81 359.14,83.74 359.14,67.59 "
+       points="331.17,67.59 331.17,83.74 345.15,91.81 359.14,83.74 359.14,67.59 345.15,59.52 "
        id="polygon511"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
        class="st96"
-       points="345.15,59.52 331.17,67.59 331.17,83.74 345.15,91.81 359.14,83.74 359.14,67.59 "
+       points="331.17,67.59 331.17,83.74 345.15,91.81 359.14,83.74 359.14,67.59 345.15,59.52 "
        id="polygon512"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
        class="st0"
-       points="374.92,59.52 360.93,67.59 360.93,83.74 374.92,91.81 388.9,83.74 388.9,67.59 "
+       points="360.93,67.59 360.93,83.74 374.92,91.81 388.9,83.74 388.9,67.59 374.92,59.52 "
        id="polygon513"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
        class="st96"
-       points="374.92,59.52 360.93,67.59 360.93,83.74 374.92,91.81 388.9,83.74 388.9,67.59 "
+       points="360.93,67.59 360.93,83.74 374.92,91.81 388.9,83.74 388.9,67.59 374.92,59.52 "
        id="polygon514"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><g
        id="g514"
@@ -691,14 +696,14 @@
      transform="matrix(1.3500094,0,0,1.3500094,380.72334,17.032134)"><tspan
        x="26.910156"
        y="94.554265"
-       id="tspan16"><tspan
+       id="tspan141"><tspan
          style="font-weight:normal;-inkscape-font-specification:'DejaVu Sans'"
-         id="tspan15">Mou un concursant (teu o d'un </tspan></tspan><tspan
+         id="tspan140">Mou un concursant (teu o d'un </tspan></tspan><tspan
        x="26.910156"
        y="101.96162"
-       id="tspan18"><tspan
+       id="tspan143"><tspan
          style="font-weight:normal;-inkscape-font-specification:'DejaVu Sans'"
-         id="tspan17">altre jugador) una casella</tspan></tspan></text><text
+         id="tspan142">altre jugador) una casella</tspan></tspan></text><text
      class="st2 st10 st11"
      id="text618"
      style="font-size:25.2002px;stroke:#ffffff;stroke-width:2.70002;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
@@ -731,27 +736,27 @@
      style="stroke-width:1.13683" /><g
      id="g16"><polygon
        class="st0"
-       points="482.92,54.57 468.93,62.64 468.93,78.79 482.92,86.86 496.9,78.79 496.9,62.64 "
+       points="468.93,62.64 468.93,78.79 482.92,86.86 496.9,78.79 496.9,62.64 482.92,54.57 "
        id="polygon478"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
        class="st96"
-       points="482.92,54.57 468.93,62.64 468.93,78.79 482.92,86.86 496.9,78.79 496.9,62.64 "
+       points="468.93,62.64 468.93,78.79 482.92,86.86 496.9,78.79 496.9,62.64 482.92,54.57 "
        id="polygon479"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
        class="st0"
-       points="512.68,54.57 498.7,62.64 498.7,78.79 512.68,86.86 526.66,78.79 526.66,62.64 "
+       points="498.7,62.64 498.7,78.79 512.68,86.86 526.66,78.79 526.66,62.64 512.68,54.57 "
        id="polygon480"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
        class="st96"
-       points="512.68,54.57 498.7,62.64 498.7,78.79 512.68,86.86 526.66,78.79 526.66,62.64 "
+       points="498.7,62.64 498.7,78.79 512.68,86.86 526.66,78.79 526.66,62.64 512.68,54.57 "
        id="polygon481"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
        class="st0"
-       points="543.01,54.57 529.03,62.64 529.03,78.79 543.01,86.86 557,78.79 557,62.64 "
+       points="529.03,62.64 529.03,78.79 543.01,86.86 557,78.79 557,62.64 543.01,54.57 "
        id="polygon482"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
        class="st96"
-       points="543.01,54.57 529.03,62.64 529.03,78.79 543.01,86.86 557,78.79 557,62.64 "
+       points="529.03,62.64 529.03,78.79 543.01,86.86 557,78.79 557,62.64 543.01,54.57 "
        id="polygon483"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><g
        id="g484"
@@ -839,14 +844,14 @@
      transform="matrix(1.3500094,0,0,1.3500094,572.59947,15.154006)"><tspan
        x="26.910156"
        y="95.171541"
-       id="tspan20"><tspan
+       id="tspan145"><tspan
          style="font-weight:normal;-inkscape-font-specification:'DejaVu Sans'"
-         id="tspan19">Mou un concursant teu dues </tspan></tspan><tspan
+         id="tspan144">Mou un concursant teu dues </tspan></tspan><tspan
        x="26.910156"
        y="103.81346"
-       id="tspan22"><tspan
+       id="tspan147"><tspan
          style="font-weight:normal;-inkscape-font-specification:'DejaVu Sans'"
-         id="tspan21">caselles</tspan></tspan></text><text
+         id="tspan146">caselles</tspan></tspan></text><text
      class="st2 st10 st11"
      id="text623"
      style="font-size:25.2002px;stroke:#ffffff;stroke-width:2.70002;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
@@ -879,11 +884,11 @@
      style="stroke-width:1.11875" /><g
      id="g17"><polygon
        class="st0"
-       points="100.52,196.69 114.51,188.62 114.51,172.47 100.52,164.4 86.54,172.47 86.54,188.62 "
+       points="114.51,188.62 114.51,172.47 100.52,164.4 86.54,172.47 86.54,188.62 100.52,196.69 "
        id="polygon266"
        transform="matrix(1.3500094,0,0,1.3500094,-28.959633,5.14537)" /><polygon
        class="st96"
-       points="114.51,172.47 100.52,164.4 86.54,172.47 86.54,188.62 100.52,196.69 114.51,188.62 "
+       points="100.52,164.4 86.54,172.47 86.54,188.62 100.52,196.69 114.51,188.62 114.51,172.47 "
        id="polygon267"
        transform="matrix(1.3500094,0,0,1.3500094,-28.959633,5.14537)" /><g
        id="g267"
@@ -923,14 +928,14 @@
      transform="matrix(1.3500094,0,0,1.3500094,-0.97954583,170.85036)"><tspan
        x="26.910156"
        y="94.554265"
-       id="tspan28"><tspan
+       id="tspan149"><tspan
          style="font-weight:normal;-inkscape-font-specification:'DejaVu Sans'"
-         id="tspan23">Gira una casella i posa-la en la </tspan></tspan><tspan
+         id="tspan148">Gira una casella i posa-la en la </tspan></tspan><tspan
        x="26.910156"
        y="101.96162"
-       id="tspan30"><tspan
+       id="tspan151"><tspan
          style="font-weight:normal;-inkscape-font-specification:'DejaVu Sans'"
-         id="tspan29">posició que vulguis</tspan></tspan></text></symbol><symbol
+         id="tspan150">posició que vulguis</tspan></tspan></text></symbol><symbol
    id="TYCHE"
    style="display:inline"><rect
      x="205.52034"
@@ -956,11 +961,11 @@
      style="stroke-width:1.13188" /><g
      id="g25"><polygon
        class="st0"
-       points="197.3,176.63 197.3,192.78 211.29,200.85 225.27,192.78 225.27,176.63 211.29,168.56 "
+       points="197.3,192.78 211.29,200.85 225.27,192.78 225.27,176.63 211.29,168.56 197.3,176.63 "
        id="polygon278"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
        class="st96"
-       points="197.3,176.63 197.3,192.78 211.29,200.85 225.27,192.78 225.27,176.63 211.29,168.56 "
+       points="197.3,192.78 211.29,200.85 225.27,192.78 225.27,176.63 211.29,168.56 197.3,176.63 "
        id="polygon279"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><g
        id="g279"
@@ -988,11 +993,11 @@
    id="path279" />
 </g><polygon
        class="st0"
-       points="248.11,170.53 248.11,181.02 257.2,186.26 266.28,181.02 266.28,170.53 257.2,165.29 "
+       points="248.11,181.02 257.2,186.26 266.28,181.02 266.28,170.53 257.2,165.29 248.11,170.53 "
        id="polygon280"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
        class="st96"
-       points="248.11,170.53 248.11,181.02 257.2,186.26 266.28,181.02 266.28,170.53 257.2,165.29 "
+       points="248.11,181.02 257.2,186.26 266.28,181.02 266.28,170.53 257.2,165.29 248.11,170.53 "
        id="polygon281"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><text
        class="st2 st103 st7"
@@ -1013,14 +1018,14 @@
      transform="matrix(1.3500094,0,0,1.3500094,190.78865,171.23904)"><tspan
        x="26.910156"
        y="94.554265"
-       id="tspan32"><tspan
+       id="tspan153"><tspan
          style="font-weight:normal;-inkscape-font-specification:'DejaVu Sans'"
-         id="tspan31">Canvia una casella per una </tspan></tspan><tspan
+         id="tspan152">Canvia una casella per una </tspan></tspan><tspan
        x="26.910156"
        y="101.96162"
-       id="tspan34"><tspan
+       id="tspan155"><tspan
          style="font-weight:normal;-inkscape-font-specification:'DejaVu Sans'"
-         id="tspan33">altra que agafis a l'atzar</tspan></tspan></text></symbol><symbol
+         id="tspan154">altra que agafis a l'atzar</tspan></tspan></text></symbol><symbol
    id="KHAOS"
    style="display:inline"><rect
      x="396.85718"
@@ -1046,15 +1051,15 @@
      style="stroke-width:1.15568" /><g
      id="g29"><polygon
        class="st0"
-       points="378.32,168.41 364.33,176.48 364.33,192.63 378.32,200.7 392.3,192.63 392.3,176.48 "
+       points="364.33,176.48 364.33,192.63 378.32,200.7 392.3,192.63 392.3,176.48 378.32,168.41 "
        id="polygon457"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
        class="st96"
-       points="378.32,168.41 364.33,176.48 364.33,192.63 378.32,200.7 392.3,192.63 392.3,176.48 "
+       points="364.33,176.48 364.33,192.63 378.32,200.7 392.3,192.63 392.3,176.48 378.32,168.41 "
        id="polygon458"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
        class="st2"
-       points="370,197.41 378.68,188.73 387.33,197.41 391.68,193.08 383.01,184.4 391.68,175.73 387.33,171.4 378.68,180.07 370,171.4 365.67,175.73 374.33,184.4 365.67,193.08 "
+       points="378.68,188.73 387.33,197.41 391.68,193.08 383.01,184.4 391.68,175.73 387.33,171.4 378.68,180.07 370,171.4 365.67,175.73 374.33,184.4 365.67,193.08 370,197.41 "
        id="polygon459"
        transform="matrix(1.1438121,0,0,1.2882459,73.122149,6.7373609)"
        style="display:inline" /></g><text
@@ -1064,14 +1069,14 @@
      transform="matrix(1.3500094,0,0,1.3500094,382.00096,171.23904)"><tspan
        x="26.910156"
        y="94.554265"
-       id="tspan36"><tspan
+       id="tspan157"><tspan
          style="font-weight:normal;-inkscape-font-specification:'DejaVu Sans'"
-         id="tspan35">Elimina una casella de </tspan></tspan><tspan
+         id="tspan156">Elimina una casella de </tspan></tspan><tspan
        x="26.910156"
        y="101.96162"
-       id="tspan39"><tspan
+       id="tspan159"><tspan
          style="font-weight:normal;-inkscape-font-specification:'DejaVu Sans'"
-         id="tspan37">qualsevol lloc del taulell</tspan></tspan></text><text
+         id="tspan158">qualsevol lloc del taulell</tspan></tspan></text><text
      class="st2 st10 st11"
      id="text571-2-0-9"
      style="font-size:25.2002px;font-family:Chinyen;fill:#231f20;stroke:#ffffff;stroke-width:2.70002;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
@@ -1107,11 +1112,11 @@
      style="stroke-width:1.21265" /><g
      id="g30"><polygon
        class="st0"
-       points="546.13,165.41 532.15,173.48 532.15,189.63 546.13,197.7 560.11,189.63 560.11,173.48 "
+       points="532.15,173.48 532.15,189.63 546.13,197.7 560.11,189.63 560.11,173.48 546.13,165.41 "
        id="polygon304"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
        class="st96"
-       points="546.13,165.41 532.15,173.48 532.15,189.63 546.13,197.7 560.11,189.63 560.11,173.48 "
+       points="532.15,173.48 532.15,189.63 546.13,197.7 560.11,189.63 560.11,173.48 546.13,165.41 "
        id="polygon305"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><g
        id="g308"
@@ -1165,11 +1170,11 @@
 	</g>
 </g><polygon
        class="st0"
-       points="485.77,164.41 471.78,172.48 471.78,188.63 485.77,196.7 499.75,188.63 499.75,172.48 "
+       points="471.78,172.48 471.78,188.63 485.77,196.7 499.75,188.63 499.75,172.48 485.77,164.41 "
        id="polygon308"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
        class="st96"
-       points="485.77,164.41 471.78,172.48 471.78,188.63 485.77,196.7 499.75,188.63 499.75,172.48 "
+       points="471.78,172.48 471.78,188.63 485.77,196.7 499.75,188.63 499.75,172.48 485.77,164.41 "
        id="polygon309"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><g
        id="g312"
@@ -1267,28 +1272,28 @@
        xml:space="preserve"><tspan
          x="828.95935"
          y="249.4446"
-         id="tspan41"><tspan
+         id="tspan161"><tspan
            style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
-           id="tspan40">+1</tspan></tspan></text></g><text
+           id="tspan160">+1</tspan></tspan></text></g><text
      xml:space="preserve"
      id="text615-0-1-5-1-1"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.91353px;line-height:7.40736px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';white-space:pre;shape-inside:url(#rect615-2-6-1-9-1);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
      transform="matrix(1.3500094,0,0,1.3500094,574.00096,159.23904)"><tspan
        x="26.910156"
        y="94.554265"
-       id="tspan43"><tspan
+       id="tspan163"><tspan
          style="font-weight:normal;-inkscape-font-specification:'DejaVu Sans'"
-         id="tspan42">Intercanvia la posició de dos </tspan></tspan><tspan
+         id="tspan162">Intercanvia la posició de dos </tspan></tspan><tspan
        x="26.910156"
        y="101.96162"
-       id="tspan45"><tspan
+       id="tspan165"><tspan
          style="font-weight:normal;-inkscape-font-specification:'DejaVu Sans'"
-         id="tspan44">concursants dels jugadors </tspan></tspan><tspan
+         id="tspan164">concursants dels jugadors </tspan></tspan><tspan
        x="26.910156"
        y="109.36898"
-       id="tspan47"><tspan
+       id="tspan167"><tspan
          style="font-weight:normal;-inkscape-font-specification:'DejaVu Sans'"
-         id="tspan46">que vulguis</tspan></tspan></text><text
+         id="tspan166">que vulguis</tspan></tspan></text><text
      class="st2 st10 st11"
      id="text571-2-0-9-7"
      style="font-size:25.2002px;font-family:Chinyen;fill:#231f20;stroke:#ffffff;stroke-width:2.70002;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
@@ -1409,14 +1414,14 @@
      transform="matrix(1.3500094,0,0,1.3500094,-0.97954583,326.01701)"><tspan
        x="26.910156"
        y="94.554265"
-       id="tspan49"><tspan
+       id="tspan169"><tspan
          style="font-weight:normal;-inkscape-font-specification:'DejaVu Sans'"
-         id="tspan48">Col·loca o mou un minotauros </tspan></tspan><tspan
+         id="tspan168">Col·loca o mou un minotauros </tspan></tspan><tspan
        x="26.910156"
        y="101.96162"
-       id="tspan51"><tspan
+       id="tspan171"><tspan
          style="font-weight:normal;-inkscape-font-specification:'DejaVu Sans'"
-         id="tspan50">teu a una casella de minotauros </tspan></tspan></text><g
+         id="tspan170">teu a una casella de minotauros </tspan></tspan></text><g
      id="g31"
      transform="translate(-573.12783,152.01813)"><rect
        style="fill:#fdfdfd;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
@@ -1434,9 +1439,9 @@
        xml:space="preserve"><tspan
          x="828.95935"
          y="249.4446"
-         id="tspan53"><tspan
+         id="tspan173"><tspan
            style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
-           id="tspan52">+1</tspan></tspan></text></g></symbol><symbol
+           id="tspan172">+1</tspan></tspan></text></g></symbol><symbol
    id="ARES"
    style="display:inline"><rect
      x="205.52034"
@@ -1536,11 +1541,11 @@
    id="path20" />
 </g><polygon
      class="st2"
-     points="239.78,301.33 231.1,292.65 239.78,283.97 235.43,279.65 226.77,288.32 218.09,279.65 213.76,283.97 222.42,292.65 213.76,301.33 218.09,305.66 226.77,296.98 235.43,305.66 "
+     points="231.1,292.65 239.78,283.97 235.43,279.65 226.77,288.32 218.09,279.65 213.76,283.97 222.42,292.65 213.76,301.33 218.09,305.66 226.77,296.98 235.43,305.66 239.78,301.33 "
      id="polygon21"
      transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
      class="st14"
-     points="239.78,301.33 231.1,292.65 239.78,283.97 235.43,279.65 226.77,288.32 218.09,279.65 213.76,283.97 222.42,292.65 213.76,301.33 218.09,305.66 226.77,296.98 235.43,305.66 "
+     points="231.1,292.65 239.78,283.97 235.43,279.65 226.77,288.32 218.09,279.65 213.76,283.97 222.42,292.65 213.76,301.33 218.09,305.66 226.77,296.98 235.43,305.66 239.78,301.33 "
      id="polygon22"
      transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><text
      class="st2 st10 st11"
@@ -1567,18 +1572,18 @@
        xml:space="preserve"><tspan
          x="828.95935"
          y="249.4446"
-         id="tspan55"><tspan
+         id="tspan175"><tspan
            style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
-           id="tspan54">+1</tspan></tspan></text></g><text
+           id="tspan174">+1</tspan></tspan></text></g><text
      xml:space="preserve"
      id="text53"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.91353px;line-height:7.40736px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';white-space:pre;shape-inside:url(#rect53);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
      transform="matrix(1.3500094,0,0,1.3500094,189.5985,334.06518)"><tspan
        x="26.910156"
        y="94.554265"
-       id="tspan57"><tspan
+       id="tspan177"><tspan
          style="font-weight:normal;-inkscape-font-specification:'DejaVu Sans'"
-         id="tspan56">Elimina qualsevol minotauros </tspan></tspan></text></symbol><symbol
+         id="tspan176">Elimina qualsevol minotauros </tspan></tspan></text></symbol><symbol
    id="MORPHEUS"
    style="display:inline"><rect
      x="396.85718"
@@ -1643,14 +1648,14 @@
      transform="matrix(1.3500094,0,0,1.3500094,382.21823,325.17674)"><tspan
        x="26.910156"
        y="94.554265"
-       id="tspan59"><tspan
+       id="tspan179"><tspan
          style="font-weight:normal;-inkscape-font-specification:'DejaVu Sans'"
-         id="tspan58">Obliga un jugador a descartar </tspan></tspan><tspan
+         id="tspan178">Obliga un jugador a descartar </tspan></tspan><tspan
        x="26.910156"
        y="101.96162"
-       id="tspan61"><tspan
+       id="tspan181"><tspan
          style="font-weight:normal;-inkscape-font-specification:'DejaVu Sans'"
-         id="tspan60">les dues cartes que té</tspan></tspan></text><text
+         id="tspan180">les dues cartes que té</tspan></tspan></text><text
      class="st2 st10 st11"
      id="text67"
      style="font-size:25.2002px;font-family:Chinyen;fill:#231f20;stroke:#ffffff;stroke-width:2.70002;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
@@ -1675,9 +1680,9 @@
        xml:space="preserve"><tspan
          x="828.95935"
          y="249.4446"
-         id="tspan63"><tspan
+         id="tspan183"><tspan
            style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
-           id="tspan62">+1</tspan></tspan></text></g></symbol><symbol
+           id="tspan182">+1</tspan></tspan></text></g></symbol><symbol
    id="KERBEROS"
    style="display:inline"><rect
      x="588.19397"
@@ -1782,11 +1787,11 @@
    id="path354" />
 </g><polygon
        class="st2"
-       points="520.3,305.11 513.58,298.4 520.3,291.68 516.93,288.33 510.24,295.05 503.52,288.33 500.17,291.68 506.87,298.4 500.17,305.11 503.52,308.46 510.24,301.75 516.93,308.46 "
+       points="513.58,298.4 520.3,291.68 516.93,288.33 510.24,295.05 503.52,288.33 500.17,291.68 506.87,298.4 500.17,305.11 503.52,308.46 510.24,301.75 516.93,308.46 520.3,305.11 "
        id="polygon357"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
        class="st14"
-       points="520.3,305.11 513.58,298.4 520.3,291.68 516.93,288.33 510.24,295.05 503.52,288.33 500.17,291.68 506.87,298.4 500.17,305.11 503.52,308.46 510.24,301.75 516.93,308.46 "
+       points="513.58,298.4 520.3,291.68 516.93,288.33 510.24,295.05 503.52,288.33 500.17,291.68 506.87,298.4 500.17,305.11 503.52,308.46 510.24,301.75 516.93,308.46 520.3,305.11 "
        id="polygon358"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><text
      xml:space="preserve"
@@ -1795,14 +1800,14 @@
      transform="matrix(1.3500094,0,0,1.3500094,574.00096,325.39623)"><tspan
        x="26.910156"
        y="94.554265"
-       id="tspan65"><tspan
+       id="tspan185"><tspan
          style="font-weight:normal;-inkscape-font-specification:'DejaVu Sans'"
-         id="tspan64">Tanca una porta que hagi </tspan></tspan><tspan
+         id="tspan184">Tanca una porta que hagi </tspan></tspan><tspan
        x="26.910156"
        y="101.96162"
-       id="tspan68"><tspan
+       id="tspan187"><tspan
          style="font-weight:normal;-inkscape-font-specification:'DejaVu Sans'"
-         id="tspan66">estat oberta</tspan></tspan></text><g
+         id="tspan186">estat oberta</tspan></tspan></text><g
      id="g88"
      transform="translate(-1.4975985e-5,152.01813)"><rect
        style="fill:#fdfdfd;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
@@ -1820,9 +1825,9 @@
        xml:space="preserve"><tspan
          x="828.95935"
          y="249.4446"
-         id="tspan70"><tspan
+         id="tspan189"><tspan
            style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
-           id="tspan69">+1</tspan></tspan></text></g><text
+           id="tspan188">+1</tspan></tspan></text></g><text
      class="st2 st10 st11"
      id="text88"
      style="font-size:25.2002px;font-family:Chinyen;fill:#231f20;stroke:#ffffff;stroke-width:2.70002;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
@@ -1978,9 +1983,9 @@
        xml:space="preserve"><tspan
          x="828.95935"
          y="249.4446"
-         id="tspan74"><tspan
+         id="tspan191"><tspan
            style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
-           id="tspan72">+1</tspan></tspan></text></g><rect
+           id="tspan190">+1</tspan></tspan></text></g><rect
      x="29.479107"
      y="597.19275"
      class="st0"
@@ -1994,14 +1999,14 @@
      transform="matrix(1.3500094,0,0,1.3500094,-0.97954583,479.63854)"><tspan
        x="26.910156"
        y="94.554265"
-       id="tspan76"><tspan
+       id="tspan193"><tspan
          style="font-weight:normal;-inkscape-font-specification:'DejaVu Sans'"
-         id="tspan75">Obre una porta que estigui </tspan></tspan><tspan
+         id="tspan192">Obre una porta que estigui </tspan></tspan><tspan
        x="26.910156"
        y="101.96162"
-       id="tspan78"><tspan
+       id="tspan195"><tspan
          style="font-weight:normal;-inkscape-font-specification:'DejaVu Sans'"
-         id="tspan77">tancada </tspan></tspan></text></symbol><symbol
+         id="tspan194">tancada </tspan></tspan></text></symbol><symbol
    id="IANUS"
    style="display:inline"><rect
      x="205.52034"
@@ -2117,23 +2122,23 @@
    id="path380" />
 </g><polygon
      class="st27"
-     points="238.97,404.74 239.47,405.03 245.98,408.79 246.48,409.08 246.98,408.79 253.5,405.03 254,404.74 254,404.17 254,396.64 254,396.07 253.5,395.78 246.98,392.02 246.48,391.73 245.98,392.02 239.47,395.78 238.97,396.07 238.97,396.64 238.97,404.17 "
+     points="239.47,405.03 245.98,408.79 246.48,409.08 246.98,408.79 253.5,405.03 254,404.74 254,404.17 254,396.64 254,396.07 253.5,395.78 246.98,392.02 246.48,391.73 245.98,392.02 239.47,395.78 238.97,396.07 238.97,396.64 238.97,404.17 238.97,404.74 "
      id="polygon381"
      transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
      class="st9"
-     points="238.97,404.74 239.47,405.03 245.98,408.79 246.48,409.08 246.98,408.79 253.5,405.03 254,404.74 254,404.17 254,396.64 254,396.07 253.5,395.78 246.98,392.02 246.48,391.73 245.98,392.02 239.47,395.78 238.97,396.07 238.97,396.64 238.97,404.17 "
+     points="239.47,405.03 245.98,408.79 246.48,409.08 246.98,408.79 253.5,405.03 254,404.74 254,404.17 254,396.64 254,396.07 253.5,395.78 246.98,392.02 246.48,391.73 245.98,392.02 239.47,395.78 238.97,396.07 238.97,396.64 238.97,404.17 238.97,404.74 "
      id="polygon382"
      transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
      class="st27"
-     points="239.47,404.45 239.72,404.6 246.23,408.36 246.48,408.5 246.73,408.36 253.25,404.6 253.5,404.45 253.5,404.17 253.5,396.64 253.5,396.35 253.25,396.21 246.73,392.45 246.48,392.31 246.23,392.45 239.72,396.21 239.47,396.35 239.47,396.64 239.47,404.17 "
+     points="239.72,404.6 246.23,408.36 246.48,408.5 246.73,408.36 253.25,404.6 253.5,404.45 253.5,404.17 253.5,396.64 253.5,396.35 253.25,396.21 246.73,392.45 246.48,392.31 246.23,392.45 239.72,396.21 239.47,396.35 239.47,396.64 239.47,404.17 239.47,404.45 "
      id="polygon383"
      transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
      class="st40"
-     points="239.47,404.45 239.72,404.6 246.23,408.36 246.48,408.5 246.73,408.36 253.25,404.6 253.5,404.45 253.5,404.17 253.5,396.64 253.5,396.35 253.25,396.21 246.73,392.45 246.48,392.31 246.23,392.45 239.72,396.21 239.47,396.35 239.47,396.64 239.47,404.17 "
+     points="239.72,404.6 246.23,408.36 246.48,408.5 246.73,408.36 253.25,404.6 253.5,404.45 253.5,404.17 253.5,396.64 253.5,396.35 253.25,396.21 246.73,392.45 246.48,392.31 246.23,392.45 239.72,396.21 239.47,396.35 239.47,396.64 239.47,404.17 239.47,404.45 "
      id="polygon384"
      transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
      class="st1"
-     points="252.99,404.21 247.01,407.61 246.64,400.32 252.99,397.43 "
+     points="247.01,407.61 246.64,400.32 252.99,397.43 252.99,404.21 "
      id="polygon385"
      transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><line
      class="st41"
@@ -2177,14 +2182,14 @@
      transform="matrix(1.3500094,0,0,1.3500094,190.35729,479.63854)"><tspan
        x="26.910156"
        y="94.554265"
-       id="tspan80"><tspan
+       id="tspan197"><tspan
          style="font-weight:normal;-inkscape-font-specification:'DejaVu Sans'"
-         id="tspan79">Torna a intentar obrir una porta </tspan></tspan><tspan
+         id="tspan196">Torna a intentar obrir una porta </tspan></tspan><tspan
        x="26.910156"
        y="101.96162"
-       id="tspan82"><tspan
+       id="tspan199"><tspan
          style="font-weight:normal;-inkscape-font-specification:'DejaVu Sans'"
-         id="tspan81">que sigui tancada</tspan></tspan></text></symbol><symbol
+         id="tspan198">que sigui tancada</tspan></tspan></text></symbol><symbol
    id="PROMETHEUS"
    style="display:inline"><rect
      x="396.85718"
@@ -2253,9 +2258,9 @@
      transform="matrix(1.3500094,0,0,1.3500094,382.21823,487.17674)"><tspan
        x="26.910156"
        y="94.554265"
-       id="tspan84"><tspan
+       id="tspan201"><tspan
          style="font-weight:normal;-inkscape-font-specification:'DejaVu Sans'"
-         id="tspan83">Roba una carta a un jugador</tspan></tspan></text></symbol><symbol
+         id="tspan200">Roba una carta a un jugador</tspan></tspan></text></symbol><symbol
    id="LIMOS"
    style="display:inline"><rect
      x="588.19397"
@@ -2319,11 +2324,11 @@
    id="path439" />
 </g><polygon
      class="st2"
-     points="491.66,410.83 489.01,417.26 492.22,418.59 494.88,412.16 501.3,414.83 502.65,411.61 496.21,408.95 498.88,402.51 495.66,401.19 493,407.62 486.57,404.95 485.24,408.16 "
+     points="489.01,417.26 492.22,418.59 494.88,412.16 501.3,414.83 502.65,411.61 496.21,408.95 498.88,402.51 495.66,401.19 493,407.62 486.57,404.95 485.24,408.16 491.66,410.83 "
      id="polygon439"
      transform="matrix(1.3040424,0.3492834,-0.3492834,1.3040424,171.92596,-160.30405)" /><polygon
      class="st14"
-     points="491.66,410.83 489.01,417.26 492.22,418.59 494.88,412.16 501.3,414.83 502.65,411.61 496.21,408.95 498.88,402.51 495.66,401.19 493,407.62 486.57,404.95 485.24,408.16 "
+     points="489.01,417.26 492.22,418.59 494.88,412.16 501.3,414.83 502.65,411.61 496.21,408.95 498.88,402.51 495.66,401.19 493,407.62 486.57,404.95 485.24,408.16 491.66,410.83 "
      id="polygon440"
      transform="matrix(1.3040424,0.3492834,-0.3492834,1.3040424,171.92596,-160.30405)" /><text
      class="st2 st10 st11"
@@ -2339,14 +2344,14 @@
      transform="matrix(1.3500094,0,0,1.3500094,574.00096,479.69275)"><tspan
        x="26.910156"
        y="94.554265"
-       id="tspan86"><tspan
+       id="tspan203"><tspan
          style="font-weight:normal;-inkscape-font-specification:'DejaVu Sans'"
-         id="tspan85">Obliga un jugador a </tspan></tspan><tspan
+         id="tspan202">Obliga un jugador a </tspan></tspan><tspan
        x="26.910156"
        y="101.96162"
-       id="tspan89"><tspan
+       id="tspan205"><tspan
          style="font-weight:normal;-inkscape-font-specification:'DejaVu Sans'"
-         id="tspan87">descartar-se d'una carta</tspan></tspan></text></symbol><symbol
+         id="tspan204">descartar-se d'una carta</tspan></tspan></text></symbol><symbol
    id="ATHENA"
    style="display:inline"><rect
      x="14.17"
@@ -2445,23 +2450,23 @@
    id="circle125" />
 </g><polygon
      class="st27"
-     points="93.13,514.09 93.13,514.67 93.63,514.95 100.14,518.71 100.64,519 101.14,518.71 107.65,514.95 108.15,514.67 108.15,514.09 108.15,506.57 108.15,505.99 107.65,505.7 101.14,501.94 100.64,501.65 100.14,501.94 93.63,505.7 93.13,505.99 93.13,506.57 "
+     points="93.13,514.67 93.63,514.95 100.14,518.71 100.64,519 101.14,518.71 107.65,514.95 108.15,514.67 108.15,514.09 108.15,506.57 108.15,505.99 107.65,505.7 101.14,501.94 100.64,501.65 100.14,501.94 93.63,505.7 93.13,505.99 93.13,506.57 93.13,514.09 "
      id="polygon130"
      transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
      class="st9"
-     points="93.13,514.09 93.13,514.67 93.63,514.95 100.14,518.71 100.64,519 101.14,518.71 107.65,514.95 108.15,514.67 108.15,514.09 108.15,506.57 108.15,505.99 107.65,505.7 101.14,501.94 100.64,501.65 100.14,501.94 93.63,505.7 93.13,505.99 93.13,506.57 "
+     points="93.13,514.67 93.63,514.95 100.14,518.71 100.64,519 101.14,518.71 107.65,514.95 108.15,514.67 108.15,514.09 108.15,506.57 108.15,505.99 107.65,505.7 101.14,501.94 100.64,501.65 100.14,501.94 93.63,505.7 93.13,505.99 93.13,506.57 93.13,514.09 "
      id="polygon131"
      transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
      class="st27"
-     points="93.63,514.09 93.63,514.38 93.88,514.52 100.39,518.28 100.64,518.43 100.89,518.28 107.4,514.52 107.65,514.38 107.65,514.09 107.65,506.57 107.65,506.28 107.4,506.13 100.89,502.37 100.64,502.23 100.39,502.37 93.88,506.13 93.63,506.28 93.63,506.57 "
+     points="93.63,514.38 93.88,514.52 100.39,518.28 100.64,518.43 100.89,518.28 107.4,514.52 107.65,514.38 107.65,514.09 107.65,506.57 107.65,506.28 107.4,506.13 100.89,502.37 100.64,502.23 100.39,502.37 93.88,506.13 93.63,506.28 93.63,506.57 93.63,514.09 "
      id="polygon132"
      transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
      class="st40"
-     points="93.63,514.09 93.63,514.38 93.88,514.52 100.39,518.28 100.64,518.43 100.89,518.28 107.4,514.52 107.65,514.38 107.65,514.09 107.65,506.57 107.65,506.28 107.4,506.13 100.89,502.37 100.64,502.23 100.39,502.37 93.88,506.13 93.63,506.28 93.63,506.57 "
+     points="93.63,514.38 93.88,514.52 100.39,518.28 100.64,518.43 100.89,518.28 107.4,514.52 107.65,514.38 107.65,514.09 107.65,506.57 107.65,506.28 107.4,506.13 100.89,502.37 100.64,502.23 100.39,502.37 93.88,506.13 93.63,506.28 93.63,506.57 93.63,514.09 "
      id="polygon133"
      transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
      class="st1"
-     points="107.15,507.35 107.15,514.13 101.17,517.53 100.8,510.24 "
+     points="107.15,514.13 101.17,517.53 100.8,510.24 107.15,507.35 "
      id="polygon134"
      transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><line
      class="st41"
@@ -2505,14 +2510,14 @@
      transform="matrix(1.3500094,0,0,1.3500094,-0.98629978,633.51152)"><tspan
        x="26.910156"
        y="94.554265"
-       id="tspan92"><tspan
+       id="tspan207"><tspan
          style="font-weight:normal;-inkscape-font-specification:'DejaVu Sans'"
-         id="tspan90">Torna a intentar superar una </tspan></tspan><tspan
+         id="tspan206">Torna a intentar superar una </tspan></tspan><tspan
        x="26.910156"
        y="101.96162"
-       id="tspan94"><tspan
+       id="tspan209"><tspan
          style="font-weight:normal;-inkscape-font-specification:'DejaVu Sans'"
-         id="tspan93">prova que acabis de fallar</tspan></tspan></text></symbol><symbol
+         id="tspan208">prova que acabis de fallar</tspan></tspan></text></symbol><symbol
    id="POSEIDON"
    style="display:inline"><rect
      x="205.52034"
@@ -2633,11 +2638,11 @@
    id="circle86" />
 </g><polygon
        class="st2"
-       points="235.43,508.39 226.77,517.07 218.09,508.39 213.76,512.72 222.42,521.4 213.76,530.08 218.09,534.41 226.77,525.73 235.43,534.41 239.78,530.08 231.1,521.4 239.78,512.72 "
+       points="226.77,517.07 218.09,508.39 213.76,512.72 222.42,521.4 213.76,530.08 218.09,534.41 226.77,525.73 235.43,534.41 239.78,530.08 231.1,521.4 239.78,512.72 235.43,508.39 "
        id="polygon87"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.2972591)" /><polygon
        class="st14"
-       points="218.09,508.39 213.76,512.72 222.42,521.4 213.76,530.08 218.09,534.41 226.77,525.73 235.43,534.41 239.78,530.08 231.1,521.4 239.78,512.72 235.43,508.39 226.77,517.07 "
+       points="213.76,512.72 222.42,521.4 213.76,530.08 218.09,534.41 226.77,525.73 235.43,534.41 239.78,530.08 231.1,521.4 239.78,512.72 235.43,508.39 226.77,517.07 218.09,508.39 "
        id="polygon88"
        transform="matrix(1.3500094,0,0,1.3500094,-4.959633,-4.2972591)" /></g><text
      class="st2 st10 st11"
@@ -2664,9 +2669,9 @@
        xml:space="preserve"><tspan
          x="828.95935"
          y="249.4446"
-         id="tspan98"><tspan
+         id="tspan211"><tspan
            style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
-           id="tspan96">+1</tspan></tspan></text></g><rect
+           id="tspan210">+1</tspan></tspan></text></g><rect
      x="220.81595"
      y="751.06628"
      class="st0"
@@ -2680,14 +2685,14 @@
      transform="matrix(1.3500094,0,0,1.3500094,190.35729,633.51152)"><tspan
        x="26.910156"
        y="94.554265"
-       id="tspan100"><tspan
+       id="tspan213"><tspan
          style="font-weight:normal;-inkscape-font-specification:'DejaVu Sans'"
-         id="tspan99">Retira qualsevol prova que no </tspan></tspan><tspan
+         id="tspan212">Retira qualsevol prova que no </tspan></tspan><tspan
        x="26.910156"
        y="101.96162"
-       id="tspan102"><tspan
+       id="tspan215"><tspan
          style="font-weight:normal;-inkscape-font-specification:'DejaVu Sans'"
-         id="tspan101">siguin ocupades</tspan></tspan></text></symbol><symbol
+         id="tspan214">siguin ocupades</tspan></tspan></text></symbol><symbol
    id="AEGIS"
    style="display:inline"><rect
      x="396.85718"
@@ -2749,19 +2754,19 @@
      transform="matrix(1.3500094,0,0,1.3500094,381.70762,623.42208)"><tspan
        x="26.910156"
        y="94.554265"
-       id="tspan104"><tspan
+       id="tspan217"><tspan
          style="font-weight:normal;-inkscape-font-specification:'DejaVu Sans'"
-         id="tspan103">Bloqueja l'efecte d'una carta. </tspan></tspan><tspan
+         id="tspan216">Bloqueja l'efecte d'una carta. </tspan></tspan><tspan
        x="26.910156"
        y="101.96162"
-       id="tspan106"><tspan
+       id="tspan219"><tspan
          style="font-weight:normal;-inkscape-font-specification:'DejaVu Sans'"
-         id="tspan105">Pots jugar la en qualsevol </tspan></tspan><tspan
+         id="tspan218">Pots jugar la en qualsevol </tspan></tspan><tspan
        x="26.910156"
        y="109.36898"
-       id="tspan108"><tspan
+       id="tspan221"><tspan
          style="font-weight:normal;-inkscape-font-specification:'DejaVu Sans'"
-         id="tspan107">moment</tspan></tspan></text></symbol><symbol
+         id="tspan220">moment</tspan></tspan></text></symbol><symbol
    id="TETHIS"
    style="display:inline"><rect
      x="588.19397"
@@ -2779,19 +2784,19 @@
      id="rect137"
      style="fill:#febe1f;fill-opacity:1;stroke-width:1.35001" /><polygon
      class="st0"
-     points="560.11,173.48 546.13,165.41 532.15,173.48 532.15,189.63 546.13,197.7 560.11,189.63 "
+     points="546.13,165.41 532.15,173.48 532.15,189.63 546.13,197.7 560.11,189.63 560.11,173.48 "
      id="polygon100"
      transform="matrix(1.3500094,0,0,1.3500094,-7.7652161,462.5248)" /><polygon
      class="st96"
-     points="560.11,173.48 546.13,165.41 532.15,173.48 532.15,189.63 546.13,197.7 560.11,189.63 "
+     points="546.13,165.41 532.15,173.48 532.15,189.63 546.13,197.7 560.11,189.63 560.11,173.48 "
      id="polygon101"
      transform="matrix(1.3500094,0,0,1.3500094,-7.7652161,462.5248)" /><polygon
      class="st0"
-     points="499.75,172.48 485.77,164.41 471.78,172.48 471.78,188.63 485.77,196.7 499.75,188.63 "
+     points="485.77,164.41 471.78,172.48 471.78,188.63 485.77,196.7 499.75,188.63 499.75,172.48 "
      id="polygon104"
      transform="matrix(1.3500094,0,0,1.3500094,-7.7652161,462.5248)" /><polygon
      class="st96"
-     points="499.75,172.48 485.77,164.41 471.78,172.48 471.78,188.63 485.77,196.7 499.75,188.63 "
+     points="485.77,164.41 471.78,172.48 471.78,188.63 485.77,196.7 499.75,188.63 499.75,172.48 "
      id="polygon105"
      transform="matrix(1.3500094,0,0,1.3500094,-7.7652161,462.5248)" /><g
      id="g109"
@@ -2849,9 +2854,9 @@
        xml:space="preserve"><tspan
          x="828.95935"
          y="249.4446"
-         id="tspan111"><tspan
+         id="tspan223"><tspan
            style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
-           id="tspan109">+1</tspan></tspan></text></g><text
+           id="tspan222">+1</tspan></tspan></text></g><text
      class="st2 st10 st11"
      id="text122"
      style="font-size:25.2002px;font-family:Chinyen;fill:#231f20;stroke:#ffffff;stroke-width:2.70002;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
@@ -2872,14 +2877,14 @@
      transform="matrix(1.3500094,0,0,1.3500094,573.0377,633.51152)"><tspan
        x="26.910156"
        y="94.554265"
-       id="tspan113"><tspan
+       id="tspan225"><tspan
          style="font-weight:normal;-inkscape-font-specification:'DejaVu Sans'"
-         id="tspan112">Intercanvia dos caselles d'inici </tspan></tspan><tspan
+         id="tspan224">Intercanvia dos caselles d'inici </tspan></tspan><tspan
        x="26.910156"
        y="101.96162"
-       id="tspan115"><tspan
+       id="tspan227"><tspan
          style="font-weight:normal;-inkscape-font-specification:'DejaVu Sans'"
-         id="tspan114">que no siguin ocupades</tspan></tspan></text></symbol><symbol
+         id="tspan226">que no siguin ocupades</tspan></tspan></text></symbol><symbol
    id="NEMEAS"
    style="display:inline"><rect
      x="14.17"
@@ -2899,21 +2904,21 @@
      id="g276"
      transform="translate(-183.55818,12.384657)"><polygon
        class="st0"
-       points="204.44,640.13 208.9,632.41 204.44,624.69 195.52,624.69 191.07,632.41 195.52,640.13 "
+       points="208.9,632.41 204.44,624.69 195.52,624.69 191.07,632.41 195.52,640.13 204.44,640.13 "
        id="polygon275"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
        class="st40"
-       points="204.44,640.13 208.9,632.41 204.44,624.69 195.52,624.69 191.07,632.41 195.52,640.13 "
+       points="208.9,632.41 204.44,624.69 195.52,624.69 191.07,632.41 195.52,640.13 204.44,640.13 "
        id="polygon276"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><g
      id="g284"
      transform="translate(-183.55818,12.384657)"><polygon
        class="st0"
-       points="204.44,624.26 208.9,616.54 204.44,608.82 195.52,608.82 191.07,616.54 195.52,624.26 "
+       points="208.9,616.54 204.44,608.82 195.52,608.82 191.07,616.54 195.52,624.26 204.44,624.26 "
        id="polygon283"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
        class="st40"
-       points="204.44,624.26 208.9,616.54 204.44,608.82 195.52,608.82 191.07,616.54 195.52,624.26 "
+       points="208.9,616.54 204.44,608.82 195.52,608.82 191.07,616.54 195.52,624.26 204.44,624.26 "
        id="polygon284"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><text
      class="st2 st3 st7"
@@ -2933,21 +2938,21 @@
      id="g300"
      transform="translate(-183.55818,12.384657)"><polygon
        class="st0"
-       points="204.44,640.13 208.9,632.41 204.44,624.69 195.52,624.69 191.07,632.41 195.52,640.13 "
+       points="208.9,632.41 204.44,624.69 195.52,624.69 191.07,632.41 195.52,640.13 204.44,640.13 "
        id="polygon299"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
        class="st40"
-       points="204.44,640.13 208.9,632.41 204.44,624.69 195.52,624.69 191.07,632.41 195.52,640.13 "
+       points="208.9,632.41 204.44,624.69 195.52,624.69 191.07,632.41 195.52,640.13 204.44,640.13 "
        id="polygon300"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><g
      id="g309"
      transform="translate(-183.55818,12.384657)"><polygon
        class="st0"
-       points="204.44,624.26 208.9,616.54 204.44,608.82 195.52,608.82 191.07,616.54 195.52,624.26 "
+       points="208.9,616.54 204.44,608.82 195.52,608.82 191.07,616.54 195.52,624.26 204.44,624.26 "
        id="polygon303"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
        class="st40"
-       points="204.44,624.26 208.9,616.54 204.44,608.82 195.52,608.82 191.07,616.54 195.52,624.26 "
+       points="208.9,616.54 204.44,608.82 195.52,608.82 191.07,616.54 195.52,624.26 204.44,624.26 "
        id="polygon306"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><g
      id="g662"
@@ -2976,12 +2981,12 @@
        id="g661"
        transform="matrix(0.74841785,0,0,0.74841785,267.03159,244.07759)"
        style="stroke:none"><polygon
-         points="177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 "
+         points="181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 "
          id="polygon660"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
          style="fill:#ffffff;fill-opacity:1;stroke:none" /><polygon
          class="st40"
-         points="177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 "
+         points="181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 "
          id="polygon661"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
          style="stroke:none" /></g></g><text
@@ -3018,12 +3023,12 @@
        id="g665"
        transform="matrix(0.74841785,0,0,0.74841785,267.03159,244.07759)"
        style="stroke:none"><polygon
-         points="181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 "
+         points="190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 "
          id="polygon664"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
          style="fill:#ffffff;fill-opacity:1;stroke:none" /><polygon
          class="st40"
-         points="181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 "
+         points="190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 "
          id="polygon665"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
          style="stroke:none" /></g></g><text
@@ -3060,21 +3065,21 @@
      id="g6"
      transform="translate(9.5009593,12.384657)"><polygon
        class="st0"
-       points="191.07,632.41 195.52,640.13 204.44,640.13 208.9,632.41 204.44,624.69 195.52,624.69 "
+       points="195.52,640.13 204.44,640.13 208.9,632.41 204.44,624.69 195.52,624.69 191.07,632.41 "
        id="polygon187"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
        class="st40"
-       points="191.07,632.41 195.52,640.13 204.44,640.13 208.9,632.41 204.44,624.69 195.52,624.69 "
+       points="195.52,640.13 204.44,640.13 208.9,632.41 204.44,624.69 195.52,624.69 191.07,632.41 "
        id="polygon188"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><g
      id="g5"
      transform="translate(9.5009593,12.384657)"><polygon
        class="st0"
-       points="191.07,616.54 195.52,624.26 204.44,624.26 208.9,616.54 204.44,608.82 195.52,608.82 "
+       points="195.52,624.26 204.44,624.26 208.9,616.54 204.44,608.82 195.52,608.82 191.07,616.54 "
        id="polygon191"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
        class="st40"
-       points="191.07,616.54 195.52,624.26 204.44,624.26 208.9,616.54 204.44,608.82 195.52,608.82 "
+       points="195.52,624.26 204.44,624.26 208.9,616.54 204.44,608.82 195.52,608.82 191.07,616.54 "
        id="polygon192"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><text
      class="st2 st3 st7"
@@ -3094,11 +3099,11 @@
      id="g33"
      transform="translate(9.5009593,12.384657)"><polygon
        class="st0"
-       points="191.07,632.41 195.52,640.13 204.44,640.13 208.9,632.41 204.44,624.69 195.52,624.69 "
+       points="195.52,640.13 204.44,640.13 208.9,632.41 204.44,624.69 195.52,624.69 191.07,632.41 "
        id="polygon32"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
        class="st40"
-       points="191.07,632.41 195.52,640.13 204.44,640.13 208.9,632.41 204.44,624.69 195.52,624.69 "
+       points="195.52,640.13 204.44,640.13 208.9,632.41 204.44,624.69 195.52,624.69 191.07,632.41 "
        id="polygon33"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><g
      id="g670"
@@ -3127,23 +3132,23 @@
        id="g669"
        transform="matrix(0.74841785,0,0,0.74841785,267.03159,244.07759)"
        style="stroke:none"><polygon
-         points="177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 "
+         points="181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 "
          id="polygon668"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
          style="fill:#ffffff;fill-opacity:1;stroke:none" /><polygon
          class="st40"
-         points="177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 "
+         points="181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 "
          id="polygon669"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
          style="stroke:none" /></g></g><g
      id="g37"
      transform="translate(9.5009593,12.384657)"><polygon
        class="st0"
-       points="191.07,616.54 195.52,624.26 204.44,624.26 208.9,616.54 204.44,608.82 195.52,608.82 "
+       points="195.52,624.26 204.44,624.26 208.9,616.54 204.44,608.82 195.52,608.82 191.07,616.54 "
        id="polygon36"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
        class="st40"
-       points="191.07,616.54 195.52,624.26 204.44,624.26 208.9,616.54 204.44,608.82 195.52,608.82 "
+       points="195.52,624.26 204.44,624.26 208.9,616.54 204.44,608.82 195.52,608.82 191.07,616.54 "
        id="polygon37"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><g
      id="g674"
@@ -3172,12 +3177,12 @@
        id="g673"
        transform="matrix(0.74841785,0,0,0.74841785,267.03159,244.07759)"
        style="stroke:none"><polygon
-         points="181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 "
+         points="190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 "
          id="polygon672"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
          style="fill:#ffffff;fill-opacity:1;stroke:none" /><polygon
          class="st40"
-         points="181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 "
+         points="190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 "
          id="polygon673"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
          style="stroke:none" /></g></g><text
@@ -3230,9 +3235,9 @@
        xml:space="preserve"><tspan
          x="828.95935"
          y="249.4446"
-         id="tspan117"><tspan
+         id="tspan229"><tspan
            style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
-           id="tspan116">+1</tspan></tspan></text></g><text
+           id="tspan228">+1</tspan></tspan></text></g><text
      class="st2 st10 st11"
      id="text837"
      style="font-size:25.2002px;font-family:Chinyen;fill:#231f20;stroke:#ffffff;stroke-width:2.70002;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
@@ -3261,31 +3266,31 @@
        id="g400"
        transform="translate(204.97757,12.384657)"><polygon
          class="st0"
-         points="204.44,624.69 195.52,624.69 191.07,632.41 195.52,640.13 204.44,640.13 208.9,632.41 "
+         points="195.52,624.69 191.07,632.41 195.52,640.13 204.44,640.13 208.9,632.41 204.44,624.69 "
          id="polygon399"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
          class="st40"
-         points="204.44,624.69 195.52,624.69 191.07,632.41 195.52,640.13 204.44,640.13 208.9,632.41 "
+         points="195.52,624.69 191.07,632.41 195.52,640.13 204.44,640.13 208.9,632.41 204.44,624.69 "
          id="polygon400"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><g
        id="g402"
        transform="translate(204.97757,12.384657)"><polygon
          class="st0"
-         points="195.52,655.41 204.44,655.41 208.9,647.69 204.44,639.96 195.52,639.96 191.07,647.69 "
+         points="204.44,655.41 208.9,647.69 204.44,639.96 195.52,639.96 191.07,647.69 195.52,655.41 "
          id="polygon401"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
          class="st40"
-         points="195.52,655.41 204.44,655.41 208.9,647.69 204.44,639.96 195.52,639.96 191.07,647.69 "
+         points="204.44,655.41 208.9,647.69 204.44,639.96 195.52,639.96 191.07,647.69 195.52,655.41 "
          id="polygon402"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><g
        id="g404"
        transform="translate(204.97757,12.384657)"><polygon
          class="st0"
-         points="204.44,608.82 195.52,608.82 191.07,616.54 195.52,624.26 204.44,624.26 208.9,616.54 "
+         points="195.52,608.82 191.07,616.54 195.52,624.26 204.44,624.26 208.9,616.54 204.44,608.82 "
          id="polygon403"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
          class="st40"
-         points="204.44,608.82 195.52,608.82 191.07,616.54 195.52,624.26 204.44,624.26 208.9,616.54 "
+         points="195.52,608.82 191.07,616.54 195.52,624.26 204.44,624.26 208.9,616.54 204.44,608.82 "
          id="polygon404"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><text
        class="st2 st3 st7"
@@ -3305,31 +3310,31 @@
        id="g420"
        transform="translate(204.97757,12.384657)"><polygon
          class="st0"
-         points="204.44,624.69 195.52,624.69 191.07,632.41 195.52,640.13 204.44,640.13 208.9,632.41 "
+         points="195.52,624.69 191.07,632.41 195.52,640.13 204.44,640.13 208.9,632.41 204.44,624.69 "
          id="polygon419"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
          class="st40"
-         points="204.44,624.69 195.52,624.69 191.07,632.41 195.52,640.13 204.44,640.13 208.9,632.41 "
+         points="195.52,624.69 191.07,632.41 195.52,640.13 204.44,640.13 208.9,632.41 204.44,624.69 "
          id="polygon420"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><g
        id="g422"
        transform="translate(204.97757,12.384657)"><polygon
          class="st0"
-         points="195.52,655.41 204.44,655.41 208.9,647.69 204.44,639.96 195.52,639.96 191.07,647.69 "
+         points="204.44,655.41 208.9,647.69 204.44,639.96 195.52,639.96 191.07,647.69 195.52,655.41 "
          id="polygon421"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
          class="st40"
-         points="195.52,655.41 204.44,655.41 208.9,647.69 204.44,639.96 195.52,639.96 191.07,647.69 "
+         points="204.44,655.41 208.9,647.69 204.44,639.96 195.52,639.96 191.07,647.69 195.52,655.41 "
          id="polygon422"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><g
        id="g424"
        transform="translate(204.97757,12.384657)"><polygon
          class="st0"
-         points="204.44,608.82 195.52,608.82 191.07,616.54 195.52,624.26 204.44,624.26 208.9,616.54 "
+         points="195.52,608.82 191.07,616.54 195.52,624.26 204.44,624.26 208.9,616.54 204.44,608.82 "
          id="polygon423"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
          class="st40"
-         points="204.44,608.82 195.52,608.82 191.07,616.54 195.52,624.26 204.44,624.26 208.9,616.54 "
+         points="195.52,608.82 191.07,616.54 195.52,624.26 204.44,624.26 208.9,616.54 204.44,608.82 "
          id="polygon424"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><text
        class="st2 st3 st7"
@@ -3372,12 +3377,12 @@
          id="g430"
          transform="matrix(0.74841785,0,0,0.74841785,267.03159,244.07759)"
          style="stroke:none"><polygon
-           points="177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 "
+           points="181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 "
            id="polygon429"
            transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
            style="fill:#ffffff;fill-opacity:1;stroke:none" /><polygon
            class="st40"
-           points="177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 "
+           points="181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 "
            id="polygon430"
            transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
            style="stroke:none" /></g></g><g
@@ -3432,12 +3437,12 @@
          id="g677"
          transform="matrix(0.74841785,0,0,0.74841785,267.03159,244.07759)"
          style="stroke:none"><polygon
-           points="181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 "
+           points="190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 "
            id="polygon676"
            transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
            style="fill:#ffffff;fill-opacity:1;stroke:none" /><polygon
            class="st40"
-           points="181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 "
+           points="190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 "
            id="polygon677"
            transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
            style="stroke:none" /></g></g><g
@@ -3483,9 +3488,9 @@
        xml:space="preserve"><tspan
          x="828.95935"
          y="249.4446"
-         id="tspan119"><tspan
+         id="tspan231"><tspan
            style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
-           id="tspan118">+1</tspan></tspan></text></g><text
+           id="tspan230">+1</tspan></tspan></text></g><text
      class="st2 st10 st11"
      id="text838"
      style="font-size:25.2002px;font-family:Chinyen;fill:#231f20;stroke:#ffffff;stroke-width:2.70002;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
@@ -3514,21 +3519,21 @@
        id="g338"
        transform="translate(398.03671,12.384657)"><polygon
          class="st0"
-         points="204.44,624.69 195.52,624.69 191.07,632.41 195.52,640.13 204.44,640.13 208.9,632.41 "
+         points="195.52,624.69 191.07,632.41 195.52,640.13 204.44,640.13 208.9,632.41 204.44,624.69 "
          id="polygon337"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
          class="st40"
-         points="204.44,624.69 195.52,624.69 191.07,632.41 195.52,640.13 204.44,640.13 208.9,632.41 "
+         points="195.52,624.69 191.07,632.41 195.52,640.13 204.44,640.13 208.9,632.41 204.44,624.69 "
          id="polygon338"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><g
        id="g340"
        transform="translate(398.03671,12.384657)"><polygon
          class="st0"
-         points="195.52,655.41 204.44,655.41 208.9,647.69 204.44,639.96 195.52,639.96 191.07,647.69 "
+         points="204.44,655.41 208.9,647.69 204.44,639.96 195.52,639.96 191.07,647.69 195.52,655.41 "
          id="polygon339"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
          class="st40"
-         points="195.52,655.41 204.44,655.41 208.9,647.69 204.44,639.96 195.52,639.96 191.07,647.69 "
+         points="204.44,655.41 208.9,647.69 204.44,639.96 195.52,639.96 191.07,647.69 195.52,655.41 "
          id="polygon340"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><text
        class="st2 st3 st7"
@@ -3540,32 +3545,32 @@
          id="tspan342">1</tspan></text><g
        id="g350"
        transform="translate(434.45997,12.384657)"><polygon
-         points="181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 "
+         points="177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 "
          id="polygon349"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
          style="fill:#ffffff;fill-opacity:1" /><polygon
          class="st40"
-         points="181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 "
+         points="177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 "
          id="polygon350"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><g
        id="g363"
        transform="translate(398.03671,12.384657)"><polygon
          class="st0"
-         points="204.44,624.69 195.52,624.69 191.07,632.41 195.52,640.13 204.44,640.13 208.9,632.41 "
+         points="195.52,624.69 191.07,632.41 195.52,640.13 204.44,640.13 208.9,632.41 204.44,624.69 "
          id="polygon362"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
          class="st40"
-         points="204.44,624.69 195.52,624.69 191.07,632.41 195.52,640.13 204.44,640.13 208.9,632.41 "
+         points="195.52,624.69 191.07,632.41 195.52,640.13 204.44,640.13 208.9,632.41 204.44,624.69 "
          id="polygon363"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><g
        id="g365"
        transform="translate(398.03671,12.384657)"><polygon
          class="st0"
-         points="195.52,655.41 204.44,655.41 208.9,647.69 204.44,639.96 195.52,639.96 191.07,647.69 "
+         points="204.44,655.41 208.9,647.69 204.44,639.96 195.52,639.96 191.07,647.69 195.52,655.41 "
          id="polygon364"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
          class="st40"
-         points="195.52,655.41 204.44,655.41 208.9,647.69 204.44,639.96 195.52,639.96 191.07,647.69 "
+         points="204.44,655.41 208.9,647.69 204.44,639.96 195.52,639.96 191.07,647.69 195.52,655.41 "
          id="polygon365"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><text
        class="st2 st3 st7"
@@ -3577,12 +3582,12 @@
          id="tspan367">1</tspan></text><g
        id="g375"
        transform="translate(434.45997,12.384657)"><polygon
-         points="181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 "
+         points="177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 "
          id="polygon374"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
          style="fill:#ffffff;fill-opacity:1" /><polygon
          class="st40"
-         points="181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 "
+         points="177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 "
          id="polygon375"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><g
        id="g686"
@@ -3611,12 +3616,12 @@
          id="g685"
          transform="matrix(0.74841785,0,0,0.74841785,267.03159,244.07759)"
          style="stroke:none"><polygon
-           points="181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 "
+           points="190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 "
            id="polygon684"
            transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
            style="fill:#ffffff;fill-opacity:1;stroke:none" /><polygon
            class="st40"
-           points="181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 "
+           points="190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 "
            id="polygon685"
            transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
            style="stroke:none" /></g></g><text
@@ -3653,12 +3658,12 @@
          id="g681"
          transform="matrix(0.74841785,0,0,0.74841785,267.03159,244.07759)"
          style="stroke:none"><polygon
-           points="195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 "
+           points="190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 "
            id="polygon680"
            transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
            style="fill:#ffffff;fill-opacity:1;stroke:none" /><polygon
            class="st40"
-           points="195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 "
+           points="190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 "
            id="polygon681"
            transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
            style="stroke:none" /></g></g><g
@@ -3712,32 +3717,32 @@
      style="stroke-width:1.35001" /><g
      id="g505"
      transform="translate(-183.55818,166.60129)"><polygon
-       points="190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 "
+       points="195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 "
        id="polygon504"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
        style="fill:#ffffff;fill-opacity:1" /><polygon
        class="st40"
-       points="190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 "
+       points="195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 "
        id="polygon505"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><g
      id="g507"
      transform="translate(-183.55818,166.60129)"><polygon
        class="st0"
-       points="204.44,640.13 208.9,632.41 204.44,624.69 195.52,624.69 191.07,632.41 195.52,640.13 "
+       points="208.9,632.41 204.44,624.69 195.52,624.69 191.07,632.41 195.52,640.13 204.44,640.13 "
        id="polygon506"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
        class="st40"
-       points="204.44,640.13 208.9,632.41 204.44,624.69 195.52,624.69 191.07,632.41 195.52,640.13 "
+       points="208.9,632.41 204.44,624.69 195.52,624.69 191.07,632.41 195.52,640.13 204.44,640.13 "
        id="polygon507"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><g
      id="g515"
      transform="translate(-183.55818,166.60129)"><polygon
        class="st0"
-       points="204.44,624.26 208.9,616.54 204.44,608.82 195.52,608.82 191.07,616.54 195.52,624.26 "
+       points="208.9,616.54 204.44,608.82 195.52,608.82 191.07,616.54 195.52,624.26 204.44,624.26 "
        id="polygon510"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
        class="st40"
-       points="204.44,624.26 208.9,616.54 204.44,608.82 195.52,608.82 191.07,616.54 195.52,624.26 "
+       points="208.9,616.54 204.44,608.82 195.52,608.82 191.07,616.54 195.52,624.26 204.44,624.26 "
        id="polygon515"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><text
      class="st2 st3 st7"
@@ -3756,32 +3761,32 @@
        id="tspan516">2</tspan></text><g
      id="g530"
      transform="translate(-183.55818,166.60129)"><polygon
-       points="190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 "
+       points="195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 "
        id="polygon529"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
        style="fill:#ffffff;fill-opacity:1" /><polygon
        class="st40"
-       points="190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 "
+       points="195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 "
        id="polygon530"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><g
      id="g532"
      transform="translate(-183.55818,166.60129)"><polygon
        class="st0"
-       points="204.44,640.13 208.9,632.41 204.44,624.69 195.52,624.69 191.07,632.41 195.52,640.13 "
+       points="208.9,632.41 204.44,624.69 195.52,624.69 191.07,632.41 195.52,640.13 204.44,640.13 "
        id="polygon531"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
        class="st40"
-       points="204.44,640.13 208.9,632.41 204.44,624.69 195.52,624.69 191.07,632.41 195.52,640.13 "
+       points="208.9,632.41 204.44,624.69 195.52,624.69 191.07,632.41 195.52,640.13 204.44,640.13 "
        id="polygon532"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><g
      id="g536"
      transform="translate(-183.55818,166.60129)"><polygon
        class="st0"
-       points="204.44,624.26 208.9,616.54 204.44,608.82 195.52,608.82 191.07,616.54 195.52,624.26 "
+       points="208.9,616.54 204.44,608.82 195.52,608.82 191.07,616.54 195.52,624.26 204.44,624.26 "
        id="polygon535"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
        class="st40"
-       points="204.44,624.26 208.9,616.54 204.44,608.82 195.52,608.82 191.07,616.54 195.52,624.26 "
+       points="208.9,616.54 204.44,608.82 195.52,608.82 191.07,616.54 195.52,624.26 204.44,624.26 "
        id="polygon536"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><g
      id="g690"
@@ -3810,12 +3815,12 @@
        id="g689"
        transform="matrix(0.74841785,0,0,0.74841785,267.03159,244.07759)"
        style="stroke:none"><polygon
-         points="195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 "
+         points="190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 "
          id="polygon688"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
          style="fill:#ffffff;fill-opacity:1;stroke:none" /><polygon
          class="st40"
-         points="195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 "
+         points="190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 "
          id="polygon689"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
          style="stroke:none" /></g></g><text
@@ -3859,12 +3864,12 @@
        id="g693"
        transform="matrix(0.74841785,0,0,0.74841785,267.03159,244.07759)"
        style="stroke:none"><polygon
-         points="181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 "
+         points="190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 "
          id="polygon692"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
          style="fill:#ffffff;fill-opacity:1;stroke:none" /><polygon
          class="st40"
-         points="181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 "
+         points="190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 "
          id="polygon693"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
          style="stroke:none" /></g></g><text
@@ -3901,21 +3906,21 @@
      id="g449"
      transform="translate(9.5009593,166.60129)"><polygon
        class="st0"
-       points="208.9,632.41 204.44,624.69 195.52,624.69 191.07,632.41 195.52,640.13 204.44,640.13 "
+       points="204.44,624.69 195.52,624.69 191.07,632.41 195.52,640.13 204.44,640.13 208.9,632.41 "
        id="polygon448"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
        class="st40"
-       points="208.9,632.41 204.44,624.69 195.52,624.69 191.07,632.41 195.52,640.13 204.44,640.13 "
+       points="204.44,624.69 195.52,624.69 191.07,632.41 195.52,640.13 204.44,640.13 208.9,632.41 "
        id="polygon449"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><g
      id="g453"
      transform="translate(9.5009593,166.60129)"><polygon
        class="st0"
-       points="208.9,616.54 204.44,608.82 195.52,608.82 191.07,616.54 195.52,624.26 204.44,624.26 "
+       points="204.44,608.82 195.52,608.82 191.07,616.54 195.52,624.26 204.44,624.26 208.9,616.54 "
        id="polygon452"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
        class="st40"
-       points="208.9,616.54 204.44,608.82 195.52,608.82 191.07,616.54 195.52,624.26 204.44,624.26 "
+       points="204.44,608.82 195.52,608.82 191.07,616.54 195.52,624.26 204.44,624.26 208.9,616.54 "
        id="polygon453"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><text
      class="st2 st3 st7"
@@ -3934,12 +3939,12 @@
        id="tspan454">2</tspan></text><g
      id="g460"
      transform="translate(9.5009593,145.56815)"><polygon
-       points="190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 "
+       points="181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 "
        id="polygon456"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
        style="fill:#ffffff;fill-opacity:1" /><polygon
        class="st40"
-       points="190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 "
+       points="181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 "
        id="polygon460"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><text
      class="st2 st3 st7"
@@ -3952,21 +3957,21 @@
      id="g472"
      transform="translate(9.5009593,166.60129)"><polygon
        class="st0"
-       points="208.9,632.41 204.44,624.69 195.52,624.69 191.07,632.41 195.52,640.13 204.44,640.13 "
+       points="204.44,624.69 195.52,624.69 191.07,632.41 195.52,640.13 204.44,640.13 208.9,632.41 "
        id="polygon471"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
        class="st40"
-       points="208.9,632.41 204.44,624.69 195.52,624.69 191.07,632.41 195.52,640.13 204.44,640.13 "
+       points="204.44,624.69 195.52,624.69 191.07,632.41 195.52,640.13 204.44,640.13 208.9,632.41 "
        id="polygon472"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><g
      id="g476"
      transform="translate(9.5009593,166.60129)"><polygon
        class="st0"
-       points="208.9,616.54 204.44,608.82 195.52,608.82 191.07,616.54 195.52,624.26 204.44,624.26 "
+       points="204.44,608.82 195.52,608.82 191.07,616.54 195.52,624.26 204.44,624.26 208.9,616.54 "
        id="polygon475"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
        class="st40"
-       points="208.9,616.54 204.44,608.82 195.52,608.82 191.07,616.54 195.52,624.26 204.44,624.26 "
+       points="204.44,608.82 195.52,608.82 191.07,616.54 195.52,624.26 204.44,624.26 208.9,616.54 "
        id="polygon476"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><g
      id="g702"
@@ -3995,12 +4000,12 @@
        id="g701"
        transform="matrix(0.74841785,0,0,0.74841785,267.03159,244.07759)"
        style="stroke:none"><polygon
-         points="181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 "
+         points="177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 "
          id="polygon700"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
          style="fill:#ffffff;fill-opacity:1;stroke:none" /><polygon
          class="st40"
-         points="181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 "
+         points="177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 "
          id="polygon701"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
          style="stroke:none" /></g></g><text
@@ -4020,12 +4025,12 @@
        id="tspan477">2</tspan></text><g
      id="g489"
      transform="translate(9.5009593,145.56815)"><polygon
-       points="190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 "
+       points="181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 "
        id="polygon488"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
        style="fill:#ffffff;fill-opacity:1" /><polygon
        class="st40"
-       points="190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 "
+       points="181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 "
        id="polygon489"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><g
      id="g706"
@@ -4054,12 +4059,12 @@
        id="g705"
        transform="matrix(0.74841785,0,0,0.74841785,267.03159,244.07759)"
        style="stroke:none"><polygon
-         points="181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 "
+         points="190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 "
          id="polygon704"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
          style="fill:#ffffff;fill-opacity:1;stroke:none" /><polygon
          class="st40"
-         points="181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 "
+         points="190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 "
          id="polygon705"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
          style="stroke:none" /></g></g><text
@@ -4096,21 +4101,21 @@
      id="g611"
      transform="translate(204.97757,166.60129)"><polygon
        class="st0"
-       points="195.52,624.69 191.07,632.41 195.52,640.13 204.44,640.13 208.9,632.41 204.44,624.69 "
+       points="191.07,632.41 195.52,640.13 204.44,640.13 208.9,632.41 204.44,624.69 195.52,624.69 "
        id="polygon610"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
        class="st40"
-       points="195.52,624.69 191.07,632.41 195.52,640.13 204.44,640.13 208.9,632.41 204.44,624.69 "
+       points="191.07,632.41 195.52,640.13 204.44,640.13 208.9,632.41 204.44,624.69 195.52,624.69 "
        id="polygon611"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><g
      id="g615"
      transform="translate(204.97757,166.60129)"><polygon
        class="st0"
-       points="195.52,608.82 191.07,616.54 195.52,624.26 204.44,624.26 208.9,616.54 204.44,608.82 "
+       points="191.07,616.54 195.52,624.26 204.44,624.26 208.9,616.54 204.44,608.82 195.52,608.82 "
        id="polygon614"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
        class="st40"
-       points="195.52,608.82 191.07,616.54 195.52,624.26 204.44,624.26 208.9,616.54 204.44,608.82 "
+       points="191.07,616.54 195.52,624.26 204.44,624.26 208.9,616.54 204.44,608.82 195.52,608.82 "
        id="polygon615"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><text
      class="st2 st3 st7"
@@ -4129,22 +4134,22 @@
        id="tspan616">2</tspan></text><g
      id="g622"
      transform="translate(204.97757,145.56815)"><polygon
-       points="177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 "
+       points="181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 "
        id="polygon621"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
        style="fill:#ffffff;fill-opacity:1" /><polygon
        class="st40"
-       points="177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 "
+       points="181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 "
        id="polygon622"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><g
      id="g630"
      transform="translate(241.40082,187.44544)"><polygon
-       points="190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 "
+       points="195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 "
        id="polygon629"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
        style="fill:#ffffff;fill-opacity:1" /><polygon
        class="st40"
-       points="190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 "
+       points="195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 "
        id="polygon630"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><text
      class="st2 st3 st7"
@@ -4157,21 +4162,21 @@
      id="g634"
      transform="translate(204.97757,166.60129)"><polygon
        class="st0"
-       points="195.52,624.69 191.07,632.41 195.52,640.13 204.44,640.13 208.9,632.41 204.44,624.69 "
+       points="191.07,632.41 195.52,640.13 204.44,640.13 208.9,632.41 204.44,624.69 195.52,624.69 "
        id="polygon633"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
        class="st40"
-       points="195.52,624.69 191.07,632.41 195.52,640.13 204.44,640.13 208.9,632.41 204.44,624.69 "
+       points="191.07,632.41 195.52,640.13 204.44,640.13 208.9,632.41 204.44,624.69 195.52,624.69 "
        id="polygon634"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><g
      id="g638"
      transform="translate(204.97757,166.60129)"><polygon
        class="st0"
-       points="195.52,608.82 191.07,616.54 195.52,624.26 204.44,624.26 208.9,616.54 204.44,608.82 "
+       points="191.07,616.54 195.52,624.26 204.44,624.26 208.9,616.54 204.44,608.82 195.52,608.82 "
        id="polygon637"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
        class="st40"
-       points="195.52,608.82 191.07,616.54 195.52,624.26 204.44,624.26 208.9,616.54 204.44,608.82 "
+       points="191.07,616.54 195.52,624.26 204.44,624.26 208.9,616.54 204.44,608.82 195.52,608.82 "
        id="polygon638"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><text
      class="st2 st3 st7"
@@ -4183,22 +4188,22 @@
        id="tspan638">1</tspan></text><g
      id="g642"
      transform="translate(204.97757,145.56815)"><polygon
-       points="177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 "
+       points="181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 "
        id="polygon641"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
        style="fill:#ffffff;fill-opacity:1" /><polygon
        class="st40"
-       points="177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 "
+       points="181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 "
        id="polygon642"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><g
      id="g650"
      transform="translate(241.40082,187.44544)"><polygon
-       points="190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 "
+       points="195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 "
        id="polygon649"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
        style="fill:#ffffff;fill-opacity:1" /><polygon
        class="st40"
-       points="190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 "
+       points="195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 "
        id="polygon650"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><g
      id="g656"
@@ -4252,12 +4257,12 @@
        id="g710"
        transform="matrix(0.74841785,0,0,0.74841785,267.03159,244.07759)"
        style="stroke:none"><polygon
-         points="181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 "
+         points="177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 "
          id="polygon709"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
          style="fill:#ffffff;fill-opacity:1;stroke:none" /><polygon
          class="st40"
-         points="181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 "
+         points="177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 "
          id="polygon710"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
          style="stroke:none" /></g></g><g
@@ -4312,12 +4317,12 @@
        id="g714"
        transform="matrix(0.74841785,0,0,0.74841785,267.03159,244.07759)"
        style="stroke:none"><polygon
-         points="181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 "
+         points="190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 "
          id="polygon713"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
          style="fill:#ffffff;fill-opacity:1;stroke:none" /><polygon
          class="st40"
-         points="181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 "
+         points="190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 "
          id="polygon714"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
          style="stroke:none" /></g></g><g
@@ -4372,12 +4377,12 @@
        id="g718"
        transform="matrix(0.74841785,0,0,0.74841785,267.03159,244.07759)"
        style="stroke:none"><polygon
-         points="181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 "
+         points="177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 "
          id="polygon717"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
          style="fill:#ffffff;fill-opacity:1;stroke:none" /><polygon
          class="st40"
-         points="181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 "
+         points="177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 "
          id="polygon718"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
          style="stroke:none" /></g></g><g
@@ -4423,9 +4428,9 @@
        xml:space="preserve"><tspan
          x="828.95935"
          y="249.4446"
-         id="tspan123"><tspan
+         id="tspan233"><tspan
            style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
-           id="tspan121">+1</tspan></tspan></text></g><text
+           id="tspan232">+1</tspan></tspan></text></g><text
      class="st2 st10 st11"
      id="text842"
      style="font-size:25.2002px;font-family:Chinyen;fill:#231f20;stroke:#ffffff;stroke-width:2.70002;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
@@ -4452,21 +4457,21 @@
      id="g558"
      transform="translate(398.03671,166.60129)"><polygon
        class="st0"
-       points="208.9,632.41 204.44,624.69 195.52,624.69 191.07,632.41 195.52,640.13 204.44,640.13 "
+       points="204.44,624.69 195.52,624.69 191.07,632.41 195.52,640.13 204.44,640.13 208.9,632.41 "
        id="polygon557"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
        class="st40"
-       points="208.9,632.41 204.44,624.69 195.52,624.69 191.07,632.41 195.52,640.13 204.44,640.13 "
+       points="204.44,624.69 195.52,624.69 191.07,632.41 195.52,640.13 204.44,640.13 208.9,632.41 "
        id="polygon558"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><g
      id="g562"
      transform="translate(398.03671,166.60129)"><polygon
        class="st0"
-       points="208.9,616.54 204.44,608.82 195.52,608.82 191.07,616.54 195.52,624.26 204.44,624.26 "
+       points="204.44,608.82 195.52,608.82 191.07,616.54 195.52,624.26 204.44,624.26 208.9,616.54 "
        id="polygon561"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
        class="st40"
-       points="208.9,616.54 204.44,608.82 195.52,608.82 191.07,616.54 195.52,624.26 204.44,624.26 "
+       points="204.44,608.82 195.52,608.82 191.07,616.54 195.52,624.26 204.44,624.26 208.9,616.54 "
        id="polygon562"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><text
      class="st2 st3 st7"
@@ -4486,21 +4491,21 @@
      id="g580"
      transform="translate(398.03671,166.60129)"><polygon
        class="st0"
-       points="208.9,632.41 204.44,624.69 195.52,624.69 191.07,632.41 195.52,640.13 204.44,640.13 "
+       points="204.44,624.69 195.52,624.69 191.07,632.41 195.52,640.13 204.44,640.13 208.9,632.41 "
        id="polygon579"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
        class="st40"
-       points="208.9,632.41 204.44,624.69 195.52,624.69 191.07,632.41 195.52,640.13 204.44,640.13 "
+       points="204.44,624.69 195.52,624.69 191.07,632.41 195.52,640.13 204.44,640.13 208.9,632.41 "
        id="polygon580"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><g
      id="g584"
      transform="translate(398.03671,166.60129)"><polygon
        class="st0"
-       points="208.9,616.54 204.44,608.82 195.52,608.82 191.07,616.54 195.52,624.26 204.44,624.26 "
+       points="204.44,608.82 195.52,608.82 191.07,616.54 195.52,624.26 204.44,624.26 208.9,616.54 "
        id="polygon583"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
        class="st40"
-       points="208.9,616.54 204.44,608.82 195.52,608.82 191.07,616.54 195.52,624.26 204.44,624.26 "
+       points="204.44,608.82 195.52,608.82 191.07,616.54 195.52,624.26 204.44,624.26 208.9,616.54 "
        id="polygon584"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><text
      class="st2 st3 st7"
@@ -4519,22 +4524,22 @@
        id="tspan585">2</tspan></text><g
      id="g721"
      transform="translate(398.34046,145.56814)"><polygon
-       points="195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 "
+       points="190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 "
        id="polygon720"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
        style="fill:#ffffff;fill-opacity:1" /><polygon
        class="st40"
-       points="195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 "
+       points="190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 "
        id="polygon721"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><g
      id="g723"
      transform="translate(398.34046,145.56814)"><polygon
-       points="195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 "
+       points="190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 "
        id="polygon722"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
        style="fill:#ffffff;fill-opacity:1" /><polygon
        class="st40"
-       points="195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 "
+       points="190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 "
        id="polygon723"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><g
      id="g728"
@@ -4588,12 +4593,12 @@
        id="g731"
        transform="matrix(0.74841785,0,0,0.74841785,267.03159,244.07759)"
        style="stroke:none"><polygon
-         points="181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 "
+         points="190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 "
          id="polygon730"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
          style="fill:#ffffff;fill-opacity:1;stroke:none" /><polygon
          class="st40"
-         points="181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 "
+         points="190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 "
          id="polygon731"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
          style="stroke:none" /></g></g><g
@@ -4624,22 +4629,22 @@
        transform="translate(-14.754426,-7.7337328)" /></g><g
      id="g734"
      transform="rotate(120,391.53148,1046.9532)"><polygon
-       points="177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 "
+       points="181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 "
        id="polygon733"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
        style="fill:#ffffff;fill-opacity:1" /><polygon
        class="st40"
-       points="177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 "
+       points="181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 "
        id="polygon734"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><g
      id="g736"
      transform="rotate(120,391.53148,1046.9532)"><polygon
-       points="177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 "
+       points="181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 "
        id="polygon735"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
        style="fill:#ffffff;fill-opacity:1" /><polygon
        class="st40"
-       points="177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 "
+       points="181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 "
        id="polygon736"
        transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><g
      id="g740"
@@ -4668,12 +4673,12 @@
        id="g739"
        transform="matrix(0.74841785,0,0,0.74841785,267.03159,244.07759)"
        style="stroke:none"><polygon
-         points="195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 "
+         points="190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 "
          id="polygon738"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
          style="fill:#ffffff;fill-opacity:1;stroke:none" /><polygon
          class="st40"
-         points="195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 "
+         points="190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 "
          id="polygon739"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
          style="stroke:none" /></g></g><g
@@ -4728,12 +4733,12 @@
        id="g744"
        transform="matrix(0.74841785,0,0,0.74841785,267.03159,244.07759)"
        style="stroke:none"><polygon
-         points="195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 "
+         points="190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 "
          id="polygon743"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
          style="fill:#ffffff;fill-opacity:1;stroke:none" /><polygon
          class="st40"
-         points="195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 "
+         points="190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 "
          id="polygon744"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
          style="stroke:none" /></g></g><g
@@ -4779,9 +4784,9 @@
        xml:space="preserve"><tspan
          x="828.95935"
          y="249.4446"
-         id="tspan125"><tspan
+         id="tspan235"><tspan
            style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
-           id="tspan124">+1</tspan></tspan></text></g><text
+           id="tspan234">+1</tspan></tspan></text></g><text
      class="st2 st10 st11"
      id="text843"
      style="font-size:25.2002px;font-family:Chinyen;fill:#231f20;stroke:#ffffff;stroke-width:2.70002;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
@@ -4810,31 +4815,31 @@
        id="g767"
        transform="translate(192.98137,331.48314)"><polygon
          class="st0"
-         points="191.07,632.41 195.52,640.13 204.44,640.13 208.9,632.41 204.44,624.69 195.52,624.69 "
+         points="195.52,640.13 204.44,640.13 208.9,632.41 204.44,624.69 195.52,624.69 191.07,632.41 "
          id="polygon766"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
          class="st40"
-         points="191.07,632.41 195.52,640.13 204.44,640.13 208.9,632.41 204.44,624.69 195.52,624.69 "
+         points="195.52,640.13 204.44,640.13 208.9,632.41 204.44,624.69 195.52,624.69 191.07,632.41 "
          id="polygon767"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><g
        id="g769"
        transform="translate(192.98137,331.48314)"><polygon
          class="st0"
-         points="208.9,647.69 204.44,639.96 195.52,639.96 191.07,647.69 195.52,655.41 204.44,655.41 "
+         points="204.44,639.96 195.52,639.96 191.07,647.69 195.52,655.41 204.44,655.41 208.9,647.69 "
          id="polygon768"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
          class="st40"
-         points="208.9,647.69 204.44,639.96 195.52,639.96 191.07,647.69 195.52,655.41 204.44,655.41 "
+         points="204.44,639.96 195.52,639.96 191.07,647.69 195.52,655.41 204.44,655.41 208.9,647.69 "
          id="polygon769"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><g
        id="g771"
        transform="translate(192.98137,331.48314)"><polygon
          class="st0"
-         points="191.07,616.54 195.52,624.26 204.44,624.26 208.9,616.54 204.44,608.82 195.52,608.82 "
+         points="195.52,624.26 204.44,624.26 208.9,616.54 204.44,608.82 195.52,608.82 191.07,616.54 "
          id="polygon770"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
          class="st40"
-         points="191.07,616.54 195.52,624.26 204.44,624.26 208.9,616.54 204.44,608.82 195.52,608.82 "
+         points="195.52,624.26 204.44,624.26 208.9,616.54 204.44,608.82 195.52,608.82 191.07,616.54 "
          id="polygon771"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><text
        class="st2 st3 st7"
@@ -4854,31 +4859,31 @@
        id="g773"
        transform="translate(192.98137,331.48314)"><polygon
          class="st0"
-         points="191.07,632.41 195.52,640.13 204.44,640.13 208.9,632.41 204.44,624.69 195.52,624.69 "
+         points="195.52,640.13 204.44,640.13 208.9,632.41 204.44,624.69 195.52,624.69 191.07,632.41 "
          id="polygon772"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
          class="st40"
-         points="191.07,632.41 195.52,640.13 204.44,640.13 208.9,632.41 204.44,624.69 195.52,624.69 "
+         points="195.52,640.13 204.44,640.13 208.9,632.41 204.44,624.69 195.52,624.69 191.07,632.41 "
          id="polygon773"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><g
        id="g775"
        transform="translate(192.98137,331.48314)"><polygon
          class="st0"
-         points="208.9,647.69 204.44,639.96 195.52,639.96 191.07,647.69 195.52,655.41 204.44,655.41 "
+         points="204.44,639.96 195.52,639.96 191.07,647.69 195.52,655.41 204.44,655.41 208.9,647.69 "
          id="polygon774"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
          class="st40"
-         points="208.9,647.69 204.44,639.96 195.52,639.96 191.07,647.69 195.52,655.41 204.44,655.41 "
+         points="204.44,639.96 195.52,639.96 191.07,647.69 195.52,655.41 204.44,655.41 208.9,647.69 "
          id="polygon775"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><g
        id="g777"
        transform="translate(192.98137,331.48314)"><polygon
          class="st0"
-         points="191.07,616.54 195.52,624.26 204.44,624.26 208.9,616.54 204.44,608.82 195.52,608.82 "
+         points="195.52,624.26 204.44,624.26 208.9,616.54 204.44,608.82 195.52,608.82 191.07,616.54 "
          id="polygon776"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
          class="st40"
-         points="191.07,616.54 195.52,624.26 204.44,624.26 208.9,616.54 204.44,608.82 195.52,608.82 "
+         points="195.52,624.26 204.44,624.26 208.9,616.54 204.44,608.82 195.52,608.82 191.07,616.54 "
          id="polygon777"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><text
        class="st2 st3 st7"
@@ -4921,12 +4926,12 @@
          id="g781"
          transform="matrix(0.74841785,0,0,0.74841785,267.03159,244.07759)"
          style="stroke:none"><polygon
-           points="190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 "
+           points="195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 "
            id="polygon780"
            transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
            style="fill:#ffffff;fill-opacity:1;stroke:none" /><polygon
            class="st40"
-           points="190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 "
+           points="195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 "
            id="polygon781"
            transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
            style="stroke:none" /></g></g><g
@@ -4958,11 +4963,11 @@
        id="g789"
        transform="translate(192.98137,310.16075)"><polygon
          class="st0"
-         points="195.52,624.26 204.44,624.26 208.9,616.54 204.44,608.82 195.52,608.82 191.07,616.54 "
+         points="204.44,624.26 208.9,616.54 204.44,608.82 195.52,608.82 191.07,616.54 195.52,624.26 "
          id="polygon788"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
          class="st40"
-         points="195.52,624.26 204.44,624.26 208.9,616.54 204.44,608.82 195.52,608.82 191.07,616.54 "
+         points="204.44,624.26 208.9,616.54 204.44,608.82 195.52,608.82 191.07,616.54 195.52,624.26 "
          id="polygon789"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><text
        class="st2 st3 st7"
@@ -4975,11 +4980,11 @@
        id="g791"
        transform="translate(192.98137,310.16075)"><polygon
          class="st0"
-         points="195.52,624.26 204.44,624.26 208.9,616.54 204.44,608.82 195.52,608.82 191.07,616.54 "
+         points="204.44,624.26 208.9,616.54 204.44,608.82 195.52,608.82 191.07,616.54 195.52,624.26 "
          id="polygon790"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
          class="st40"
-         points="195.52,624.26 204.44,624.26 208.9,616.54 204.44,608.82 195.52,608.82 191.07,616.54 "
+         points="204.44,624.26 208.9,616.54 204.44,608.82 195.52,608.82 191.07,616.54 195.52,624.26 "
          id="polygon791"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><text
        class="st2 st3 st7"
@@ -5015,12 +5020,12 @@
          id="g794"
          transform="matrix(0.74841785,0,0,0.74841785,267.03159,244.07759)"
          style="stroke:none"><polygon
-           points="190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 "
+           points="181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 "
            id="polygon793"
            transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
            style="fill:#ffffff;fill-opacity:1;stroke:none" /><polygon
            class="st40"
-           points="190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 "
+           points="181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 "
            id="polygon794"
            transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
            style="stroke:none" /></g></g><g
@@ -5066,9 +5071,9 @@
        xml:space="preserve"><tspan
          x="828.95935"
          y="249.4446"
-         id="tspan127"><tspan
+         id="tspan237"><tspan
            style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
-           id="tspan126">+1</tspan></tspan></text></g><text
+           id="tspan236">+1</tspan></tspan></text></g><text
      class="st2 st10 st11"
      id="text844"
      style="font-size:25.2002px;font-family:Chinyen;fill:#231f20;stroke:#ffffff;stroke-width:2.70002;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
@@ -5097,31 +5102,31 @@
        id="g797"
        transform="translate(385.22217,331.48314)"><polygon
          class="st0"
-         points="191.07,632.41 195.52,640.13 204.44,640.13 208.9,632.41 204.44,624.69 195.52,624.69 "
+         points="195.52,640.13 204.44,640.13 208.9,632.41 204.44,624.69 195.52,624.69 191.07,632.41 "
          id="polygon796"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
          class="st40"
-         points="191.07,632.41 195.52,640.13 204.44,640.13 208.9,632.41 204.44,624.69 195.52,624.69 "
+         points="195.52,640.13 204.44,640.13 208.9,632.41 204.44,624.69 195.52,624.69 191.07,632.41 "
          id="polygon797"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><g
        id="g799"
        transform="translate(385.22217,331.48314)"><polygon
          class="st0"
-         points="208.9,647.69 204.44,639.96 195.52,639.96 191.07,647.69 195.52,655.41 204.44,655.41 "
+         points="204.44,639.96 195.52,639.96 191.07,647.69 195.52,655.41 204.44,655.41 208.9,647.69 "
          id="polygon798"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
          class="st40"
-         points="208.9,647.69 204.44,639.96 195.52,639.96 191.07,647.69 195.52,655.41 204.44,655.41 "
+         points="204.44,639.96 195.52,639.96 191.07,647.69 195.52,655.41 204.44,655.41 208.9,647.69 "
          id="polygon799"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><g
        id="g801"
        transform="translate(385.22217,331.48314)"><polygon
          class="st0"
-         points="191.07,616.54 195.52,624.26 204.44,624.26 208.9,616.54 204.44,608.82 195.52,608.82 "
+         points="195.52,624.26 204.44,624.26 208.9,616.54 204.44,608.82 195.52,608.82 191.07,616.54 "
          id="polygon800"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
          class="st40"
-         points="191.07,616.54 195.52,624.26 204.44,624.26 208.9,616.54 204.44,608.82 195.52,608.82 "
+         points="195.52,624.26 204.44,624.26 208.9,616.54 204.44,608.82 195.52,608.82 191.07,616.54 "
          id="polygon801"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><text
        class="st2 st3 st7"
@@ -5141,31 +5146,31 @@
        id="g803"
        transform="translate(385.22217,331.48314)"><polygon
          class="st0"
-         points="191.07,632.41 195.52,640.13 204.44,640.13 208.9,632.41 204.44,624.69 195.52,624.69 "
+         points="195.52,640.13 204.44,640.13 208.9,632.41 204.44,624.69 195.52,624.69 191.07,632.41 "
          id="polygon802"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
          class="st40"
-         points="191.07,632.41 195.52,640.13 204.44,640.13 208.9,632.41 204.44,624.69 195.52,624.69 "
+         points="195.52,640.13 204.44,640.13 208.9,632.41 204.44,624.69 195.52,624.69 191.07,632.41 "
          id="polygon803"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><g
        id="g805"
        transform="translate(385.22217,331.48314)"><polygon
          class="st0"
-         points="208.9,647.69 204.44,639.96 195.52,639.96 191.07,647.69 195.52,655.41 204.44,655.41 "
+         points="204.44,639.96 195.52,639.96 191.07,647.69 195.52,655.41 204.44,655.41 208.9,647.69 "
          id="polygon804"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
          class="st40"
-         points="208.9,647.69 204.44,639.96 195.52,639.96 191.07,647.69 195.52,655.41 204.44,655.41 "
+         points="204.44,639.96 195.52,639.96 191.07,647.69 195.52,655.41 204.44,655.41 208.9,647.69 "
          id="polygon805"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><g
        id="g807"
        transform="translate(385.22217,331.48314)"><polygon
          class="st0"
-         points="191.07,616.54 195.52,624.26 204.44,624.26 208.9,616.54 204.44,608.82 195.52,608.82 "
+         points="195.52,624.26 204.44,624.26 208.9,616.54 204.44,608.82 195.52,608.82 191.07,616.54 "
          id="polygon806"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
          class="st40"
-         points="191.07,616.54 195.52,624.26 204.44,624.26 208.9,616.54 204.44,608.82 195.52,608.82 "
+         points="195.52,624.26 204.44,624.26 208.9,616.54 204.44,608.82 195.52,608.82 191.07,616.54 "
          id="polygon807"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><text
        class="st2 st3 st7"
@@ -5208,12 +5213,12 @@
          id="g811"
          transform="matrix(0.74841785,0,0,0.74841785,267.03159,244.07759)"
          style="stroke:none"><polygon
-           points="190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 "
+           points="195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 "
            id="polygon810"
            transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
            style="fill:#ffffff;fill-opacity:1;stroke:none" /><polygon
            class="st40"
-           points="190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 "
+           points="195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 190.84,632.12 "
            id="polygon811"
            transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
            style="stroke:none" /></g></g><g
@@ -5245,11 +5250,11 @@
        id="g814"
        transform="rotate(60,188.60507,1337.2627)"><polygon
          class="st0"
-         points="204.44,608.82 195.52,608.82 191.07,616.54 195.52,624.26 204.44,624.26 208.9,616.54 "
+         points="195.52,608.82 191.07,616.54 195.52,624.26 204.44,624.26 208.9,616.54 204.44,608.82 "
          id="polygon813"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
          class="st40"
-         points="204.44,608.82 195.52,608.82 191.07,616.54 195.52,624.26 204.44,624.26 208.9,616.54 "
+         points="195.52,608.82 191.07,616.54 195.52,624.26 204.44,624.26 208.9,616.54 204.44,608.82 "
          id="polygon814"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><text
        class="st2 st3 st7"
@@ -5263,11 +5268,11 @@
        id="g816"
        transform="rotate(60,188.60507,1337.2627)"><polygon
          class="st0"
-         points="204.44,608.82 195.52,608.82 191.07,616.54 195.52,624.26 204.44,624.26 208.9,616.54 "
+         points="195.52,608.82 191.07,616.54 195.52,624.26 204.44,624.26 208.9,616.54 204.44,608.82 "
          id="polygon815"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /><polygon
          class="st40"
-         points="204.44,608.82 195.52,608.82 191.07,616.54 195.52,624.26 204.44,624.26 208.9,616.54 "
+         points="195.52,608.82 191.07,616.54 195.52,624.26 204.44,624.26 208.9,616.54 204.44,608.82 "
          id="polygon816"
          transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)" /></g><text
        class="st2 st3 st7"
@@ -5304,12 +5309,12 @@
          id="g819"
          transform="matrix(0.74841785,0,0,0.74841785,267.03159,244.07759)"
          style="stroke:none"><polygon
-           points="181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 "
+           points="190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 "
            id="polygon818"
            transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
            style="fill:#ffffff;fill-opacity:1;stroke:none" /><polygon
            class="st40"
-           points="181.92,632.12 190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 "
+           points="190.84,632.12 195.3,624.4 190.84,616.68 181.92,616.68 177.46,624.4 181.92,632.12 "
            id="polygon819"
            transform="matrix(1.3500094,0,0,1.3500094,-4.9596329,-4.8546301)"
            style="stroke:none" /></g></g><text
@@ -5326,7 +5331,2360 @@
      x="634.76764"
      y="1224.5969"><tspan
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.2002px;font-family:'Dalek Pinpoint';-inkscape-font-specification:'Dalek Pinpoint';stroke:#ffffff;stroke-width:2.70002;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-       id="tspan845">hesperides</tspan></text></symbol></defs><sodipodi:namedview
+       id="tspan845">hesperides</tspan></text></symbol><clipPath
+   id="SVGID_6_-3">
+		<use
+   xlink:href="#SVGID_5_-0"
+   style="overflow:visible"
+   id="use17-6" />
+	</clipPath><clipPath
+   id="SVGID_8_-7">
+			<use
+   xlink:href="#SVGID_7_-6"
+   style="overflow:visible"
+   id="use18-5" />
+		</clipPath><clipPath
+   id="SVGID_10_-3">
+		<use
+   xlink:href="#SVGID_9_-1"
+   style="overflow:visible"
+   id="use20-5" />
+	</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="116.01951"
+   height="32.258972"
+   id="rect53-6" /><path
+   id="SVGID_5_-0"
+   d="m 223.76,275.31 c -7.93,1.42 -13.95,8.36 -13.95,16.7 v 1.51 c 0,9.37 7.59,16.96 16.96,16.96 9.37,0 16.96,-7.59 16.96,-16.96 v -1.51 c 0,-8.34 -6.02,-15.27 -13.95,-16.7 z" /><rect
+   id="SVGID_7_-6"
+   x="208.46001"
+   y="275.31"
+   width="36.290001"
+   height="36.290001" /><rect
+   id="SVGID_9_-1"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><clipPath
+   id="SVGID_136_-9">
+		<use
+   xlink:href="#SVGID_135_-7"
+   style="overflow:visible"
+   id="use267-7" />
+	</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="116.01951"
+   height="32.258972"
+   id="rect615-2-6-3" /><rect
+   id="SVGID_135_-7"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><clipPath
+   id="SVGID_6_-6">
+		<use
+   xlink:href="#SVGID_5_-6"
+   style="overflow:visible"
+   id="use17-3" />
+	</clipPath><clipPath
+   id="SVGID_8_-2">
+			<use
+   xlink:href="#SVGID_7_-7"
+   style="overflow:visible"
+   id="use18-0" />
+		</clipPath><clipPath
+   id="SVGID_10_-6">
+		<use
+   xlink:href="#SVGID_9_-7"
+   style="overflow:visible"
+   id="use20-1" />
+	</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="116.01951"
+   height="32.258972"
+   id="rect53-5" /><path
+   id="SVGID_5_-6"
+   d="m 223.76,275.31 c -7.93,1.42 -13.95,8.36 -13.95,16.7 v 1.51 c 0,9.37 7.59,16.96 16.96,16.96 9.37,0 16.96,-7.59 16.96,-16.96 v -1.51 c 0,-8.34 -6.02,-15.27 -13.95,-16.7 z" /><rect
+   id="SVGID_7_-7"
+   x="208.46001"
+   y="275.31"
+   width="36.290001"
+   height="36.290001" /><rect
+   id="SVGID_9_-7"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><clipPath
+   id="SVGID_198_-2">
+		<use
+   xlink:href="#SVGID_197_"
+   style="overflow:visible"
+   id="use405-0" />
+	</clipPath><clipPath
+   id="clipPath1">
+		<use
+   xlink:href="#SVGID_197_"
+   style="overflow:visible"
+   id="use1" />
+	</clipPath><clipPath
+   id="clipPath2">
+		<use
+   xlink:href="#SVGID_197_"
+   style="overflow:visible"
+   id="use2-6" />
+	</clipPath><clipPath
+   id="clipPath3">
+		<use
+   xlink:href="#SVGID_197_"
+   style="overflow:visible"
+   id="use3" />
+	</clipPath><clipPath
+   id="clipPath4">
+		<use
+   xlink:href="#SVGID_197_"
+   style="overflow:visible"
+   id="use4-8" />
+	</clipPath><clipPath
+   id="clipPath5">
+		<use
+   xlink:href="#SVGID_197_"
+   style="overflow:visible"
+   id="use5" />
+	</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="114.32417"
+   height="23.676668"
+   id="rect72-9" /><clipPath
+   id="SVGID_186_-6">
+		<use
+   xlink:href="#SVGID_185_-7"
+   style="overflow:visible"
+   id="use376-1" />
+	</clipPath><clipPath
+   id="SVGID_188_-0">
+		<use
+   xlink:href="#SVGID_187_-7"
+   style="overflow:visible"
+   id="use377-6" />
+	</clipPath><clipPath
+   id="SVGID_190_-1">
+			<use
+   xlink:href="#SVGID_189_-5"
+   style="overflow:visible"
+   id="use378-5" />
+		</clipPath><clipPath
+   id="SVGID_192_-9">
+		<use
+   xlink:href="#SVGID_191_-2"
+   style="overflow:visible"
+   id="use380-4" />
+	</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="116.01951"
+   height="32.258972"
+   id="rect96-9" /><rect
+   id="SVGID_185_-7"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><path
+   id="SVGID_187_-7"
+   d="m 218.54,393.91 c -5.57,2.8 -9.39,8.57 -9.39,15.22 v 1.51 c 0,9.41 7.63,17.03 17.03,17.03 9.41,0 17.03,-7.63 17.03,-17.03 v -1.51 c 0,-6.66 -3.82,-12.42 -9.38,-15.22 z" /><rect
+   id="SVGID_189_-5"
+   x="208.88"
+   y="393.91"
+   width="35.470001"
+   height="33.959999" /><rect
+   id="SVGID_191_-2"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><clipPath
+   id="SVGID_42_-8">
+		<use
+   xlink:href="#SVGID_41_"
+   style="overflow:visible"
+   id="use120-1" />
+	</clipPath><clipPath
+   id="SVGID_44_-0">
+		<use
+   xlink:href="#SVGID_43_-5"
+   style="overflow:visible"
+   id="use122-3" />
+	</clipPath><clipPath
+   id="SVGID_46_-0">
+			<use
+   xlink:href="#SVGID_45_-7"
+   style="overflow:visible"
+   id="use123-4" />
+		</clipPath><clipPath
+   id="SVGID_48_-4">
+		<use
+   xlink:href="#SVGID_47_-5"
+   style="overflow:visible"
+   id="use125-4" />
+	</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="116.01951"
+   height="32.258972"
+   id="rect121-4" /><path
+   id="SVGID_43_-5"
+   d="m 81.97,506.06 c -7.37,1.43 -12.94,7.92 -12.94,15.71 0,8.84 7.17,16.01 16.01,16.01 8.84,0 16.01,-7.17 16.01,-16.01 0,-7.79 -5.57,-14.28 -12.94,-15.71 z" /><rect
+   id="SVGID_45_-7"
+   x="67.43"
+   y="506.06"
+   width="36.029999"
+   height="33.43" /><rect
+   id="SVGID_47_-5"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><clipPath
+   id="SVGID_150_-8">
+		<use
+   xlink:href="#SVGID_149_-2"
+   style="overflow:visible"
+   id="use305-9" />
+	</clipPath><clipPath
+   id="SVGID_152_-7">
+			<use
+   xlink:href="#SVGID_151_-4"
+   style="overflow:visible"
+   id="use306-7" />
+		</clipPath><clipPath
+   id="SVGID_154_-6">
+		<use
+   xlink:href="#SVGID_153_-0"
+   style="overflow:visible"
+   id="use309-4" />
+	</clipPath><clipPath
+   id="SVGID_156_-3">
+			<use
+   xlink:href="#SVGID_155_-1"
+   style="overflow:visible"
+   id="use310-0" />
+		</clipPath><clipPath
+   id="SVGID_158_-3">
+		<use
+   xlink:href="#SVGID_157_-4"
+   style="overflow:visible"
+   id="use312-0" />
+	</clipPath><clipPath
+   id="clipPath1-9">
+		<use
+   xlink:href="#SVGID_157_-4"
+   style="overflow:visible"
+   id="use1-2" />
+	</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="104.07388"
+   height="33.896839"
+   id="rect615-2-6-1-9-1-5" /><path
+   id="SVGID_149_-2"
+   d="m 537.45,180.92 v 0.75 c 0,4.65 3.77,8.41 8.41,8.41 4.65,0 8.41,-3.77 8.41,-8.41 v -0.75 c 0,-4.65 -3.77,-8.41 -8.41,-8.41 -4.64,0 -8.41,3.76 -8.41,8.41" /><rect
+   id="SVGID_151_-4"
+   x="536.31"
+   y="171.38"
+   width="19.16"
+   height="19.889999" /><path
+   id="SVGID_153_-0"
+   d="m 477.09,179.91 v 0.75 c 0,4.65 3.77,8.41 8.41,8.41 4.65,0 8.41,-3.77 8.41,-8.41 v -0.75 c 0,-4.65 -3.77,-8.41 -8.41,-8.41 -4.65,0 -8.41,3.76 -8.41,8.41" /><rect
+   id="SVGID_155_-1"
+   x="475.89001"
+   y="170.37"
+   width="19.16"
+   height="19.889999" /><rect
+   id="SVGID_157_-4"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><clipPath
+   id="SVGID_232_-1">
+		<use
+   xlink:href="#SVGID_231_-0"
+   style="overflow:visible"
+   id="use514-3" />
+	</clipPath><clipPath
+   id="SVGID_234_-1">
+		<use
+   xlink:href="#SVGID_233_-0"
+   style="overflow:visible"
+   id="use515-1" />
+	</clipPath><clipPath
+   id="SVGID_236_-0">
+			<use
+   xlink:href="#SVGID_235_-5"
+   style="overflow:visible"
+   id="use516-3" />
+		</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="116.01951"
+   height="32.258972"
+   id="rect615-8-4" /><rect
+   id="SVGID_231_-0"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><path
+   id="SVGID_233_-0"
+   d="m 336.47,75.03 v 0.75 c 0,4.65 3.77,8.41 8.41,8.41 4.65,0 8.41,-3.77 8.41,-8.41 v -0.75 c 0,-4.65 -3.77,-8.41 -8.41,-8.41 -4.64,-0.01 -8.41,3.76 -8.41,8.41" /><rect
+   id="SVGID_235_-5"
+   x="335.34"
+   y="65.489998"
+   width="19.16"
+   height="19.889999" /><rect
+   x="26.909403"
+   y="89.054314"
+   width="109.168"
+   height="15.77683"
+   id="rect615-2-6-1-9-7" /><clipPath
+   id="SVGID_164_-6">
+		<use
+   xlink:href="#SVGID_163_-4"
+   style="overflow:visible"
+   id="use330-0" />
+	</clipPath><clipPath
+   id="SVGID_166_-5">
+		<use
+   xlink:href="#SVGID_165_-2"
+   style="overflow:visible"
+   id="use331-0" />
+	</clipPath><clipPath
+   id="SVGID_168_-2">
+			<use
+   xlink:href="#SVGID_167_-8"
+   style="overflow:visible"
+   id="use332-9" />
+		</clipPath><clipPath
+   id="SVGID_170_-4">
+		<use
+   xlink:href="#SVGID_169_-3"
+   style="overflow:visible"
+   id="use334-3" />
+	</clipPath><clipPath
+   id="clipPath1-5">
+		<use
+   xlink:href="#SVGID_169_-3"
+   style="overflow:visible"
+   id="use1-1" />
+	</clipPath><clipPath
+   id="clipPath2-7">
+		<use
+   xlink:href="#SVGID_169_-3"
+   style="overflow:visible"
+   id="use2-4" />
+	</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="116.01951"
+   height="32.258972"
+   id="rect94-3" /><rect
+   id="SVGID_163_-4"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><path
+   id="SVGID_165_-2"
+   d="m 76.8,396.11 c -5.57,2.8 -9.38,8.57 -9.38,15.22 v 1.51 c 0,9.41 7.63,17.03 17.03,17.03 9.41,0 17.03,-7.63 17.03,-17.03 v -1.51 c 0,-6.66 -3.82,-12.42 -9.38,-15.22 z" /><rect
+   id="SVGID_167_-8"
+   x="67.150002"
+   y="396.10999"
+   width="35.470001"
+   height="33.959999" /><rect
+   id="SVGID_169_-3"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><clipPath
+   id="SVGID_144_-3">
+		<use
+   xlink:href="#SVGID_143_-0"
+   style="overflow:visible"
+   id="use279-2" />
+	</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="101.19977"
+   height="16.086838"
+   id="rect615-2-6-1-6" /><rect
+   id="SVGID_143_-0"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><clipPath
+   id="SVGID_220_-2">
+		<use
+   xlink:href="#SVGID_219_-3"
+   style="overflow:visible"
+   id="use483-8" />
+	</clipPath><clipPath
+   id="clipPath1-3">
+		<use
+   xlink:href="#SVGID_219_-3"
+   style="overflow:visible"
+   id="use1-0" />
+	</clipPath><clipPath
+   id="SVGID_222_-1">
+		<use
+   xlink:href="#SVGID_221_-9"
+   style="overflow:visible"
+   id="use484-7" />
+	</clipPath><clipPath
+   id="SVGID_224_-8">
+			<use
+   xlink:href="#SVGID_223_-3"
+   style="overflow:visible"
+   id="use485-9" />
+		</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="116.01951"
+   height="32.258972"
+   id="rect621-1" /><rect
+   id="SVGID_219_-3"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><path
+   id="SVGID_221_-9"
+   d="m 474.24,70.08 v 0.75 c 0,4.65 3.77,8.41 8.41,8.41 4.65,0 8.41,-3.77 8.41,-8.41 v -0.75 c 0,-4.65 -3.77,-8.41 -8.41,-8.41 -4.65,0 -8.41,3.76 -8.41,8.41" /><rect
+   id="SVGID_223_-3"
+   x="473.10001"
+   y="60.540001"
+   width="19.16"
+   height="19.889999" /><clipPath
+   id="SVGID_172_-2">
+		<use
+   xlink:href="#SVGID_171_"
+   style="overflow:visible"
+   id="use349-0" />
+	</clipPath><clipPath
+   id="SVGID_174_-2">
+		<use
+   xlink:href="#SVGID_173_-4"
+   style="overflow:visible"
+   id="use351-1" />
+	</clipPath><clipPath
+   id="SVGID_176_-7">
+			<use
+   xlink:href="#SVGID_175_-6"
+   style="overflow:visible"
+   id="use352-5" />
+		</clipPath><clipPath
+   id="SVGID_178_-1">
+		<use
+   xlink:href="#SVGID_177_-0"
+   style="overflow:visible"
+   id="use354-7" />
+	</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="104.07388"
+   height="33.896839"
+   id="rect59-4" /><path
+   id="SVGID_173_-4"
+   d="m 502,282.42 c -5.57,2.8 -9.38,8.57 -9.38,15.22 v 1.51 c 0,9.41 7.63,17.03 17.03,17.03 9.4,0 17.03,-7.63 17.03,-17.03 v -1.51 c 0,-6.66 -3.82,-12.42 -9.38,-15.22 z" /><rect
+   id="SVGID_175_-6"
+   x="492.35001"
+   y="282.42001"
+   width="35.470001"
+   height="33.959999" /><rect
+   id="SVGID_177_-0"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><clipPath
+   id="SVGID_136_-7">
+		<use
+   xlink:href="#SVGID_135_-4"
+   style="overflow:visible"
+   id="use267-0" />
+	</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="116.01951"
+   height="32.258972"
+   id="rect615-2-6-6" /><rect
+   id="SVGID_135_-4"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><clipPath
+   id="SVGID_198_-27">
+		<use
+   xlink:href="#SVGID_197_"
+   style="overflow:visible"
+   id="use405-03" />
+	</clipPath><clipPath
+   id="clipPath1-4">
+		<use
+   xlink:href="#SVGID_197_"
+   style="overflow:visible"
+   id="use1-6" />
+	</clipPath><clipPath
+   id="clipPath2-3">
+		<use
+   xlink:href="#SVGID_197_"
+   style="overflow:visible"
+   id="use2-63" />
+	</clipPath><clipPath
+   id="clipPath3-3">
+		<use
+   xlink:href="#SVGID_197_"
+   style="overflow:visible"
+   id="use3-4" />
+	</clipPath><clipPath
+   id="clipPath4-4">
+		<use
+   xlink:href="#SVGID_197_"
+   style="overflow:visible"
+   id="use4-3" />
+	</clipPath><clipPath
+   id="clipPath5-9">
+		<use
+   xlink:href="#SVGID_197_"
+   style="overflow:visible"
+   id="use5-72" />
+	</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="114.32417"
+   height="23.676668"
+   id="rect72-5" /><clipPath
+   id="SVGID_206_-0">
+		<use
+   xlink:href="#SVGID_205_-3"
+   style="overflow:visible"
+   id="use436-8" />
+	</clipPath><clipPath
+   id="clipPath1-7">
+		<use
+   xlink:href="#SVGID_205_-3"
+   style="overflow:visible"
+   id="use1-63" />
+	</clipPath><clipPath
+   id="clipPath2-5">
+		<use
+   xlink:href="#SVGID_205_-3"
+   style="overflow:visible"
+   id="use2-0" />
+	</clipPath><clipPath
+   id="clipPath3-8">
+		<use
+   xlink:href="#SVGID_205_-3"
+   style="overflow:visible"
+   id="use3-0" />
+	</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="104.07388"
+   height="33.896839"
+   id="rect79-4" /><rect
+   id="SVGID_205_-3"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><clipPath
+   id="SVGID_248_-1">
+		<use
+   xlink:href="#SVGID_247_-5"
+   style="overflow:visible"
+   id="use574-5" />
+	</clipPath><clipPath
+   id="clipPath1-0">
+		<use
+   xlink:href="#SVGID_247_-5"
+   style="overflow:visible"
+   id="use1-65" />
+	</clipPath><clipPath
+   id="clipPath2-0">
+		<use
+   xlink:href="#SVGID_247_-5"
+   style="overflow:visible"
+   id="use2-8" />
+	</clipPath><clipPath
+   id="clipPath3-1">
+		<use
+   xlink:href="#SVGID_247_-5"
+   style="overflow:visible"
+   id="use3-2" />
+	</clipPath><clipPath
+   id="clipPath4-2">
+		<use
+   xlink:href="#SVGID_247_-5"
+   style="overflow:visible"
+   id="use4-6" />
+	</clipPath><clipPath
+   id="clipPath5-91">
+		<use
+   xlink:href="#SVGID_247_-5"
+   style="overflow:visible"
+   id="use5-0" />
+	</clipPath><clipPath
+   id="clipPath6">
+		<use
+   xlink:href="#SVGID_247_-5"
+   style="overflow:visible"
+   id="use6-4" />
+	</clipPath><clipPath
+   id="clipPath7">
+		<use
+   xlink:href="#SVGID_247_-5"
+   style="overflow:visible"
+   id="use7-2" />
+	</clipPath><clipPath
+   id="clipPath8">
+		<use
+   xlink:href="#SVGID_247_-5"
+   style="overflow:visible"
+   id="use8-7" />
+	</clipPath><clipPath
+   id="clipPath9">
+		<use
+   xlink:href="#SVGID_247_-5"
+   style="overflow:visible"
+   id="use9-4" />
+	</clipPath><clipPath
+   id="clipPath10">
+		<use
+   xlink:href="#SVGID_247_-5"
+   style="overflow:visible"
+   id="use10-0" />
+	</clipPath><clipPath
+   id="clipPath11">
+		<use
+   xlink:href="#SVGID_247_-5"
+   style="overflow:visible"
+   id="use11-3" />
+	</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="116.01951"
+   height="32.258972"
+   id="rect615-2-2" /><rect
+   id="SVGID_247_-5"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><clipPath
+   id="SVGID_42_-6">
+		<use
+   xlink:href="#SVGID_41_"
+   style="overflow:visible"
+   id="use120-9" />
+	</clipPath><clipPath
+   id="SVGID_44_-8">
+		<use
+   xlink:href="#SVGID_43_-8"
+   style="overflow:visible"
+   id="use122-1" />
+	</clipPath><clipPath
+   id="SVGID_46_-3">
+			<use
+   xlink:href="#SVGID_45_-2"
+   style="overflow:visible"
+   id="use123-3" />
+		</clipPath><clipPath
+   id="SVGID_48_-3">
+		<use
+   xlink:href="#SVGID_47_-9"
+   style="overflow:visible"
+   id="use125-7" />
+	</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="116.01951"
+   height="32.258972"
+   id="rect121-9" /><path
+   id="SVGID_43_-8"
+   d="m 81.97,506.06 c -7.37,1.43 -12.94,7.92 -12.94,15.71 0,8.84 7.17,16.01 16.01,16.01 8.84,0 16.01,-7.17 16.01,-16.01 0,-7.79 -5.57,-14.28 -12.94,-15.71 z" /><rect
+   id="SVGID_45_-2"
+   x="67.43"
+   y="506.06"
+   width="36.029999"
+   height="33.43" /><rect
+   id="SVGID_47_-9"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><rect
+   x="26.909403"
+   y="89.054314"
+   width="109.168"
+   height="15.77683"
+   id="rect615-2-6-1-9-4" /><clipPath
+   id="SVGID_158_-4">
+		<use
+   xlink:href="#SVGID_157_"
+   style="overflow:visible"
+   id="use312-2" />
+	</clipPath><clipPath
+   id="clipPath1-2">
+		<use
+   xlink:href="#SVGID_157_"
+   style="overflow:visible"
+   id="use1-17" />
+	</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="116.01951"
+   height="32.258972"
+   id="rect123-2" /><rect
+   id="rect108-2"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><clipPath
+   id="SVGID_136_-1">
+		<use
+   xlink:href="#SVGID_135_-8"
+   style="overflow:visible"
+   id="use267-5" />
+	</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="116.01951"
+   height="32.258972"
+   id="rect615-2-6-8" /><rect
+   id="SVGID_135_-8"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><clipPath
+   id="SVGID_34_-2">
+		<use
+   xlink:href="#SVGID_33_-2"
+   style="overflow:visible"
+   id="use82-7" />
+	</clipPath><clipPath
+   id="SVGID_36_-2">
+		<use
+   xlink:href="#SVGID_35_-9"
+   style="overflow:visible"
+   id="use83-1" />
+	</clipPath><clipPath
+   id="SVGID_38_-3">
+			<use
+   xlink:href="#SVGID_37_-4"
+   style="overflow:visible"
+   id="use84-4" />
+		</clipPath><clipPath
+   id="SVGID_40_-9">
+		<use
+   xlink:href="#SVGID_39_-9"
+   style="overflow:visible"
+   id="use86-4" />
+	</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="116.01951"
+   height="32.258972"
+   id="rect100-1" /><rect
+   id="SVGID_33_-2"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><path
+   id="SVGID_35_-9"
+   d="m 223.71,506.06 c -7.37,1.43 -12.94,7.92 -12.94,15.71 0,8.84 7.17,16.01 16.01,16.01 8.84,0 16.01,-7.17 16.01,-16.01 0,-7.79 -5.57,-14.28 -12.94,-15.71 z" /><rect
+   id="SVGID_37_-4"
+   x="209.17"
+   y="506.06"
+   width="36.029999"
+   height="33.43" /><rect
+   id="SVGID_39_-9"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><clipPath
+   id="SVGID_186_-7">
+		<use
+   xlink:href="#SVGID_185_-0"
+   style="overflow:visible"
+   id="use376-4" />
+	</clipPath><clipPath
+   id="SVGID_188_-9">
+		<use
+   xlink:href="#SVGID_187_-5"
+   style="overflow:visible"
+   id="use377-2" />
+	</clipPath><clipPath
+   id="SVGID_190_-4">
+			<use
+   xlink:href="#SVGID_189_-9"
+   style="overflow:visible"
+   id="use378-4" />
+		</clipPath><clipPath
+   id="SVGID_192_-5">
+		<use
+   xlink:href="#SVGID_191_-1"
+   style="overflow:visible"
+   id="use380-9" />
+	</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="116.01951"
+   height="32.258972"
+   id="rect96-1" /><rect
+   id="SVGID_185_-0"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><path
+   id="SVGID_187_-5"
+   d="m 218.54,393.91 c -5.57,2.8 -9.39,8.57 -9.39,15.22 v 1.51 c 0,9.41 7.63,17.03 17.03,17.03 9.41,0 17.03,-7.63 17.03,-17.03 v -1.51 c 0,-6.66 -3.82,-12.42 -9.38,-15.22 z" /><rect
+   id="SVGID_189_-9"
+   x="208.88"
+   y="393.91"
+   width="35.470001"
+   height="33.959999" /><rect
+   id="SVGID_191_-1"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><clipPath
+   id="SVGID_250_-8">
+		<use
+   xlink:href="#SVGID_249_-2"
+   style="overflow:visible"
+   id="use587-7" />
+	</clipPath><clipPath
+   id="clipPath1-05">
+		<use
+   xlink:href="#SVGID_249_-2"
+   style="overflow:visible"
+   id="use1-11" />
+	</clipPath><clipPath
+   id="clipPath2-03">
+		<use
+   xlink:href="#SVGID_249_-2"
+   style="overflow:visible"
+   id="use2-00" />
+	</clipPath><clipPath
+   id="clipPath3-4">
+		<use
+   xlink:href="#SVGID_249_-2"
+   style="overflow:visible"
+   id="use3-5" />
+	</clipPath><clipPath
+   id="clipPath4-42">
+		<use
+   xlink:href="#SVGID_249_-2"
+   style="overflow:visible"
+   id="use4-4" />
+	</clipPath><clipPath
+   id="clipPath5-99">
+		<use
+   xlink:href="#SVGID_249_-2"
+   style="overflow:visible"
+   id="use5-9" />
+	</clipPath><clipPath
+   id="clipPath6-4">
+		<use
+   xlink:href="#SVGID_249_-2"
+   style="overflow:visible"
+   id="use6-9" />
+	</clipPath><clipPath
+   id="clipPath7-8">
+		<use
+   xlink:href="#SVGID_249_-2"
+   style="overflow:visible"
+   id="use7-1" />
+	</clipPath><clipPath
+   id="clipPath8-6">
+		<use
+   xlink:href="#SVGID_249_-2"
+   style="overflow:visible"
+   id="use8-3" />
+	</clipPath><clipPath
+   id="clipPath9-9">
+		<use
+   xlink:href="#SVGID_249_-2"
+   style="overflow:visible"
+   id="use9-3" />
+	</clipPath><clipPath
+   id="clipPath10-3">
+		<use
+   xlink:href="#SVGID_249_-2"
+   style="overflow:visible"
+   id="use10-4" />
+	</clipPath><clipPath
+   id="clipPath11-6">
+		<use
+   xlink:href="#SVGID_249_-2"
+   style="overflow:visible"
+   id="use11-1" />
+	</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="116.01951"
+   height="32.258972"
+   id="rect615-5" /><rect
+   id="SVGID_249_-2"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><clipPath
+   id="SVGID_232_-0">
+		<use
+   xlink:href="#SVGID_231_-1"
+   style="overflow:visible"
+   id="use514-2" />
+	</clipPath><clipPath
+   id="SVGID_234_-4">
+		<use
+   xlink:href="#SVGID_233_-01"
+   style="overflow:visible"
+   id="use515-9" />
+	</clipPath><clipPath
+   id="SVGID_236_-01">
+			<use
+   xlink:href="#SVGID_235_-59"
+   style="overflow:visible"
+   id="use516-2" />
+		</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="116.01951"
+   height="32.258972"
+   id="rect615-8-0" /><rect
+   id="SVGID_231_-1"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><path
+   id="SVGID_233_-01"
+   d="m 336.47,75.03 v 0.75 c 0,4.65 3.77,8.41 8.41,8.41 4.65,0 8.41,-3.77 8.41,-8.41 v -0.75 c 0,-4.65 -3.77,-8.41 -8.41,-8.41 -4.64,-0.01 -8.41,3.76 -8.41,8.41" /><rect
+   id="SVGID_235_-59"
+   x="335.34"
+   y="65.489998"
+   width="19.16"
+   height="19.889999" /><clipPath
+   id="SVGID_198_-9">
+		<use
+   xlink:href="#SVGID_197_"
+   style="overflow:visible"
+   id="use405-9" />
+	</clipPath><clipPath
+   id="clipPath1-1">
+		<use
+   xlink:href="#SVGID_197_"
+   style="overflow:visible"
+   id="use1-9" />
+	</clipPath><inkscape:path-effect
+   effect="fill_between_many"
+   method="originald"
+   linkedpaths="#path1-7,0,1"
+   id="path-effect115-4"
+   is_visible="true"
+   lpeversion="0"
+   join="true"
+   close="true"
+   autoreverse="true" /><rect
+   x="26.909403"
+   y="89.054314"
+   width="116.01951"
+   height="32.258972"
+   id="rect117-2" /><clipPath
+   id="SVGID_12_-9">
+		<use
+   xlink:href="#SVGID_11_"
+   style="overflow:visible"
+   id="use38-6" />
+	</clipPath><clipPath
+   id="clipPath1-36">
+		<use
+   xlink:href="#SVGID_11_"
+   style="overflow:visible"
+   id="use1-84" />
+	</clipPath><clipPath
+   id="SVGID_18_-6">
+		<use
+   xlink:href="#SVGID_17_-4"
+   style="overflow:visible"
+   id="use45-6" />
+	</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="114.32417"
+   height="23.676668"
+   id="rect67-7" /><rect
+   id="SVGID_17_-4"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><clipPath
+   id="SVGID_42_-9">
+		<use
+   xlink:href="#SVGID_41_"
+   style="overflow:visible"
+   id="use120-16" />
+	</clipPath><clipPath
+   id="SVGID_44_-2">
+		<use
+   xlink:href="#SVGID_43_-4"
+   style="overflow:visible"
+   id="use122-10" />
+	</clipPath><clipPath
+   id="SVGID_46_-5">
+			<use
+   xlink:href="#SVGID_45_-8"
+   style="overflow:visible"
+   id="use123-32" />
+		</clipPath><clipPath
+   id="SVGID_48_-1">
+		<use
+   xlink:href="#SVGID_47_-92"
+   style="overflow:visible"
+   id="use125-9" />
+	</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="116.01951"
+   height="32.258972"
+   id="rect121-7" /><path
+   id="SVGID_43_-4"
+   d="m 81.97,506.06 c -7.37,1.43 -12.94,7.92 -12.94,15.71 0,8.84 7.17,16.01 16.01,16.01 8.84,0 16.01,-7.17 16.01,-16.01 0,-7.79 -5.57,-14.28 -12.94,-15.71 z" /><rect
+   id="SVGID_45_-8"
+   x="67.43"
+   y="506.06"
+   width="36.029999"
+   height="33.43" /><rect
+   id="SVGID_47_-92"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><clipPath
+   id="SVGID_198_-4">
+		<use
+   xlink:href="#SVGID_197_"
+   style="overflow:visible"
+   id="use405-3" />
+	</clipPath><clipPath
+   id="clipPath1-6">
+		<use
+   xlink:href="#SVGID_197_"
+   style="overflow:visible"
+   id="use1-4" />
+	</clipPath><clipPath
+   id="clipPath2-31">
+		<use
+   xlink:href="#SVGID_197_"
+   style="overflow:visible"
+   id="use2-91" />
+	</clipPath><clipPath
+   id="clipPath3-0">
+		<use
+   xlink:href="#SVGID_197_"
+   style="overflow:visible"
+   id="use3-9" />
+	</clipPath><clipPath
+   id="clipPath4-45">
+		<use
+   xlink:href="#SVGID_197_"
+   style="overflow:visible"
+   id="use4-62" />
+	</clipPath><clipPath
+   id="clipPath5-5">
+		<use
+   xlink:href="#SVGID_197_"
+   style="overflow:visible"
+   id="use5-91" />
+	</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="114.32417"
+   height="23.676668"
+   id="rect72-7" /><rect
+   x="26.909403"
+   y="89.054314"
+   width="109.168"
+   height="15.77683"
+   id="rect615-2-6-1-9-9" /><clipPath
+   id="SVGID_206_-9">
+		<use
+   xlink:href="#SVGID_205_-5"
+   style="overflow:visible"
+   id="use436-4" />
+	</clipPath><clipPath
+   id="clipPath1-64">
+		<use
+   xlink:href="#SVGID_205_-5"
+   style="overflow:visible"
+   id="use1-55" />
+	</clipPath><clipPath
+   id="clipPath2-56">
+		<use
+   xlink:href="#SVGID_205_-5"
+   style="overflow:visible"
+   id="use2-06" />
+	</clipPath><clipPath
+   id="clipPath3-2">
+		<use
+   xlink:href="#SVGID_205_-5"
+   style="overflow:visible"
+   id="use3-6" />
+	</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="104.07388"
+   height="33.896839"
+   id="rect79-9" /><rect
+   id="SVGID_205_-5"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><clipPath
+   id="SVGID_144_-4">
+		<use
+   xlink:href="#SVGID_143_-3"
+   style="overflow:visible"
+   id="use279-0" />
+	</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="101.19977"
+   height="16.086838"
+   id="rect615-2-6-1-0" /><rect
+   id="SVGID_143_-3"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><clipPath
+   id="SVGID_232_-16">
+		<use
+   xlink:href="#SVGID_231_-8"
+   style="overflow:visible"
+   id="use514-1" />
+	</clipPath><clipPath
+   id="SVGID_234_-3">
+		<use
+   xlink:href="#SVGID_233_-05"
+   style="overflow:visible"
+   id="use515-7" />
+	</clipPath><clipPath
+   id="SVGID_236_-7">
+			<use
+   xlink:href="#SVGID_235_-3"
+   style="overflow:visible"
+   id="use516-1" />
+		</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="116.01951"
+   height="32.258972"
+   id="rect615-8-2" /><rect
+   id="SVGID_231_-8"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><path
+   id="SVGID_233_-05"
+   d="m 336.47,75.03 v 0.75 c 0,4.65 3.77,8.41 8.41,8.41 4.65,0 8.41,-3.77 8.41,-8.41 v -0.75 c 0,-4.65 -3.77,-8.41 -8.41,-8.41 -4.64,-0.01 -8.41,3.76 -8.41,8.41" /><rect
+   id="SVGID_235_-3"
+   x="335.34"
+   y="65.489998"
+   width="19.16"
+   height="19.889999" /><clipPath
+   id="SVGID_24_-8">
+		<use
+   xlink:href="#SVGID_23_-7"
+   style="overflow:visible"
+   id="use60-8" />
+	</clipPath><clipPath
+   id="SVGID_26_-9">
+			<use
+   xlink:href="#SVGID_25_-3"
+   style="overflow:visible"
+   id="use61-0" />
+		</clipPath><clipPath
+   id="SVGID_28_-7">
+		<use
+   xlink:href="#SVGID_27_-6"
+   style="overflow:visible"
+   id="use63-8" />
+	</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="116.01951"
+   height="32.258972"
+   id="rect16-0" /><path
+   id="SVGID_23_-7"
+   d="m 82.02,280.95 c -7.93,1.42 -13.95,8.36 -13.95,16.7 v 1.51 c 0,9.37 7.59,16.96 16.96,16.96 9.37,0 16.97,-7.6 16.97,-16.97 v -1.51 c 0,-8.34 -6.02,-15.27 -13.95,-16.7 h -6.03 z" /><rect
+   id="SVGID_25_-3"
+   x="66.730003"
+   y="280.95001"
+   width="36.290001"
+   height="36.290001" /><rect
+   id="SVGID_27_-6"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><clipPath
+   id="SVGID_248_-7">
+		<use
+   xlink:href="#SVGID_247_-3"
+   style="overflow:visible"
+   id="use574-4" />
+	</clipPath><clipPath
+   id="clipPath1-649">
+		<use
+   xlink:href="#SVGID_247_-3"
+   style="overflow:visible"
+   id="use1-123" />
+	</clipPath><clipPath
+   id="clipPath2-1">
+		<use
+   xlink:href="#SVGID_247_-3"
+   style="overflow:visible"
+   id="use2-81" />
+	</clipPath><clipPath
+   id="clipPath3-38">
+		<use
+   xlink:href="#SVGID_247_-3"
+   style="overflow:visible"
+   id="use3-92" />
+	</clipPath><clipPath
+   id="clipPath4-451">
+		<use
+   xlink:href="#SVGID_247_-3"
+   style="overflow:visible"
+   id="use4-0" />
+	</clipPath><clipPath
+   id="clipPath5-0">
+		<use
+   xlink:href="#SVGID_247_-3"
+   style="overflow:visible"
+   id="use5-13" />
+	</clipPath><clipPath
+   id="clipPath6-3">
+		<use
+   xlink:href="#SVGID_247_-3"
+   style="overflow:visible"
+   id="use6-0" />
+	</clipPath><clipPath
+   id="clipPath7-0">
+		<use
+   xlink:href="#SVGID_247_-3"
+   style="overflow:visible"
+   id="use7-0" />
+	</clipPath><clipPath
+   id="clipPath8-2">
+		<use
+   xlink:href="#SVGID_247_-3"
+   style="overflow:visible"
+   id="use8-2" />
+	</clipPath><clipPath
+   id="clipPath9-2">
+		<use
+   xlink:href="#SVGID_247_-3"
+   style="overflow:visible"
+   id="use9-47" />
+	</clipPath><clipPath
+   id="clipPath10-9">
+		<use
+   xlink:href="#SVGID_247_-3"
+   style="overflow:visible"
+   id="use10-8" />
+	</clipPath><clipPath
+   id="clipPath11-5">
+		<use
+   xlink:href="#SVGID_247_-3"
+   style="overflow:visible"
+   id="use11-4" />
+	</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="116.01951"
+   height="32.258972"
+   id="rect615-2-7" /><rect
+   id="SVGID_247_-3"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><clipPath
+   id="SVGID_186_-2">
+		<use
+   xlink:href="#SVGID_185_-8"
+   style="overflow:visible"
+   id="use376-8" />
+	</clipPath><clipPath
+   id="SVGID_188_-95">
+		<use
+   xlink:href="#SVGID_187_-0"
+   style="overflow:visible"
+   id="use377-0" />
+	</clipPath><clipPath
+   id="SVGID_190_-2">
+			<use
+   xlink:href="#SVGID_189_-0"
+   style="overflow:visible"
+   id="use378-7" />
+		</clipPath><clipPath
+   id="SVGID_192_-2">
+		<use
+   xlink:href="#SVGID_191_-7"
+   style="overflow:visible"
+   id="use380-8" />
+	</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="116.01951"
+   height="32.258972"
+   id="rect96-17" /><rect
+   id="SVGID_185_-8"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><path
+   id="SVGID_187_-0"
+   d="m 218.54,393.91 c -5.57,2.8 -9.39,8.57 -9.39,15.22 v 1.51 c 0,9.41 7.63,17.03 17.03,17.03 9.41,0 17.03,-7.63 17.03,-17.03 v -1.51 c 0,-6.66 -3.82,-12.42 -9.38,-15.22 z" /><rect
+   id="SVGID_189_-0"
+   x="208.88"
+   y="393.91"
+   width="35.470001"
+   height="33.959999" /><rect
+   id="SVGID_191_-7"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><clipPath
+   id="SVGID_144_-42">
+		<use
+   xlink:href="#SVGID_143_-6"
+   style="overflow:visible"
+   id="use279-5" />
+	</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="101.19977"
+   height="16.086838"
+   id="rect615-2-6-1-4" /><rect
+   id="SVGID_143_-6"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><clipPath
+   id="SVGID_250_-7">
+		<use
+   xlink:href="#SVGID_249_-1"
+   style="overflow:visible"
+   id="use587-0" />
+	</clipPath><clipPath
+   id="clipPath1-94">
+		<use
+   xlink:href="#SVGID_249_-1"
+   style="overflow:visible"
+   id="use1-54" />
+	</clipPath><clipPath
+   id="clipPath2-2">
+		<use
+   xlink:href="#SVGID_249_-1"
+   style="overflow:visible"
+   id="use2-23" />
+	</clipPath><clipPath
+   id="clipPath3-9">
+		<use
+   xlink:href="#SVGID_249_-1"
+   style="overflow:visible"
+   id="use3-65" />
+	</clipPath><clipPath
+   id="clipPath4-7">
+		<use
+   xlink:href="#SVGID_249_-1"
+   style="overflow:visible"
+   id="use4-43" />
+	</clipPath><clipPath
+   id="clipPath5-94">
+		<use
+   xlink:href="#SVGID_249_-1"
+   style="overflow:visible"
+   id="use5-40" />
+	</clipPath><clipPath
+   id="clipPath6-6">
+		<use
+   xlink:href="#SVGID_249_-1"
+   style="overflow:visible"
+   id="use6-02" />
+	</clipPath><clipPath
+   id="clipPath7-2">
+		<use
+   xlink:href="#SVGID_249_-1"
+   style="overflow:visible"
+   id="use7-84" />
+	</clipPath><clipPath
+   id="clipPath8-3">
+		<use
+   xlink:href="#SVGID_249_-1"
+   style="overflow:visible"
+   id="use8-1" />
+	</clipPath><clipPath
+   id="clipPath9-1">
+		<use
+   xlink:href="#SVGID_249_-1"
+   style="overflow:visible"
+   id="use9-1" />
+	</clipPath><clipPath
+   id="clipPath10-90">
+		<use
+   xlink:href="#SVGID_249_-1"
+   style="overflow:visible"
+   id="use10-00" />
+	</clipPath><clipPath
+   id="clipPath11-2">
+		<use
+   xlink:href="#SVGID_249_-1"
+   style="overflow:visible"
+   id="use11-5" />
+	</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="116.01951"
+   height="32.258972"
+   id="rect615-7" /><rect
+   id="SVGID_249_-1"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><clipPath
+   id="SVGID_42_-69">
+		<use
+   xlink:href="#SVGID_41_"
+   style="overflow:visible"
+   id="use120-7" />
+	</clipPath><clipPath
+   id="SVGID_44_-26">
+		<use
+   xlink:href="#SVGID_43_-0"
+   style="overflow:visible"
+   id="use122-4" />
+	</clipPath><clipPath
+   id="SVGID_46_-07">
+			<use
+   xlink:href="#SVGID_45_-3"
+   style="overflow:visible"
+   id="use123-5" />
+		</clipPath><clipPath
+   id="SVGID_48_-40">
+		<use
+   xlink:href="#SVGID_47_-8"
+   style="overflow:visible"
+   id="use125-1" />
+	</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="116.01951"
+   height="32.258972"
+   id="rect121-2" /><path
+   id="SVGID_43_-0"
+   d="m 81.97,506.06 c -7.37,1.43 -12.94,7.92 -12.94,15.71 0,8.84 7.17,16.01 16.01,16.01 8.84,0 16.01,-7.17 16.01,-16.01 0,-7.79 -5.57,-14.28 -12.94,-15.71 z" /><rect
+   id="SVGID_45_-3"
+   x="67.43"
+   y="506.06"
+   width="36.029999"
+   height="33.43" /><rect
+   id="SVGID_47_-8"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><clipPath
+   id="SVGID_220_-7">
+		<use
+   xlink:href="#SVGID_219_-4"
+   style="overflow:visible"
+   id="use483-9" />
+	</clipPath><clipPath
+   id="clipPath1-28">
+		<use
+   xlink:href="#SVGID_219_-4"
+   style="overflow:visible"
+   id="use1-99" />
+	</clipPath><clipPath
+   id="SVGID_222_-8">
+		<use
+   xlink:href="#SVGID_221_-0"
+   style="overflow:visible"
+   id="use484-9" />
+	</clipPath><clipPath
+   id="SVGID_224_-3">
+			<use
+   xlink:href="#SVGID_223_-8"
+   style="overflow:visible"
+   id="use485-6" />
+		</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="116.01951"
+   height="32.258972"
+   id="rect621-3" /><rect
+   id="SVGID_219_-4"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><path
+   id="SVGID_221_-0"
+   d="m 474.24,70.08 v 0.75 c 0,4.65 3.77,8.41 8.41,8.41 4.65,0 8.41,-3.77 8.41,-8.41 v -0.75 c 0,-4.65 -3.77,-8.41 -8.41,-8.41 -4.65,0 -8.41,3.76 -8.41,8.41" /><rect
+   id="SVGID_223_-8"
+   x="473.10001"
+   y="60.540001"
+   width="19.16"
+   height="19.889999" /><rect
+   x="26.909403"
+   y="89.054314"
+   width="109.168"
+   height="15.77683"
+   id="rect615-2-6-1-9-5" /><clipPath
+   id="SVGID_248_-2">
+		<use
+   xlink:href="#SVGID_247_-6"
+   style="overflow:visible"
+   id="use574-53" />
+	</clipPath><clipPath
+   id="clipPath1-8">
+		<use
+   xlink:href="#SVGID_247_-6"
+   style="overflow:visible"
+   id="use1-50" />
+	</clipPath><clipPath
+   id="clipPath2-566">
+		<use
+   xlink:href="#SVGID_247_-6"
+   style="overflow:visible"
+   id="use2-7" />
+	</clipPath><clipPath
+   id="clipPath3-34">
+		<use
+   xlink:href="#SVGID_247_-6"
+   style="overflow:visible"
+   id="use3-08" />
+	</clipPath><clipPath
+   id="clipPath4-0">
+		<use
+   xlink:href="#SVGID_247_-6"
+   style="overflow:visible"
+   id="use4-81" />
+	</clipPath><clipPath
+   id="clipPath5-53">
+		<use
+   xlink:href="#SVGID_247_-6"
+   style="overflow:visible"
+   id="use5-51" />
+	</clipPath><clipPath
+   id="clipPath6-1">
+		<use
+   xlink:href="#SVGID_247_-6"
+   style="overflow:visible"
+   id="use6-40" />
+	</clipPath><clipPath
+   id="clipPath7-1">
+		<use
+   xlink:href="#SVGID_247_-6"
+   style="overflow:visible"
+   id="use7-18" />
+	</clipPath><clipPath
+   id="clipPath8-5">
+		<use
+   xlink:href="#SVGID_247_-6"
+   style="overflow:visible"
+   id="use8-78" />
+	</clipPath><clipPath
+   id="clipPath9-5">
+		<use
+   xlink:href="#SVGID_247_-6"
+   style="overflow:visible"
+   id="use9-16" />
+	</clipPath><clipPath
+   id="clipPath10-0">
+		<use
+   xlink:href="#SVGID_247_-6"
+   style="overflow:visible"
+   id="use10-9" />
+	</clipPath><clipPath
+   id="clipPath11-1">
+		<use
+   xlink:href="#SVGID_247_-6"
+   style="overflow:visible"
+   id="use11-2" />
+	</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="116.01951"
+   height="32.258972"
+   id="rect615-2-4" /><rect
+   id="SVGID_247_-6"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><clipPath
+   id="SVGID_186_-0">
+		<use
+   xlink:href="#SVGID_185_-1"
+   style="overflow:visible"
+   id="use376-9" />
+	</clipPath><clipPath
+   id="SVGID_188_-6">
+		<use
+   xlink:href="#SVGID_187_-8"
+   style="overflow:visible"
+   id="use377-60" />
+	</clipPath><clipPath
+   id="SVGID_190_-45">
+			<use
+   xlink:href="#SVGID_189_-2"
+   style="overflow:visible"
+   id="use378-8" />
+		</clipPath><clipPath
+   id="SVGID_192_-28">
+		<use
+   xlink:href="#SVGID_191_-6"
+   style="overflow:visible"
+   id="use380-6" />
+	</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="116.01951"
+   height="32.258972"
+   id="rect96-8" /><rect
+   id="SVGID_185_-1"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><path
+   id="SVGID_187_-8"
+   d="m 218.54,393.91 c -5.57,2.8 -9.39,8.57 -9.39,15.22 v 1.51 c 0,9.41 7.63,17.03 17.03,17.03 9.41,0 17.03,-7.63 17.03,-17.03 v -1.51 c 0,-6.66 -3.82,-12.42 -9.38,-15.22 z" /><rect
+   id="SVGID_189_-2"
+   x="208.88"
+   y="393.91"
+   width="35.470001"
+   height="33.959999" /><rect
+   id="SVGID_191_-6"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><clipPath
+   id="SVGID_34_-9">
+		<use
+   xlink:href="#SVGID_33_-7"
+   style="overflow:visible"
+   id="use82-3" />
+	</clipPath><clipPath
+   id="SVGID_36_-6">
+		<use
+   xlink:href="#SVGID_35_-7"
+   style="overflow:visible"
+   id="use83-3" />
+	</clipPath><clipPath
+   id="SVGID_38_-8">
+			<use
+   xlink:href="#SVGID_37_-41"
+   style="overflow:visible"
+   id="use84-9" />
+		</clipPath><clipPath
+   id="SVGID_40_-5">
+		<use
+   xlink:href="#SVGID_39_-1"
+   style="overflow:visible"
+   id="use86-0" />
+	</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="116.01951"
+   height="32.258972"
+   id="rect100-17" /><rect
+   id="SVGID_33_-7"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><path
+   id="SVGID_35_-7"
+   d="m 223.71,506.06 c -7.37,1.43 -12.94,7.92 -12.94,15.71 0,8.84 7.17,16.01 16.01,16.01 8.84,0 16.01,-7.17 16.01,-16.01 0,-7.79 -5.57,-14.28 -12.94,-15.71 z" /><rect
+   id="SVGID_37_-41"
+   x="209.17"
+   y="506.06"
+   width="36.029999"
+   height="33.43" /><rect
+   id="SVGID_39_-1"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><clipPath
+   id="SVGID_186_-00">
+		<use
+   xlink:href="#SVGID_185_-6"
+   style="overflow:visible"
+   id="use376-16" />
+	</clipPath><clipPath
+   id="SVGID_188_-4">
+		<use
+   xlink:href="#SVGID_187_-9"
+   style="overflow:visible"
+   id="use377-5" />
+	</clipPath><clipPath
+   id="SVGID_190_-8">
+			<use
+   xlink:href="#SVGID_189_-08"
+   style="overflow:visible"
+   id="use378-3" />
+		</clipPath><clipPath
+   id="SVGID_192_-1">
+		<use
+   xlink:href="#SVGID_191_-0"
+   style="overflow:visible"
+   id="use380-2" />
+	</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="116.01951"
+   height="32.258972"
+   id="rect96-2" /><rect
+   id="SVGID_185_-6"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><path
+   id="SVGID_187_-9"
+   d="m 218.54,393.91 c -5.57,2.8 -9.39,8.57 -9.39,15.22 v 1.51 c 0,9.41 7.63,17.03 17.03,17.03 9.41,0 17.03,-7.63 17.03,-17.03 v -1.51 c 0,-6.66 -3.82,-12.42 -9.38,-15.22 z" /><rect
+   id="SVGID_189_-08"
+   x="208.88"
+   y="393.91"
+   width="35.470001"
+   height="33.959999" /><rect
+   id="SVGID_191_-0"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><clipPath
+   id="SVGID_232_-6">
+		<use
+   xlink:href="#SVGID_231_-5"
+   style="overflow:visible"
+   id="use514-19" />
+	</clipPath><clipPath
+   id="SVGID_234_-49">
+		<use
+   xlink:href="#SVGID_233_-9"
+   style="overflow:visible"
+   id="use515-96" />
+	</clipPath><clipPath
+   id="SVGID_236_-9">
+			<use
+   xlink:href="#SVGID_235_-0"
+   style="overflow:visible"
+   id="use516-4" />
+		</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="116.01951"
+   height="32.258972"
+   id="rect615-8-20" /><rect
+   id="SVGID_231_-5"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><path
+   id="SVGID_233_-9"
+   d="m 336.47,75.03 v 0.75 c 0,4.65 3.77,8.41 8.41,8.41 4.65,0 8.41,-3.77 8.41,-8.41 v -0.75 c 0,-4.65 -3.77,-8.41 -8.41,-8.41 -4.64,-0.01 -8.41,3.76 -8.41,8.41" /><rect
+   id="SVGID_235_-0"
+   x="335.34"
+   y="65.489998"
+   width="19.16"
+   height="19.889999" /><rect
+   x="26.909403"
+   y="89.054314"
+   width="109.168"
+   height="15.77683"
+   id="rect615-2-6-1-9-42" /><clipPath
+   id="SVGID_186_-28">
+		<use
+   xlink:href="#SVGID_185_-01"
+   style="overflow:visible"
+   id="use376-7" />
+	</clipPath><clipPath
+   id="SVGID_188_-68">
+		<use
+   xlink:href="#SVGID_187_-78"
+   style="overflow:visible"
+   id="use377-4" />
+	</clipPath><clipPath
+   id="SVGID_190_-89">
+			<use
+   xlink:href="#SVGID_189_-3"
+   style="overflow:visible"
+   id="use378-83" />
+		</clipPath><clipPath
+   id="SVGID_192_-7">
+		<use
+   xlink:href="#SVGID_191_-60"
+   style="overflow:visible"
+   id="use380-0" />
+	</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="116.01951"
+   height="32.258972"
+   id="rect96-7" /><rect
+   id="SVGID_185_-01"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><path
+   id="SVGID_187_-78"
+   d="m 218.54,393.91 c -5.57,2.8 -9.39,8.57 -9.39,15.22 v 1.51 c 0,9.41 7.63,17.03 17.03,17.03 9.41,0 17.03,-7.63 17.03,-17.03 v -1.51 c 0,-6.66 -3.82,-12.42 -9.38,-15.22 z" /><rect
+   id="SVGID_189_-3"
+   x="208.88"
+   y="393.91"
+   width="35.470001"
+   height="33.959999" /><rect
+   id="SVGID_191_-60"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><rect
+   x="26.909403"
+   y="89.054314"
+   width="109.168"
+   height="15.77683"
+   id="rect615-2-6-1-9-8" /><clipPath
+   id="SVGID_144_-2">
+		<use
+   xlink:href="#SVGID_143_-07"
+   style="overflow:visible"
+   id="use279-7" />
+	</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="101.19977"
+   height="16.086838"
+   id="rect615-2-6-1-3" /><rect
+   id="SVGID_143_-07"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><clipPath
+   id="SVGID_42_-98">
+		<use
+   xlink:href="#SVGID_41_"
+   style="overflow:visible"
+   id="use120-4" />
+	</clipPath><clipPath
+   id="SVGID_44_-25">
+		<use
+   xlink:href="#SVGID_43_-3"
+   style="overflow:visible"
+   id="use122-7" />
+	</clipPath><clipPath
+   id="SVGID_46_-2">
+			<use
+   xlink:href="#SVGID_45_-23"
+   style="overflow:visible"
+   id="use123-7" />
+		</clipPath><clipPath
+   id="SVGID_48_-44">
+		<use
+   xlink:href="#SVGID_47_-923"
+   style="overflow:visible"
+   id="use125-0" />
+	</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="116.01951"
+   height="32.258972"
+   id="rect121-5" /><path
+   id="SVGID_43_-3"
+   d="m 81.97,506.06 c -7.37,1.43 -12.94,7.92 -12.94,15.71 0,8.84 7.17,16.01 16.01,16.01 8.84,0 16.01,-7.17 16.01,-16.01 0,-7.79 -5.57,-14.28 -12.94,-15.71 z" /><rect
+   id="SVGID_45_-23"
+   x="67.43"
+   y="506.06"
+   width="36.029999"
+   height="33.43" /><rect
+   id="SVGID_47_-923"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><clipPath
+   id="SVGID_232_-2">
+		<use
+   xlink:href="#SVGID_231_-07"
+   style="overflow:visible"
+   id="use514-38" />
+	</clipPath><clipPath
+   id="SVGID_234_-6">
+		<use
+   xlink:href="#SVGID_233_-07"
+   style="overflow:visible"
+   id="use515-2" />
+	</clipPath><clipPath
+   id="SVGID_236_-70">
+			<use
+   xlink:href="#SVGID_235_-4"
+   style="overflow:visible"
+   id="use516-7" />
+		</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="116.01951"
+   height="32.258972"
+   id="rect615-8-6" /><rect
+   id="SVGID_231_-07"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><path
+   id="SVGID_233_-07"
+   d="m 336.47,75.03 v 0.75 c 0,4.65 3.77,8.41 8.41,8.41 4.65,0 8.41,-3.77 8.41,-8.41 v -0.75 c 0,-4.65 -3.77,-8.41 -8.41,-8.41 -4.64,-0.01 -8.41,3.76 -8.41,8.41" /><rect
+   id="SVGID_235_-4"
+   x="335.34"
+   y="65.489998"
+   width="19.16"
+   height="19.889999" /><clipPath
+   id="SVGID_220_-9">
+		<use
+   xlink:href="#SVGID_219_-38"
+   style="overflow:visible"
+   id="use483-0" />
+	</clipPath><clipPath
+   id="clipPath1-76">
+		<use
+   xlink:href="#SVGID_219_-38"
+   style="overflow:visible"
+   id="use1-933" />
+	</clipPath><clipPath
+   id="SVGID_222_-6">
+		<use
+   xlink:href="#SVGID_221_-7"
+   style="overflow:visible"
+   id="use484-4" />
+	</clipPath><clipPath
+   id="SVGID_224_-9">
+			<use
+   xlink:href="#SVGID_223_-7"
+   style="overflow:visible"
+   id="use485-8" />
+		</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="116.01951"
+   height="32.258972"
+   id="rect621-4" /><rect
+   id="SVGID_219_-38"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><path
+   id="SVGID_221_-7"
+   d="m 474.24,70.08 v 0.75 c 0,4.65 3.77,8.41 8.41,8.41 4.65,0 8.41,-3.77 8.41,-8.41 v -0.75 c 0,-4.65 -3.77,-8.41 -8.41,-8.41 -4.65,0 -8.41,3.76 -8.41,8.41" /><rect
+   id="SVGID_223_-7"
+   x="473.10001"
+   y="60.540001"
+   width="19.16"
+   height="19.889999" /><clipPath
+   id="SVGID_250_-0">
+		<use
+   xlink:href="#SVGID_249_-28"
+   style="overflow:visible"
+   id="use587-70" />
+	</clipPath><clipPath
+   id="clipPath1-20">
+		<use
+   xlink:href="#SVGID_249_-28"
+   style="overflow:visible"
+   id="use1-004" />
+	</clipPath><clipPath
+   id="clipPath2-08">
+		<use
+   xlink:href="#SVGID_249_-28"
+   style="overflow:visible"
+   id="use2-1" />
+	</clipPath><clipPath
+   id="clipPath3-19">
+		<use
+   xlink:href="#SVGID_249_-28"
+   style="overflow:visible"
+   id="use3-93" />
+	</clipPath><clipPath
+   id="clipPath4-9">
+		<use
+   xlink:href="#SVGID_249_-28"
+   style="overflow:visible"
+   id="use4-91" />
+	</clipPath><clipPath
+   id="clipPath5-2">
+		<use
+   xlink:href="#SVGID_249_-28"
+   style="overflow:visible"
+   id="use5-64" />
+	</clipPath><clipPath
+   id="clipPath6-7">
+		<use
+   xlink:href="#SVGID_249_-28"
+   style="overflow:visible"
+   id="use6-93" />
+	</clipPath><clipPath
+   id="clipPath7-28">
+		<use
+   xlink:href="#SVGID_249_-28"
+   style="overflow:visible"
+   id="use7-75" />
+	</clipPath><clipPath
+   id="clipPath8-60">
+		<use
+   xlink:href="#SVGID_249_-28"
+   style="overflow:visible"
+   id="use8-4" />
+	</clipPath><clipPath
+   id="clipPath9-6">
+		<use
+   xlink:href="#SVGID_249_-28"
+   style="overflow:visible"
+   id="use9-9" />
+	</clipPath><clipPath
+   id="clipPath10-6">
+		<use
+   xlink:href="#SVGID_249_-28"
+   style="overflow:visible"
+   id="use10-89" />
+	</clipPath><clipPath
+   id="clipPath11-68">
+		<use
+   xlink:href="#SVGID_249_-28"
+   style="overflow:visible"
+   id="use11-59" />
+	</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="116.01951"
+   height="32.258972"
+   id="rect615-87" /><rect
+   id="SVGID_249_-28"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><clipPath
+   id="SVGID_42_-96">
+		<use
+   xlink:href="#SVGID_41_"
+   style="overflow:visible"
+   id="use120-2" />
+	</clipPath><clipPath
+   id="SVGID_44_-88">
+		<use
+   xlink:href="#SVGID_43_-6"
+   style="overflow:visible"
+   id="use122-75" />
+	</clipPath><clipPath
+   id="SVGID_46_-7">
+			<use
+   xlink:href="#SVGID_45_-86"
+   style="overflow:visible"
+   id="use123-0" />
+		</clipPath><clipPath
+   id="SVGID_48_-2">
+		<use
+   xlink:href="#SVGID_47_-91"
+   style="overflow:visible"
+   id="use125-2" />
+	</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="116.01951"
+   height="32.258972"
+   id="rect121-91" /><path
+   id="SVGID_43_-6"
+   d="m 81.97,506.06 c -7.37,1.43 -12.94,7.92 -12.94,15.71 0,8.84 7.17,16.01 16.01,16.01 8.84,0 16.01,-7.17 16.01,-16.01 0,-7.79 -5.57,-14.28 -12.94,-15.71 z" /><rect
+   id="SVGID_45_-86"
+   x="67.43"
+   y="506.06"
+   width="36.029999"
+   height="33.43" /><rect
+   id="SVGID_47_-91"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><clipPath
+   id="SVGID_42_-2">
+		<use
+   xlink:href="#SVGID_41_"
+   style="overflow:visible"
+   id="use120-6" />
+	</clipPath><clipPath
+   id="SVGID_44_-6">
+		<use
+   xlink:href="#SVGID_43_-54"
+   style="overflow:visible"
+   id="use122-5" />
+	</clipPath><clipPath
+   id="SVGID_46_-05">
+			<use
+   xlink:href="#SVGID_45_-9"
+   style="overflow:visible"
+   id="use123-43" />
+		</clipPath><clipPath
+   id="SVGID_48_-19">
+		<use
+   xlink:href="#SVGID_47_-1"
+   style="overflow:visible"
+   id="use125-8" />
+	</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="116.01951"
+   height="32.258972"
+   id="rect121-77" /><path
+   id="SVGID_43_-54"
+   d="m 81.97,506.06 c -7.37,1.43 -12.94,7.92 -12.94,15.71 0,8.84 7.17,16.01 16.01,16.01 8.84,0 16.01,-7.17 16.01,-16.01 0,-7.79 -5.57,-14.28 -12.94,-15.71 z" /><rect
+   id="SVGID_45_-9"
+   x="67.43"
+   y="506.06"
+   width="36.029999"
+   height="33.43" /><rect
+   id="SVGID_47_-1"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><clipPath
+   id="SVGID_220_-0">
+		<use
+   xlink:href="#SVGID_219_-6"
+   style="overflow:visible"
+   id="use483-6" />
+	</clipPath><clipPath
+   id="clipPath1-43">
+		<use
+   xlink:href="#SVGID_219_-6"
+   style="overflow:visible"
+   id="use1-05" />
+	</clipPath><clipPath
+   id="SVGID_222_-4">
+		<use
+   xlink:href="#SVGID_221_-4"
+   style="overflow:visible"
+   id="use484-1" />
+	</clipPath><clipPath
+   id="SVGID_224_-4">
+			<use
+   xlink:href="#SVGID_223_-1"
+   style="overflow:visible"
+   id="use485-5" />
+		</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="116.01951"
+   height="32.258972"
+   id="rect621-8" /><rect
+   id="SVGID_219_-6"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><path
+   id="SVGID_221_-4"
+   d="m 474.24,70.08 v 0.75 c 0,4.65 3.77,8.41 8.41,8.41 4.65,0 8.41,-3.77 8.41,-8.41 v -0.75 c 0,-4.65 -3.77,-8.41 -8.41,-8.41 -4.65,0 -8.41,3.76 -8.41,8.41" /><rect
+   id="SVGID_223_-1"
+   x="473.10001"
+   y="60.540001"
+   width="19.16"
+   height="19.889999" /><rect
+   x="26.909403"
+   y="89.054314"
+   width="109.168"
+   height="15.77683"
+   id="rect615-2-6-1-9-96" /><clipPath
+   id="SVGID_150_-1">
+		<use
+   xlink:href="#SVGID_149_-3"
+   style="overflow:visible"
+   id="use305-6" />
+	</clipPath><clipPath
+   id="SVGID_152_-6">
+			<use
+   xlink:href="#SVGID_151_-42"
+   style="overflow:visible"
+   id="use306-1" />
+		</clipPath><clipPath
+   id="SVGID_154_-3">
+		<use
+   xlink:href="#SVGID_153_-8"
+   style="overflow:visible"
+   id="use309-40" />
+	</clipPath><clipPath
+   id="SVGID_156_-9">
+			<use
+   xlink:href="#SVGID_155_-9"
+   style="overflow:visible"
+   id="use310-6" />
+		</clipPath><clipPath
+   id="SVGID_158_-8">
+		<use
+   xlink:href="#SVGID_157_-5"
+   style="overflow:visible"
+   id="use312-26" />
+	</clipPath><clipPath
+   id="clipPath1-42">
+		<use
+   xlink:href="#SVGID_157_-5"
+   style="overflow:visible"
+   id="use1-30" />
+	</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="104.07388"
+   height="33.896839"
+   id="rect615-2-6-1-9-1-50" /><path
+   id="SVGID_149_-3"
+   d="m 537.45,180.92 v 0.75 c 0,4.65 3.77,8.41 8.41,8.41 4.65,0 8.41,-3.77 8.41,-8.41 v -0.75 c 0,-4.65 -3.77,-8.41 -8.41,-8.41 -4.64,0 -8.41,3.76 -8.41,8.41" /><rect
+   id="SVGID_151_-42"
+   x="536.31"
+   y="171.38"
+   width="19.16"
+   height="19.889999" /><path
+   id="SVGID_153_-8"
+   d="m 477.09,179.91 v 0.75 c 0,4.65 3.77,8.41 8.41,8.41 4.65,0 8.41,-3.77 8.41,-8.41 v -0.75 c 0,-4.65 -3.77,-8.41 -8.41,-8.41 -4.65,0 -8.41,3.76 -8.41,8.41" /><rect
+   id="SVGID_155_-9"
+   x="475.89001"
+   y="170.37"
+   width="19.16"
+   height="19.889999" /><rect
+   id="SVGID_157_-5"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><clipPath
+   id="SVGID_232_-60">
+		<use
+   xlink:href="#SVGID_231_-6"
+   style="overflow:visible"
+   id="use514-7" />
+	</clipPath><clipPath
+   id="SVGID_234_-36">
+		<use
+   xlink:href="#SVGID_233_-4"
+   style="overflow:visible"
+   id="use515-5" />
+	</clipPath><clipPath
+   id="SVGID_236_-2">
+			<use
+   xlink:href="#SVGID_235_-6"
+   style="overflow:visible"
+   id="use516-24" />
+		</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="116.01951"
+   height="32.258972"
+   id="rect615-8-3" /><rect
+   id="SVGID_231_-6"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><path
+   id="SVGID_233_-4"
+   d="m 336.47,75.03 v 0.75 c 0,4.65 3.77,8.41 8.41,8.41 4.65,0 8.41,-3.77 8.41,-8.41 v -0.75 c 0,-4.65 -3.77,-8.41 -8.41,-8.41 -4.64,-0.01 -8.41,3.76 -8.41,8.41" /><rect
+   id="SVGID_235_-6"
+   x="335.34"
+   y="65.489998"
+   width="19.16"
+   height="19.889999" /><clipPath
+   id="SVGID_220_-22">
+		<use
+   xlink:href="#SVGID_219_-2"
+   style="overflow:visible"
+   id="use483-5" />
+	</clipPath><clipPath
+   id="clipPath1-62">
+		<use
+   xlink:href="#SVGID_219_-2"
+   style="overflow:visible"
+   id="use1-18" />
+	</clipPath><clipPath
+   id="SVGID_222_-13">
+		<use
+   xlink:href="#SVGID_221_-2"
+   style="overflow:visible"
+   id="use484-0" />
+	</clipPath><clipPath
+   id="SVGID_224_-7">
+			<use
+   xlink:href="#SVGID_223_-38"
+   style="overflow:visible"
+   id="use485-7" />
+		</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="116.01951"
+   height="32.258972"
+   id="rect621-2" /><rect
+   id="SVGID_219_-2"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /><path
+   id="SVGID_221_-2"
+   d="m 474.24,70.08 v 0.75 c 0,4.65 3.77,8.41 8.41,8.41 4.65,0 8.41,-3.77 8.41,-8.41 v -0.75 c 0,-4.65 -3.77,-8.41 -8.41,-8.41 -4.65,0 -8.41,3.76 -8.41,8.41" /><rect
+   id="SVGID_223_-38"
+   x="473.10001"
+   y="60.540001"
+   width="19.16"
+   height="19.889999" /><rect
+   x="26.909403"
+   y="89.054314"
+   width="109.168"
+   height="15.77683"
+   id="rect615-2-6-1-9-50" /><clipPath
+   id="SVGID_198_-7">
+		<use
+   xlink:href="#SVGID_197_"
+   style="overflow:visible"
+   id="use405-6" />
+	</clipPath><clipPath
+   id="clipPath1-82">
+		<use
+   xlink:href="#SVGID_197_"
+   style="overflow:visible"
+   id="use1-47" />
+	</clipPath><inkscape:path-effect
+   effect="fill_between_many"
+   method="originald"
+   linkedpaths="#path1-5,0,1"
+   id="path-effect115-7"
+   is_visible="true"
+   lpeversion="0"
+   join="true"
+   close="true"
+   autoreverse="true" /><rect
+   x="26.909403"
+   y="89.054314"
+   width="116.01951"
+   height="32.258972"
+   id="rect117-3" /><clipPath
+   id="SVGID_158_-5">
+		<use
+   xlink:href="#SVGID_157_"
+   style="overflow:visible"
+   id="use312-6" />
+	</clipPath><clipPath
+   id="clipPath1-51">
+		<use
+   xlink:href="#SVGID_157_"
+   style="overflow:visible"
+   id="use1-49" />
+	</clipPath><rect
+   x="26.909403"
+   y="89.054314"
+   width="116.01951"
+   height="32.258972"
+   id="rect123-5" /><rect
+   id="rect108-0"
+   width="595.28003"
+   height="841.89001"
+   x="0"
+   y="0" /></defs><sodipodi:namedview
    id="namedview599"
    pagecolor="#ffffff"
    bordercolor="#000000"
@@ -5336,9 +7694,9 @@
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
    showguides="true"
-   inkscape:zoom="1"
-   inkscape:cx="418.5"
-   inkscape:cy="838.5"
+   inkscape:zoom="0.5"
+   inkscape:cx="1668"
+   inkscape:cy="709"
    inkscape:window-width="1920"
    inkscape:window-height="1043"
    inkscape:window-x="0"
@@ -5389,7 +7747,63 @@
      position="222.88635,965.75525"
      orientation="0,-1"
      id="guide11"
-     inkscape:locked="false" /></sodipodi:namedview>
+     inkscape:locked="false" /><inkscape:page
+     x="0"
+     y="0"
+     width="793.70074"
+     height="1122.5197"
+     id="page1"
+     margin="0"
+     bleed="0" /><inkscape:page
+     x="803.70074"
+     y="0"
+     width="793.70074"
+     height="1122.5197"
+     id="page2"
+     margin="0"
+     bleed="0" /><inkscape:page
+     x="1607.4015"
+     y="0"
+     width="793.70074"
+     height="1122.5197"
+     id="page3"
+     margin="0"
+     bleed="0" /><inkscape:page
+     x="2411.1023"
+     y="0"
+     width="793.70074"
+     height="1122.5197"
+     id="page4"
+     margin="0"
+     bleed="0" /><inkscape:page
+     x="3214.803"
+     y="0"
+     width="793.70074"
+     height="1122.5197"
+     id="page5"
+     margin="0"
+     bleed="0" /><inkscape:page
+     x="4018.5037"
+     y="0"
+     width="793.70074"
+     height="1122.5197"
+     id="page6"
+     margin="0"
+     bleed="0" /><inkscape:page
+     x="4822.2046"
+     y="0"
+     width="793.70074"
+     height="1122.5197"
+     id="page47"
+     margin="0"
+     bleed="0" /><inkscape:page
+     x="0"
+     y="1376.3124"
+     width="793.70074"
+     height="1122.5197"
+     id="page70"
+     margin="0"
+     bleed="0" /></sodipodi:namedview>
 <style
    type="text/css"
    id="style1">
@@ -6016,6 +8430,12 @@
 <use
    xlink:href="#ATLAS"
    id="use50" /><use
+   xlink:href="#ARES"
+   id="use4"
+   transform="translate(613.18044,-306.24014)" /><use
+   xlink:href="#ARIADNE"
+   id="use2"
+   transform="rotate(180,512.1038,244.29636)" /><use
    xlink:href="#ERMES"
    id="use51" /><use
    xlink:href="#THEMIS"
@@ -6073,4 +8493,382 @@
    xlink:href="#GERYION"
    id="use95" /><use
    xlink:href="#HESPERIDES"
-   id="use96" /></svg>
+   id="use96" /><use
+   xlink:href="#ARES"
+   id="use4-9"
+   transform="translate(804.51728,-306.24014)" /><use
+   xlink:href="#ARES"
+   id="use6"
+   transform="translate(995.85412,-306.24014)" /><use
+   xlink:href="#ARES"
+   id="use7"
+   transform="translate(1187.191,-306.24014)" /><use
+   xlink:href="#PROMETHEUS"
+   id="use6-2"
+   transform="rotate(180,799.11581,397.77892)" /><use
+   xlink:href="#IANUS"
+   id="use5-4"
+   transform="rotate(180,799.11581,397.30443)" /><use
+   xlink:href="#ATHENA"
+   id="use4-88"
+   transform="rotate(180,799.10908,474.04573)" /><use
+   xlink:href="#ARES"
+   id="use8"
+   transform="translate(613.18044,-0.40499118)" /><use
+   xlink:href="#ARES"
+   id="use9"
+   transform="translate(804.51728,-0.40499118)" /><use
+   xlink:href="#ARES"
+   id="use10"
+   transform="translate(995.85412,-0.40499118)" /><use
+   xlink:href="#ARES"
+   id="use11"
+   transform="translate(1187.191,-0.40499118)" /><use
+   xlink:href="#ERIS"
+   id="use7-8"
+   transform="rotate(180,799.11579,397.57643)" /><use
+   xlink:href="#THEMIS"
+   id="use4-2"
+   transform="rotate(180,799.11581,320.83515)" /><use
+   xlink:href="#KHAOS"
+   id="use1-8"
+   transform="rotate(180,894.78423,397.77894)" /><use
+   xlink:href="#NEMEAS"
+   id="use1-3"
+   transform="rotate(180,799.10229,704.20402)" /><use
+   xlink:href="#HEKATE"
+   id="use7-7"
+   transform="translate(804.53079,153.0776)" /><use
+   xlink:href="#HEKATE"
+   id="use12"
+   transform="translate(995.86761,153.0776)" /><use
+   xlink:href="#HEKATE"
+   id="use13"
+   transform="translate(1187.2044,154.02658)" /><use
+   xlink:href="#HEKATE"
+   id="use14"
+   transform="translate(1378.5412,154.02658)" /><use
+   xlink:href="#TYCHE"
+   id="use2-9"
+   transform="rotate(180,607.77897,551.2615)" /><use
+   xlink:href="#AETHER"
+   id="use5-7"
+   transform="rotate(180,894.7842,474.31771)" /><use
+   xlink:href="#LERNA"
+   id="use1-29"
+   transform="rotate(180,799.10903,857.62108)" /><use
+   xlink:href="#HESPERIDES"
+   id="use1-12"
+   transform="rotate(180,1086.121,1012.1837)" /><use
+   xlink:href="#KERBEROS"
+   id="use4-1"
+   transform="translate(1034.2076,-306.24014)" /><use
+   xlink:href="#KERBEROS"
+   id="use15"
+   transform="translate(1225.5444,-306.24014)" /><use
+   xlink:href="#KERBEROS"
+   id="use16"
+   transform="translate(1416.8812,-306.24014)" /><use
+   xlink:href="#KERBEROS"
+   id="use19"
+   transform="translate(1608.218,-306.24014)" /><use
+   xlink:href="#ARIADNE"
+   id="use2-2"
+   transform="rotate(180,913.95424,244.32137)" /><use
+   xlink:href="#PROMETHEUS"
+   id="use6-1"
+   transform="rotate(180,1200.9662,398.34393)" /><use
+   xlink:href="#LIMOS"
+   id="use5-6"
+   transform="rotate(180,1392.303,398.34393)" /><use
+   xlink:href="#ATLAS"
+   id="use13-1"
+   transform="rotate(180,1200.9594,168.1201)" /><use
+   xlink:href="#KERBEROS"
+   id="use21"
+   transform="translate(1034.2077,-0.35497118)" /><use
+   xlink:href="#KERBEROS"
+   id="use22"
+   transform="translate(1225.5445,-0.35497118)" /><use
+   xlink:href="#KERBEROS"
+   id="use23"
+   transform="translate(1416.8813,-0.35497118)" /><use
+   xlink:href="#KERBEROS"
+   id="use24"
+   transform="translate(1608.2181,-0.35497118)" /><use
+   xlink:href="#ATHENA"
+   id="use4-90"
+   transform="rotate(180,913.95424,628.02777)" /><use
+   xlink:href="#KHAOS"
+   id="use1-5"
+   transform="rotate(180,1200.9663,397.26392)" /><use
+   xlink:href="#TETHIS"
+   id="use2-03"
+   transform="rotate(180,1392.303,628.02776)" /><use
+   xlink:href="#KERYNEIA"
+   id="use1-27"
+   transform="rotate(180,1392.303,704.76904)" /><use
+   xlink:href="#ARIADNE"
+   id="use2-3"
+   transform="translate(1608.2317,460.09271)" /><use
+   xlink:href="#ARIADNE"
+   id="use25"
+   transform="translate(1799.5684,460.09269)" /><use
+   xlink:href="#ARIADNE"
+   id="use26"
+   transform="translate(1990.9052,460.09271)" /><use
+   xlink:href="#ARIADNE"
+   id="use27"
+   transform="translate(2182.242,460.09271)" /><use
+   xlink:href="#POSEIDON"
+   id="use5-8"
+   transform="rotate(180,1009.6294,781.51032)" /><use
+   xlink:href="#IANUS"
+   id="use5-1"
+   transform="rotate(180,1105.2978,704.76905)" /><use
+   xlink:href="#ERMES"
+   id="use13-8"
+   transform="rotate(180,1200.9662,474.54523)" /><use
+   xlink:href="#THEMIS"
+   id="use4-94"
+   transform="rotate(180,1392.303,474.34269)" /><use
+   xlink:href="#ARIADNE"
+   id="use28"
+   transform="translate(2411.9324,-152.75755)" /><use
+   xlink:href="#ARIADNE"
+   id="use29"
+   transform="translate(2603.2691,-152.75757)" /><use
+   xlink:href="#AEGIS"
+   id="use2-49"
+   transform="rotate(180,1507.1482,475.08522)" /><use
+   xlink:href="#ERIMANTOS"
+   id="use1-91"
+   transform="rotate(180,1698.485,551.82649)" /><use
+   xlink:href="#MORPHEUS"
+   id="use3-59"
+   transform="translate(2411.9187,-306.24014)" /><use
+   xlink:href="#MORPHEUS"
+   id="use30"
+   transform="translate(2603.2555,-306.24014)" /><use
+   xlink:href="#ATHENA"
+   id="use4-5"
+   transform="rotate(180,1507.1414,475.08523)" /><use
+   xlink:href="#STYMPHALOS"
+   id="use1-35"
+   transform="rotate(180,1602.8098,628.56775)" /><use
+   xlink:href="#PROMETHEUS"
+   id="use6-7"
+   transform="translate(2029.2452,-152.75751)" /><use
+   xlink:href="#PROMETHEUS"
+   id="use31"
+   transform="translate(2220.5821,-152.75751)" /><use
+   xlink:href="#KHAOS"
+   id="use1-59"
+   transform="rotate(180,1507.1482,398.34392)" /><use
+   xlink:href="#AUGEIAS"
+   id="use1-93"
+   transform="rotate(180,1507.1482,782.05037)" /><use
+   xlink:href="#LIMOS"
+   id="use5-2"
+   transform="translate(2220.5821,-152.75751)" /><use
+   xlink:href="#LIMOS"
+   id="use32"
+   transform="translate(2411.9189,-152.75751)" /><use
+   xlink:href="#LIMOS"
+   id="use33"
+   transform="translate(1837.9085,154.20758)" /><use
+   xlink:href="#TYCHE"
+   id="use2-25"
+   transform="rotate(180,1602.8166,398.34395)" /><use
+   xlink:href="#THEMIS"
+   id="use4-13"
+   transform="rotate(180,1794.1535,321.40014)" /><use
+   xlink:href="#DIOMEDES"
+   id="use1-57"
+   transform="rotate(180,1507.1482,935.53294)" /><use
+   xlink:href="#MINOTAUROS"
+   id="use4-95"
+   transform="translate(2603.2692,307.69019)" /><use
+   xlink:href="#MINOTAUROS"
+   id="use34"
+   transform="translate(2794.6061,307.69019)" /><use
+   xlink:href="#MINOTAUROS"
+   id="use35"
+   transform="translate(2985.943,307.69014)" /><use
+   xlink:href="#MINOTAUROS"
+   id="use36"
+   transform="translate(3215.6331,-306.24009)" /><use
+   xlink:href="#MINOTAUROS"
+   id="use37"
+   transform="translate(3406.97,-306.24009)" /><use
+   xlink:href="#MINOTAUROS"
+   id="use39"
+   transform="translate(3598.3069,-306.24014)" /><use
+   xlink:href="#MINOTAUROS"
+   id="use40"
+   transform="translate(3789.6437,-306.24014)" /><use
+   xlink:href="#ATLAS"
+   id="use13-6"
+   transform="rotate(180,1411.473,475.0852)" /><use
+   xlink:href="#IANUS"
+   id="use5-08"
+   transform="rotate(180,1602.8166,705.30911)" /><use
+   xlink:href="#TYCHE"
+   id="use2-67"
+   transform="rotate(180,1698.485,551.82655)" /><use
+   xlink:href="#ERMES"
+   id="use13-7"
+   transform="rotate(180,1813.3301,168.12012)" /><use
+   xlink:href="#ATHENA"
+   id="use4-69"
+   transform="rotate(180,1813.3234,475.08523)" /><use
+   xlink:href="#AETHER"
+   id="use5-5"
+   transform="rotate(180,2196.0038,167.91763)" /><use
+   xlink:href="#KHAOS"
+   id="use1-7"
+   transform="rotate(180,2196.0039,244.86142)" /><use
+   xlink:href="#MINOTAUROS"
+   id="use41"
+   transform="translate(3215.633,0.72509374)" /><use
+   xlink:href="#HIPPOLITA"
+   id="use1-00"
+   transform="rotate(180,2004.6669,782.05039)" /><use
+   xlink:href="#ATLAS"
+   id="use13-3"
+   transform="translate(3406.97,307.6902)" /><use
+   xlink:href="#ATLAS"
+   id="use42"
+   transform="translate(3598.3068,307.69026)" /><use
+   xlink:href="#IANUS"
+   id="use5-138"
+   transform="rotate(180,1908.9985,551.82656)" /><use
+   xlink:href="#GERYION"
+   id="use1-80"
+   transform="rotate(180,2100.3353,858.79167)" /><use
+   xlink:href="#POSEIDON"
+   id="use5-48"
+   transform="translate(3598.2935,-306.23999)" /><use
+   xlink:href="#IANUS"
+   id="use5-01"
+   transform="translate(4019.3203,-459.72263)" /><use
+   xlink:href="#POSEIDON"
+   id="use43"
+   transform="translate(3024.2827,0.72510861)" /><use
+   xlink:href="#POSEIDON"
+   id="use44"
+   transform="translate(3215.6195,0.72510861)" /><use
+   xlink:href="#THEMIS"
+   id="use4-82"
+   transform="rotate(180,1908.9986,474.88274)" /><use
+   xlink:href="#KHAOS"
+   id="use1-918"
+   transform="rotate(180,2004.6669,551.82657)" /><use
+   xlink:href="#IANUS"
+   id="use5-89"
+   transform="translate(3406.9563,154.2077)" /><use
+   xlink:href="#IANUS"
+   id="use46"
+   transform="translate(3598.2935,154.2077)" /><use
+   xlink:href="#KHAOS"
+   id="use1-547"
+   transform="rotate(180,2406.5174,244.86143)" /><use
+   xlink:href="#NEMEAS"
+   id="use1-76"
+   transform="rotate(180,2004.6603,858.7917)" /><use
+   xlink:href="#IANUS"
+   id="use47"
+   transform="translate(3827.9835,-459.72269)" /><use
+   xlink:href="#HESPERIDES"
+   id="use1-22"
+   transform="rotate(180,2406.5174,705.30911)" /><use
+   xlink:href="#TYCHE"
+   id="use2-64"
+   transform="translate(3827.9837,154.2077)" /><use
+   xlink:href="#TYCHE"
+   id="use48"
+   transform="translate(4210.6571,-152.75757)" /><use
+   xlink:href="#TYCHE"
+   id="use49"
+   transform="translate(4401.9939,-152.75757)" /><use
+   xlink:href="#TYCHE"
+   id="use52"
+   transform="rotate(180,2100.3353,398.34395)" /><use
+   xlink:href="#TYCHE"
+   id="use62"
+   transform="translate(4019.3205,154.2077)" /><use
+   xlink:href="#ATHENA"
+   id="use4-946"
+   transform="rotate(180,2119.5055,628.56791)" /><use
+   xlink:href="#THEMIS"
+   id="use4-7"
+   transform="rotate(180,2502.1858,167.91764)" /><use
+   xlink:href="#AETHER"
+   id="use5-62"
+   transform="rotate(180,2693.5226,167.91763)" /><use
+   xlink:href="#LERNA"
+   id="use1-09"
+   transform="rotate(180,2310.849,705.30912)" /><use
+   xlink:href="#ERMES"
+   id="use13-5"
+   transform="translate(4210.6573,307.69026)" /><use
+   xlink:href="#ERMES"
+   id="use64"
+   transform="translate(4401.9941,307.69026)" /><use
+   xlink:href="#ATHENA"
+   id="use4-32"
+   transform="rotate(180,2310.8423,628.56783)" /><use
+   xlink:href="#KERYNEIA"
+   id="use1-26"
+   transform="rotate(180,2597.8542,705.30914)" /><use
+   xlink:href="#ATHENA"
+   id="use4-96"
+   transform="translate(4019.334,0.72513359)" /><use
+   xlink:href="#ATHENA"
+   id="use69"
+   transform="translate(4210.6708,0.72517359)" /><use
+   xlink:href="#AETHER"
+   id="use5-85"
+   transform="rotate(180,2406.5174,474.88278)" /><use
+   xlink:href="#KHAOS"
+   id="use1-86"
+   transform="rotate(180,2406.5174,551.82657)" /><use
+   xlink:href="#ERIS"
+   id="use7-71"
+   transform="translate(3827.9838,461.57783)" /><use
+   xlink:href="#ERIMANTOS"
+   id="use1-14"
+   transform="rotate(180,2597.8542,858.79174)" /><use
+   xlink:href="#THEMIS"
+   id="use4-06"
+   transform="translate(4210.6574,615.0604)" /><use
+   xlink:href="#STYMPHALOS"
+   id="use1-08"
+   transform="rotate(180,2406.5106,935.533)" /><use
+   xlink:href="#AETHER"
+   id="use5-81"
+   transform="rotate(180,2196.0037,474.88278)" /><use
+   xlink:href="#AETHER"
+   id="use70"
+   transform="translate(4249.0108,1.1300001)" /><use
+   xlink:href="#AUGEIAS"
+   id="use1-41"
+   transform="rotate(180,2617.031,628.56782)" /><use
+   xlink:href="#KHAOS"
+   id="use1-181"
+   transform="translate(4631.6844,-152.75757)" /><use
+   xlink:href="#AEGIS"
+   id="use2-46"
+   transform="translate(4823.0212,-613.20526)" /><use
+   xlink:href="#TETHIS"
+   id="use2-911"
+   transform="translate(4823.0212,-613.20526)" /><use
+   xlink:href="#DIOMEDES"
+   id="use1-64"
+   transform="rotate(180,2808.3678,628.56784)" /><use
+   xlink:href="#HIPPOLITA"
+   id="use1-16"
+   transform="rotate(180,2999.7046,628.56784)" /><use
+   xlink:href="#GERYION"
+   id="use1-178"
+   transform="rotate(180,2999.7046,705.30907)" /></svg>
