@@ -12,7 +12,7 @@ Daidalos és un joc de codi obert i no comercial. Qualsevol persona pot fer-ne u
 
 * [Com fer una còpia física del joc](#com-fer-una-còpia-física-del-joc)
 * [Instruccions del joc](#instruccions-del-joc)
-* [Com col·laborar](#com-col·laborar)
+* [Com col·laborar](#com-collaborar)
 * [Adaptacions temàtiques](#adaptacions-temàtiques)
 
 **No és possible robar allò que es regala**
