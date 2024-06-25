@@ -26,6 +26,7 @@ Per fer una còpia completa del joc fa falta el següent maquinari:
 
 A més hi ha altres elements del joc que s'han comprat o s'han fet a mà. Potser en un futur aquestes peces es podran també autofabricar.
 El muntatge dels elements requereix processos manuals per tallar, polir o enganxar diferents peces.
+També estaria bé fer unes instruccionsde muntatge, oi?
 
 ## Instruccions del joc
 
@@ -76,11 +77,11 @@ També hi ha sis rajoles de sortida que tenen els mateixos colors que les fitxes
 
 Hi ha d'haver fitxes de sis colors diferents. Segons com es facin les fitxes, la tematització del joc o les diferents versions poden variar, però en la versió bàsica cada color tindrà:
 
-* Cuatre fitxes normals
+* Cuatre fitxes normals o *Outis*
 * Una fitxa de *minotauros* marcada de color negre
 * Una fitxa de *Theseus* marcada de color blanc
-* Una fitxa de *??* marcada de color vermell
-* Una fitxa de *??* marcada de color verd
+* Una fitxa de *Heracles* marcada de color vermell
+* Una fitxa de *Ailos* marcada de color verd
 
 #### Proves
 
