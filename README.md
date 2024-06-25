@@ -10,10 +10,10 @@ Les normes del joc han anat evolucionant fins a l'estat actual, però la idea é
 
 Daidalos és un joc de codi obert i no comercial. Qualsevol persona pot fer-ne una còpia sense demanar permís, i també pot fer una còpia de qualsevol dels arxius que formen part d'aquest repositori i modificar-los. Teniu més detalls a la [llicència](https://github.com/daidalosjoc/daidalos/blob/main/LICENSE) (en anglès) o llegir més sobre les [llicències GNU](https://ca.wikipedia.org/wiki/GNU_General_Public_License) (en català).
 
-* [Com fer una còpia física del joc](#com-fer-una-c-pia-f-sica-del-joc)
+* [Com fer una còpia física del joc](#com-fer-una-còpia-física-del-joc)
 * [Instruccions del joc](#instruccions-del-joc)
-* [Com col·laborar](#com-col-laborar)
-* [Adaptacions temàtiques](#adaptacions-tem-tiques)
+* [Com col·laborar](#com-col·laborar)
+* [Adaptacions temàtiques](#adaptacions-temàtiques)
 
 **No és possible robar allò que es regala**
 
