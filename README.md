@@ -1,7 +1,31 @@
 # Daidalos
-Un joc de taula de codi obert
+
+**Un joc de taula de codi obert**
+
+Daidalos és el resultat d'una feina molt intermitent que va començar l'any 2013.
+
+En aquests moments (juny de 2024) només existeix una còpia del joc, però els arxius necessaris per fer-ne una còpia aviat es podran trobar tots en aquest repositori.
+
+Les normes del joc han anat evolucionant fins a l'estat actual, però la idea és que puguin conviure versions al gust de les diferents persones que hi juguin.
+
+Daidalos és un joc de codi obert i no comercial. Qualsevol persona pot fer-ne una còpia sense demanar permís, i també pot fer una còpia de qualsevol dels arxius que formen part d'aquest repositori i modificar-los. Teniu més detalls a la [llicència](https://github.com/daidalosjoc/daidalos/blob/main/LICENSE) (en anglès) o llegir més sobre les [llicències GNU](https://ca.wikipedia.org/wiki/GNU_General_Public_License) (en català).
+
+* [Com fer una còpia física del joc](#com-fer-una-c-pia-f-sica-del-joc)
+* [Instruccions del joc](#instruccions-del-joc)
+* [Com col·laborar](#com-col-laborar)
+* [Adaptacions temàtiques](#adaptacions-tem-tiques)
+
+**No és possible robar allò que es regala**
 
 ## Com fer una còpia física del joc
+
+Per fer una còpia completa del joc fa falta el següent maquinari:
+* Una impressora de paper per les cartes
+* Una talladora laser pel taulell, les rajoles i les proves
+* Una impressora 3D pels suports de les cartes
+
+A més hi ha altres elements del joc que s'han comprat o s'han fet a mà. Potser en un futur aquestes peces es podran també autofabricar.
+El muntatge dels elements requereix processos manuals per tallar, polir o enganxar diferents peces.
 
 ## Instruccions del joc
 
@@ -66,7 +90,7 @@ Les proves son peces composades per 2, 3 o 4 hexagons units amb diferents formes
 
 Hi ha dues baralles de cartes:
 
-Les cartes d'acció, amb dues accions a cada carta, i les cartes de ??, més petites.
+Les cartes d'acció, amb dues accions a cada carta, i les cartes de fortuna, més petites.
 
 ### Inici del joc
 
@@ -76,7 +100,7 @@ Cada persona tindrà les 8 fitxes del seu color i la casella de sortida del mate
 
 En l'ordre en que es jugarà, cada persona col·locarà la seva casella de sortida en un del vèrtexs. Després de la primera persona, les següents l'han de col·locar en un vèrtex contigu a un altre on ja hi hagi una rajola de sortida. Sobre cada rajola de sortida es col·locarà una fitxa normal del color corresponent.
 
-A cada persona se li donarà dues cartes d'acció i cinc de ??.
+A cada persona se li donarà dues cartes d'acció i cinc de fortuna.
 
 ### Dinàmica del torn
 
@@ -101,14 +125,30 @@ Les rajoles son les peces bàsiques del laberint i en cada partida es col·loque
 
 Podem diferenciar els següents tipus de rajoles:
 * Rajoles blanques. No tenen cap dibuix. No permeten que s'hi faci un canvi de direcció en el moviment: si s'arriba per un costat només es pot seguir pel costat oposat.
-* Rajoles amb direccions: n'hi ha amb 
+* Rajoles amb direccions: n'hi ha amb (continuarà)
 
 ## Com col·laborar
+
+Un cop publicada la base del joc (el *core*) se'n podran fer variacions, ja siguin físiques en els elements, en les regles del joc o en les adaptacions temàtiques.
+
+Si vols proposar una modificació o una variació pots fer-ho a l'apartat [Issues](https://github.com/daidalosjoc/daidalos/issues). També pots aportar modificacions a través dels [pull requests](https://github.com/daidalosjoc/daidalos/pulls)
 
 ## Adaptacions temàtiques
 
 ### Core
 
+És la versió actual. Està ambientada en la mitologia grega perquè es un tema prou neutre deixant que el joc se centri en la mecànica i no en la ambientació.
+
 ### Takeshi's castle
 
+És la versió que s'ha estat jugant fins el 2023. Funciona pràcticament igual que la primera versió del core.
+
 ### Labyrint
+
+La primera versió del joc estava ambientada en la película *Labyrint* de Jim Henson protagonitzada per moltes titelles... i el David Bowie també.
+
+Era molt diferent: tots els elements eren de cartró o paper i les rajoles eren quadrades en lloc d'exagonals. Però hi ha un element interessant a recuperar: no jugaven tots el jugadors contra tots sinó que tots col·laboraven per derrotar un que jugava sol en el paper del Rei Goblin.
+
+### Versió col·laborativa
+
+Tot i no tenir una temàtica definida, hi ha la idea de provar una versió on tothom treballa per aconseguir un objectiu comú. Mai s'ha provat.
