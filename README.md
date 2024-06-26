@@ -10,12 +10,12 @@ Les normes del joc han anat evolucionant fins a l'estat actual, però la idea é
 
 Daidalos és un joc de codi obert i no comercial. Qualsevol persona pot fer-ne una còpia sense demanar permís, i també pot fer una còpia de qualsevol dels arxius que formen part d'aquest repositori i modificar-los. Teniu més detalls a la [llicència](https://github.com/daidalosjoc/daidalos/blob/main/LICENSE) (en anglès) o llegir més sobre les [llicències GNU](https://ca.wikipedia.org/wiki/GNU_General_Public_License) (en català).
 
+**No és possible robar allò que es regala**
+
 * [Com fer una còpia física del joc](#com-fer-una-còpia-física-del-joc)
 * [Instruccions del joc](#instruccions-del-joc)
 * [Com col·laborar](#com-collaborar)
 * [Adaptacions temàtiques](#adaptacions-temàtiques)
-
-**No és possible robar allò que es regala**
 
 ## Com fer una còpia física del joc
 
@@ -132,7 +132,11 @@ Podem diferenciar els següents tipus de rajoles:
 
 Un cop publicada la base del joc (el *core*) se'n podran fer variacions, ja siguin físiques en els elements, en les regles del joc o en les adaptacions temàtiques.
 
-Si vols proposar una modificació o una variació pots fer-ho a l'apartat [Issues](https://github.com/daidalosjoc/daidalos/issues). També pots aportar modificacions a través dels [pull requests](https://github.com/daidalosjoc/daidalos/pulls)
+Per proposar una modificació o una variació pots fer-ho a l'apartat [Issues](https://github.com/daidalosjoc/daidalos/issues). També pots aportar modificacions a través dels [pull requests](https://github.com/daidalosjoc/daidalos/pulls)
+
+Si vols organitzar una presentació i partida del joc al teu espai, club, centre social o allà on t'agradi jugar, ens encantaria! 
+
+També pots contactar per correu electrònic: bacterio.worlds@gmail.com
 
 ## Adaptacions temàtiques
 
