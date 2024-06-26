@@ -2,6 +2,8 @@
 
 **Un joc de taula de codi obert**
 
+https://www.instagram.com/daidalos_joc
+
 Daidalos és el resultat d'una feina molt intermitent que va començar l'any 2013.
 
 En aquests moments (juny de 2024) només existeix una còpia del joc, però els arxius necessaris per fer-ne una còpia aviat es podran trobar tots en aquest repositori.
