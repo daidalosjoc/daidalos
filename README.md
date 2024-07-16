@@ -6,7 +6,7 @@ https://www.instagram.com/daidalos_joc
 
 Daidalos és el resultat d'una feina molt intermitent que va començar l'any 2013.
 
-En aquests moments (juny de 2024) només existeix una còpia del joc, però els arxius necessaris per fer-ne una còpia aviat es podran trobar tots en aquest repositori.
+En aquests moments (juny de 2024) només existeix una còpia del joc, però els arxius necessaris per fer-ne una còpia es podran trobar tots en aquest repositori.
 
 Les normes del joc han anat evolucionant fins a l'estat actual, però la idea és que puguin conviure versions al gust de les diferents persones que hi juguin.
 
@@ -24,7 +24,7 @@ Daidalos és un joc de codi obert i no comercial. Qualsevol persona pot fer-ne u
 Per fer una còpia completa del joc fa falta el següent maquinari:
 * Una impressora de paper per les cartes
 * Una talladora laser pel taulell, les rajoles i les proves
-* Una impressora 3D pels suports de les cartes
+* Una impressora 3D pels suports de les portes
 
 A més hi ha altres elements del joc que s'han comprat o s'han fet a mà. Potser en un futur aquestes peces es podran també autofabricar.
 El muntatge dels elements requereix processos manuals per tallar, polir o enganxar diferents peces.
@@ -52,7 +52,7 @@ Es composa de
 * Sis peces amb forma triangular. Totes amb una sola pestanya llevat d'una que no en té cap
 * Sis peces amb forma romboide. Totes tenen una sola pestanya llevat d'una que en té dues
 
-Començarem col·locant la peça central i l'envoltarem de peces trapezoidals fins a construir un segon hexagon. A continuació col·locarem la part exterior començant per la peça romboide amb dues pestanyes i anirem col·locant peces en el sentit de les agulles del rellotge, alternant triangles i romboides normals, dels d'una sola pestanya, i deixarem pel final el triangle amb dues pestanyes.
+Començarem col·locant la peça central i l'envoltarem de peces trapezoidals fins a construir un segon hexagon. A continuació col·locarem la part exterior començant per la peça romboide amb dues pestanyes i anirem col·locant peces en el sentit de les agulles del rellotge, alternant triangles i romboides normals, dels d'una sola pestanya, i deixarem pel final el triangle sense pestanyes.
 
 Per desmuntar-lo, començarem pel triangle sense pestanyes i seguirem en sentit contrari a les agulles del rellotge.
 
@@ -70,8 +70,10 @@ Les portes formen un altre hexagon. En cada costat d'aquest hexagon hi ha d'have
 Les rajoles han de repartir-se en dos sacs diferents. El més petit (o amb menys rajoles) l'anomenarem el sac del castell, l'altre serà el sac normal.
 
 Al sac normal hi ha d'haver:
+(falta la llista de peces)
 
 I al sac del castell:
+(falta la llista de peces)
 
 També hi ha sis rajoles de sortida que tenen els mateixos colors que les fitxes
 
@@ -83,7 +85,7 @@ Hi ha d'haver fitxes de sis colors diferents. Segons com es facin les fitxes, la
 * Una fitxa de *minotauros* marcada de color negre
 * Una fitxa de *Theseus* marcada de color blanc
 * Una fitxa de *Heracles* marcada de color vermell
-* Una fitxa de *Ailos* marcada de color verd
+* Una fitxa de *Ailos* marcada de color blau
 
 #### Proves
 
@@ -93,7 +95,7 @@ Les proves son peces composades per 2, 3 o 4 hexagons units amb diferents formes
 
 Hi ha dues baralles de cartes:
 
-Les cartes d'acció, amb dues accions a cada carta, i les cartes de fortuna, més petites.
+Les cartes d'acció, amb dues accions a cada carta, i les cartes de fortuna, quadrades i més petites.
 
 ### Inici del joc
 
